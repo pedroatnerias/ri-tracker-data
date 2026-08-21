@@ -1,20 +1,4 @@
 {
-  "updated_at_utc": "2026-08-21T14:20:08.216783+00:00",
-  "source_commit": "784a525caedb61aad7b29d0a493d2fb2c7febf7c",
-  "workflow_run_id": "32490540509",
-  "status": "success",
-  "warnings": [],
-  "components": {
-    "financial": {
-      "status": "success",
-      "updated": true
-    },
-    "operational": {
-      "status": "success",
-      "updated": true
-    }
-  },
-  "json_files_published": 17,
   "files": {
     "balanco": "balancos_itr_cvm_2022_2026.json",
     "dre": "DRE_ITR_CVM_ultimos_5_anos.json",
