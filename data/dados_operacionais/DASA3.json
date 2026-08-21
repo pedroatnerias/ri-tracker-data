@@ -1,0 +1,421 @@
+{
+  "ticker": "DASA3",
+  "companhia": "Dasa",
+  "fonte_pagina_ri": "https://www.dasa3.com.br/informacoes-financeiras/resultado-trimestral/",
+  "fonte_planilha": "https://api.mziq.com/mzfilemanager/v2/d/462fb86b-9204-4615-b834-120f3d454792/40cdf89c-0a60-4cda-5e9b-7ba07106e324?origin=2",
+  "arquivo_fundamentos": "40cdf89c-0a60-4cda-5e9b-7ba07106e324.xlsx",
+  "extraido_em_utc": "2026-08-21T13:35:04.602041+00:00",
+  "metricas": {
+    "Ticket Médio": [
+      {
+        "escopo": "2. Diagnósticos",
+        "fonte_linha": "Ticket médio (R$)",
+        "unidade": "R$",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "1T24": 18.020707642866153,
+          "2T24": 18.136518802748757,
+          "3T24": 18.19543805832756,
+          "4T24": 18.640171811402272,
+          "2024": 18.240360826838792,
+          "1T25": 17.675539568718268,
+          "2T25": 18.51662816944263,
+          "3T25": 18.309313683812515,
+          "4T25": 18.226626172079474,
+          "2025": 18.186628196925035,
+          "1T26": 17.80253952473646,
+          "2T26": 18.43355261626539,
+          "2026": 18.11320261547553
+        }
+      },
+      {
+        "escopo": "2.1 Diagnósticos - Escopo Atual",
+        "fonte_linha": "Ticket médio - Ambulatorial (R$)",
+        "unidade": "R$",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "1T25": 31.599769881752557,
+          "2T25": 34.160464312548854,
+          "3T25": 34.374316811762,
+          "4T25": 34.644536136640916,
+          "2025": 33.69477178567608,
+          "1T26": 33.19411815636792,
+          "2T26": 35.3,
+          "2026": 34.24705907818396
+        }
+      },
+      {
+        "escopo": "2.1 Diagnósticos - Escopo Atual",
+        "fonte_linha": "Ticket médio - B2B (R$)",
+        "unidade": "R$",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "1T25": 6.747467788726333,
+          "2T25": 6.77008603675744,
+          "3T25": 6.431535740157413,
+          "4T25": 6.648329436738318,
+          "2025": 6.649354750594877,
+          "1T26": 6.652894790566919,
+          "2T26": 6.7,
+          "2026": 6.67644739528346
+        }
+      },
+      {
+        "escopo": "2.1 Diagnósticos - Escopo Atual",
+        "fonte_linha": "Ticket médio (R$)",
+        "unidade": "R$",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "1T25": 17.675539568718268,
+          "2T25": 18.51662816944263,
+          "3T25": 18.309313683812515,
+          "4T25": 18.226626172079474,
+          "2025": 18.186628196925035,
+          "1T26": 17.80253952473646,
+          "2T26": 18.43355261626539,
+          "2026": 18.11320261547553
+        }
+      },
+      {
+        "escopo": "3. Hospitais NE",
+        "fonte_linha": "Ticket médio (R$)",
+        "unidade": "R$",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "1T24": 10909.899088648974,
+          "2T24": 11834.124647614712,
+          "3T24": 11524.621798876065,
+          "4T24": 12304.683844891146,
+          "2024": 11609.877608704912,
+          "1T25": 14145.723163162535,
+          "2T25": 13832.602541401451,
+          "3T25": 14575.27520922868,
+          "4T25": 14019.643285595861,
+          "2025": 14141.520437455749,
+          "1T26": 19647.992304486874,
+          "2T26": 19596.659539361906,
+          "2026": 19621.988416296088
+        }
+      },
+      {
+        "escopo": "3.1 Hospitais NE - Escopo Atual",
+        "fonte_linha": "Ticket médio (R$)",
+        "unidade": "R$",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "1T25": 8244.573901921232,
+          "2T25": 8066.039666098464,
+          "3T25": 8778.174343840627,
+          "4T25": 8815.97561424832,
+          "2025": 8476.19088152716,
+          "1T26": 8833.1834005233,
+          "2T26": 9256.30411648103,
+          "2026": 9044.743758502165
+        }
+      },
+      {
+        "escopo": "4. Rede Américas",
+        "fonte_linha": "Ticket médio (R$)",
+        "unidade": "R$",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "2T25": 11214.211341923598,
+          "3T25": 11762.483128589847,
+          "4T25": 11907.232682621305,
+          "2025": 14105.749505848098,
+          "1T26": 12319.78475967833,
+          "2T26": 12548.560812060043
+        }
+      }
+    ],
+    "N. Atendimentos": [],
+    "N. Unidades": [
+      {
+        "escopo": "2. Diagnósticos",
+        "fonte_linha": "Unidades de atendimento",
+        "unidade": "unidades",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "1T24": 884,
+          "2T24": 870,
+          "3T24": 862,
+          "4T24": 855,
+          "2024": 855,
+          "1T25": 849,
+          "2T25": 846,
+          "3T25": 849,
+          "4T25": 840,
+          "2025": 849,
+          "1T26": 838,
+          "2T26": 833,
+          "2026": 0
+        }
+      },
+      {
+        "escopo": "2.1 Diagnósticos - Escopo Atual",
+        "fonte_linha": "Unidades de atendimento",
+        "unidade": "unidades",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "1T25": 849,
+          "2T25": 846,
+          "3T25": 849,
+          "4T25": 840,
+          "2025": 849,
+          "1T26": 838,
+          "2T26": 833,
+          "2026": 0
+        }
+      }
+    ],
+    "N. Pacientes": [
+      {
+        "escopo": "3. Hospitais NE",
+        "fonte_linha": "Pacientes-Dia (mil)",
+        "unidade": "pacientes",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "1T24": 43441,
+          "2T24": 43915,
+          "3T24": 41832.85076365953,
+          "4T24": 34724,
+          "2024": 163912.85076365952,
+          "1T25": 31772,
+          "2T25": 36291,
+          "3T25": 35368,
+          "4T25": 34983,
+          "2025": 138414,
+          "1T26": 10319,
+          "2T26": 10594,
+          "2026": 20913
+        }
+      },
+      {
+        "escopo": "3.1 Hospitais NE - Escopo Atual",
+        "fonte_linha": "Pacientes-Dia (mil)",
+        "unidade": "pacientes",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "1T25": 9421,
+          "2T25": 9973,
+          "3T25": 10691,
+          "4T25": 10696,
+          "2025": 10195.25,
+          "1T26": 10319,
+          "2T26": 10594,
+          "2026": 10456.5
+        }
+      },
+      {
+        "escopo": "4. Rede Américas",
+        "fonte_linha": "Pacientes-Dia (mil)",
+        "unidade": "pacientes",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "2T25": 288854,
+          "3T25": 290054,
+          "4T25": 281799,
+          "2025": 860707,
+          "1T26": 274195,
+          "2T26": 278009
+        }
+      }
+    ],
+    "Receita Bruta": [
+      {
+        "escopo": "1. DRE DASA",
+        "fonte_linha": "Receita bruta",
+        "unidade": "R$ milhões",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "1T24": 4069.2352527000003,
+          "2T24": 4306.01693531983,
+          "3T24": 4319.966279218263,
+          "4T24": 4104.391462941237,
+          "2024": 16799.60993017933,
+          "1T25": 4213.45719331,
+          "2T25": 2691.9049608200003,
+          "3T25": 2848.7346767399995,
+          "4T25": 2492.455128860004,
+          "2025": 12246.551959730004,
+          "1T26": 2400.3084395099995,
+          "2T26": 2414.25426699,
+          "2026": 4814.562706499999
+        }
+      },
+      {
+        "escopo": "1.1 DRE DASA - Escopo Atual",
+        "fonte_linha": "Receita bruta",
+        "unidade": "R$ milhões",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "1T25": 2104.3939774799946,
+          "2T25": 2236.4429433600008,
+          "3T25": 2411.24298598,
+          "4T25": 2214.80343870603,
+          "2025": 8966.883345526026,
+          "1T26": 2400.3084395099995,
+          "2T26": 2414.25426699,
+          "2026": 4814.562706499999
+        }
+      },
+      {
+        "escopo": "2. Diagnósticos",
+        "fonte_linha": "Receita bruta",
+        "unidade": "R$ milhões",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "1T24": 1901.9920967850164,
+          "2T24": 2022.6012672545132,
+          "3T24": 2046.8152422969438,
+          "4T24": 1959.400941398792,
+          "2024": 7930.809547735265,
+          "1T25": 2031.5734962199947,
+          "2T25": 2138.0578812200006,
+          "3T25": 2285.9132367499997,
+          "4T25": 2002.0059477960303,
+          "2025": 8457.550561986025,
+          "1T26": 2197.5608069199993,
+          "2T26": 2206.6472558299997,
+          "3T26": 0,
+          "4T26": 0,
+          "2026": 4404.208062749999
+        }
+      },
+      {
+        "escopo": "2.1 Diagnósticos - Escopo Atual",
+        "fonte_linha": "Receita bruta",
+        "unidade": "R$ milhões",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "1T25": 1905.7721160099948,
+          "2T25": 2020.0965661100006,
+          "3T25": 2195.33123894,
+          "4T25": 2002.0059477960303,
+          "2025": 8123.2058688560255,
+          "1T26": 2197.5608069199993,
+          "2T26": 2206.6472558299997,
+          "3T26": 0,
+          "4T26": 0,
+          "2026": 4404.208062749999
+        }
+      },
+      {
+        "escopo": "3. Hospitais NE",
+        "fonte_linha": "Receita bruta",
+        "unidade": "R$ milhões",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "1T24": 473.93692631000005,
+          "2T24": 519.6955839000001,
+          "3T24": 482.1077838199999,
+          "4T24": 427.2678418300002,
+          "2024": 1903.0081358600003,
+          "1T25": 449.43791634,
+          "2T25": 501.99897883000006,
+          "3T25": 515.4983335999999,
+          "4T25": 490.44918106,
+          "2025": 1957.3844098299999,
+          "1T26": 202.74763259000002,
+          "2T26": 207.60701116,
+          "2026": 410.35464375000004
+        }
+      },
+      {
+        "escopo": "3.1 Hospitais NE - Escopo Atual",
+        "fonte_linha": "Receita bruta",
+        "unidade": "R$ milhões",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "1T25": 198.62186147000003,
+          "2T25": 216.34637725,
+          "3T25": 215.91174704000002,
+          "4T25": 212.79749090999996,
+          "2025": 843.67747667,
+          "1T26": 202.74763259000002,
+          "2T26": 207.60701116,
+          "2026": 410.35464375000004
+        }
+      },
+      {
+        "escopo": "4. Rede Américas",
+        "fonte_linha": "Receita bruta",
+        "unidade": "R$ milhões",
+        "calculado": false,
+        "confidence": "high",
+        "extraction_method": "spreadsheet_labeled_row",
+        "requires_review": false,
+        "serie": {
+          "1T24": 2102.661679829999,
+          "2T24": 2221.5182076399997,
+          "3T24": 2224.2446879000004,
+          "4T24": 2079.0987024700007,
+          "2024": 8627.523277839999,
+          "1T25": 2134.4459928600004,
+          "2T25": 3239.2698029599987,
+          "3T25": 3411.75528138,
+          "4T25": 3355.446262730001,
+          "2025": 12140.917339929998,
+          "1T26": 3378.0233821799998,
+          "2T26": 3488.6128428,
+          "2026": 6866.63622498
+        }
+      }
+    ],
+    "Glosa/PCLD": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "updated_at_utc": "2026-08-21T13:36:52.623898+00:00",
+  "source_commit": "9542c87f53dc07666a98c3d1770ea105f62b960a",
+  "workflow_run_id": "32486655124",
+  "status": "success",
+  "warnings": [],
+  "components": {
+    "financial": {
+      "status": "success",
+      "updated": true
+    },
+    "operational": {
+      "status": "success",
+      "updated": true
+    }
+  },
+  "json_files_published": 16
+}

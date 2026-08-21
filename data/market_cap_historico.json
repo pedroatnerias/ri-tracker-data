@@ -1,0 +1,937 @@
+{
+  "metadata": {
+    "fonte": "CVM - ITR/DFP - composicao do capital",
+    "campo_cvm": "QT_ACAO_TOTAL_CAP_INTEGR",
+    "fonte_preco": "Yahoo Finance via yfinance",
+    "campo_preco": "Close",
+    "criterio_preco": "fechamento da data de referencia; se nao houver pregao, ultimo fechamento anterior",
+    "data_inicial": "2022-01-01",
+    "gerado_em_utc": "2026-08-21T13:36:29.586480+00:00"
+  },
+  "empresas": {
+    "AALR3": {
+      "cnpj": "42.771.949/0001-35",
+      "denominacao": "ALLIANÇA SAÚDE E PARTICIPAÇÕES S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 118292816,
+          "fonte_documento": "ITR",
+          "preco_acao": 17.950001,
+          "data_preco": "2022-03-31"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 118292816,
+          "fonte_documento": "ITR",
+          "preco_acao": 19.51,
+          "data_preco": "2022-06-30"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 118292816,
+          "fonte_documento": "ITR",
+          "preco_acao": 20.98,
+          "data_preco": "2022-09-30"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 118292816,
+          "fonte_documento": "DFP",
+          "preco_acao": 21.6,
+          "data_preco": "2022-12-29"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 118292816,
+          "fonte_documento": "ITR",
+          "preco_acao": 22.530001,
+          "data_preco": "2023-03-31"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 118292816,
+          "fonte_documento": "ITR",
+          "preco_acao": 23.799999,
+          "data_preco": "2023-06-30"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 118292816,
+          "fonte_documento": "ITR",
+          "preco_acao": 9.77,
+          "data_preco": "2023-09-29"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 118292816,
+          "fonte_documento": "DFP",
+          "preco_acao": 10.4,
+          "data_preco": "2023-12-28"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 118292816,
+          "fonte_documento": "ITR",
+          "preco_acao": 9.17,
+          "data_preco": "2024-03-28"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 118292816,
+          "fonte_documento": "ITR",
+          "preco_acao": 10.39,
+          "data_preco": "2024-06-28"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 118292816,
+          "fonte_documento": "ITR",
+          "preco_acao": 15.4,
+          "data_preco": "2024-09-30"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 118292816,
+          "fonte_documento": "DFP",
+          "preco_acao": 8.55,
+          "data_preco": "2024-12-30"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 152359482,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.76,
+          "data_preco": "2025-03-31"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 152359482,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.97,
+          "data_preco": "2025-06-30"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 152359482,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.54,
+          "data_preco": "2025-09-30"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 152359482,
+          "fonte_documento": "DFP",
+          "preco_acao": 5.05,
+          "data_preco": "2025-12-30"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": null,
+          "fonte_documento": null,
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": null,
+          "fonte_documento": null,
+          "preco_acao": null,
+          "data_preco": null
+        }
+      ]
+    },
+    "DASA3": {
+      "cnpj": "61.486.650/0001-83",
+      "denominacao": "DIAGNOSTICOS DA AMERICA S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 560578264,
+          "fonte_documento": "ITR",
+          "preco_acao": 22.950001,
+          "data_preco": "2022-03-31"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 560578264,
+          "fonte_documento": "ITR",
+          "preco_acao": 15.29,
+          "data_preco": "2022-06-30"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 560578264,
+          "fonte_documento": "ITR",
+          "preco_acao": 18.860001,
+          "data_preco": "2022-09-30"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 560578264,
+          "fonte_documento": "DFP",
+          "preco_acao": 13.73,
+          "data_preco": "2022-12-29"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 555942170,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.47,
+          "data_preco": "2023-03-31"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 752799844,
+          "fonte_documento": "ITR",
+          "preco_acao": 11.83,
+          "data_preco": "2023-06-30"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 752799844,
+          "fonte_documento": "ITR",
+          "preco_acao": 12.37,
+          "data_preco": "2023-09-29"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 752799844,
+          "fonte_documento": "DFP",
+          "preco_acao": 9.62,
+          "data_preco": "2023-12-28"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 752799844,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.13,
+          "data_preco": "2024-03-28"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 752799844,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.77,
+          "data_preco": "2024-06-28"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 752799844,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.69,
+          "data_preco": "2024-09-30"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 1255006644,
+          "fonte_documento": "DFP",
+          "preco_acao": 1.9,
+          "data_preco": "2024-12-30"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 1255006644,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.84,
+          "data_preco": "2025-03-31"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 1255006644,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.31,
+          "data_preco": "2025-06-30"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 1255007048,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.29,
+          "data_preco": "2025-09-30"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 1255007048,
+          "fonte_documento": "DFP",
+          "preco_acao": 4.54,
+          "data_preco": "2025-12-30"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 1255007048,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.92,
+          "data_preco": "2026-03-31"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 1255007048,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.71,
+          "data_preco": "2026-06-30"
+        }
+      ]
+    },
+    "FLRY3": {
+      "cnpj": "60.840.055/0001-31",
+      "denominacao": "FLEURY S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 317943996,
+          "fonte_documento": "ITR",
+          "preco_acao": 15.097232,
+          "data_preco": "2022-03-31"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 317943996,
+          "fonte_documento": "ITR",
+          "preco_acao": 15.370698,
+          "data_preco": "2022-06-30"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 318137880,
+          "fonte_documento": "ITR",
+          "preco_acao": 16.672022,
+          "data_preco": "2022-09-30"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 367197096,
+          "fonte_documento": "DFP",
+          "preco_acao": 14.714285,
+          "data_preco": "2022-12-29"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 367197096,
+          "fonte_documento": "ITR",
+          "preco_acao": 13.828571,
+          "data_preco": "2023-03-31"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 547185685,
+          "fonte_documento": "ITR",
+          "preco_acao": 16.049999,
+          "data_preco": "2023-06-30"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 547191026,
+          "fonte_documento": "ITR",
+          "preco_acao": 15.15,
+          "data_preco": "2023-09-29"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 547191026,
+          "fonte_documento": "DFP",
+          "preco_acao": 18.040001,
+          "data_preco": "2023-12-28"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 547191026,
+          "fonte_documento": "ITR",
+          "preco_acao": 15.0,
+          "data_preco": "2024-03-28"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 547191026,
+          "fonte_documento": "ITR",
+          "preco_acao": 15.03,
+          "data_preco": "2024-06-28"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 547191026,
+          "fonte_documento": "ITR",
+          "preco_acao": 15.43,
+          "data_preco": "2024-09-30"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 547191026,
+          "fonte_documento": "DFP",
+          "preco_acao": 12.07,
+          "data_preco": "2024-12-30"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 547191026,
+          "fonte_documento": "ITR",
+          "preco_acao": 11.7,
+          "data_preco": "2025-03-31"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 547191026,
+          "fonte_documento": "ITR",
+          "preco_acao": 13.02,
+          "data_preco": "2025-06-30"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 547191026,
+          "fonte_documento": "ITR",
+          "preco_acao": 16.139999,
+          "data_preco": "2025-09-30"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 547191026,
+          "fonte_documento": "DFP",
+          "preco_acao": 15.0,
+          "data_preco": "2025-12-30"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 547191026,
+          "fonte_documento": "ITR",
+          "preco_acao": 15.93,
+          "data_preco": "2026-03-31"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 547191026,
+          "fonte_documento": "ITR",
+          "preco_acao": 15.4,
+          "data_preco": "2026-06-30"
+        }
+      ]
+    },
+    "HAPV3": {
+      "cnpj": "05.197.443/0001-38",
+      "denominacao": "HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 7142378316,
+          "fonte_documento": "ITR",
+          "preco_acao": 177.600006,
+          "data_preco": "2022-03-31"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 7142378316,
+          "fonte_documento": "ITR",
+          "preco_acao": 82.049995,
+          "data_preco": "2022-06-30"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 7142378316,
+          "fonte_documento": "ITR",
+          "preco_acao": 113.549995,
+          "data_preco": "2022-09-30"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 7144255743,
+          "fonte_documento": "DFP",
+          "preco_acao": 76.199997,
+          "data_preco": "2022-12-29"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 7144255843,
+          "fonte_documento": "ITR",
+          "preco_acao": 39.299999,
+          "data_preco": "2023-03-31"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 7539463263,
+          "fonte_documento": "ITR",
+          "preco_acao": 65.699997,
+          "data_preco": "2023-06-30"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 7539463263,
+          "fonte_documento": "ITR",
+          "preco_acao": 70.5,
+          "data_preco": "2023-09-29"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 7539463263,
+          "fonte_documento": "DFP",
+          "preco_acao": 66.75,
+          "data_preco": "2023-12-28"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 7539463263,
+          "fonte_documento": "ITR",
+          "preco_acao": 55.5,
+          "data_preco": "2024-03-28"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 7539463263,
+          "fonte_documento": "ITR",
+          "preco_acao": 57.450001,
+          "data_preco": "2024-06-28"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 7539463263,
+          "fonte_documento": "ITR",
+          "preco_acao": 60.0,
+          "data_preco": "2024-09-30"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 7539463263,
+          "fonte_documento": "DFP",
+          "preco_acao": 33.450001,
+          "data_preco": "2024-12-30"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 7539463263,
+          "fonte_documento": "ITR",
+          "preco_acao": 33.149998,
+          "data_preco": "2025-03-31"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 502630884,
+          "fonte_documento": "ITR",
+          "preco_acao": 36.849998,
+          "data_preco": "2025-06-30"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 502630884,
+          "fonte_documento": "ITR",
+          "preco_acao": 35.849998,
+          "data_preco": "2025-09-30"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 502630884,
+          "fonte_documento": "DFP",
+          "preco_acao": 14.73,
+          "data_preco": "2025-12-30"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 502630884,
+          "fonte_documento": "ITR",
+          "preco_acao": 10.1,
+          "data_preco": "2026-03-31"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 502630884,
+          "fonte_documento": "ITR",
+          "preco_acao": 10.21,
+          "data_preco": "2026-06-30"
+        }
+      ]
+    },
+    "MATD3": {
+      "cnpj": "16.676.520/0001-59",
+      "denominacao": "HOSPITAL MATER DEI S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 382329821,
+          "fonte_documento": "ITR",
+          "preco_acao": 16.27,
+          "data_preco": "2022-03-31"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 382329821,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.63,
+          "data_preco": "2022-06-30"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 355057093,
+          "fonte_documento": "ITR",
+          "preco_acao": 8.7,
+          "data_preco": "2022-09-30"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 382329821,
+          "fonte_documento": "DFP",
+          "preco_acao": 7.21,
+          "data_preco": "2022-12-29"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 382329821,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.85,
+          "data_preco": "2023-03-31"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 382329821,
+          "fonte_documento": "ITR",
+          "preco_acao": 10.66,
+          "data_preco": "2023-06-30"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 382329821,
+          "fonte_documento": "ITR",
+          "preco_acao": 8.7,
+          "data_preco": "2023-09-29"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 382329821,
+          "fonte_documento": "DFP",
+          "preco_acao": 8.35,
+          "data_preco": "2023-12-28"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 382329821,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.84,
+          "data_preco": "2024-03-28"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 382329821,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.55,
+          "data_preco": "2024-06-28"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 357669194,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.37,
+          "data_preco": "2024-09-30"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 345157525,
+          "fonte_documento": "DFP",
+          "preco_acao": 3.64,
+          "data_preco": "2024-12-30"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 339428025,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.85,
+          "data_preco": "2025-03-31"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 339428025,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.71,
+          "data_preco": "2025-06-30"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 333548825,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.59,
+          "data_preco": "2025-09-30"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 333548825,
+          "fonte_documento": "DFP",
+          "preco_acao": 5.26,
+          "data_preco": "2025-12-30"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 333548825,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.73,
+          "data_preco": "2026-03-31"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 333548825,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.84,
+          "data_preco": "2026-06-30"
+        }
+      ]
+    },
+    "ONCO3": {
+      "cnpj": "12.104.241/0004-02",
+      "denominacao": "ONCOCLÍNICAS DO BRASIL SERVIÇOS MÉDICOS S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 495357723,
+          "fonte_documento": "ITR",
+          "preco_acao": 10.557585,
+          "data_preco": "2022-03-31"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 495357723,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.558957,
+          "data_preco": "2022-06-30"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 498185317,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.388538,
+          "data_preco": "2022-09-30"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 494939864,
+          "fonte_documento": "DFP",
+          "preco_acao": 6.028621,
+          "data_preco": "2022-12-29"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 494939864,
+          "fonte_documento": "ITR",
+          "preco_acao": 8.12814,
+          "data_preco": "2023-03-31"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 527481598,
+          "fonte_documento": "ITR",
+          "preco_acao": 10.1,
+          "data_preco": "2023-06-30"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 527481598,
+          "fonte_documento": "ITR",
+          "preco_acao": 11.48,
+          "data_preco": "2023-09-29"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 527481598,
+          "fonte_documento": "DFP",
+          "preco_acao": 13.0,
+          "data_preco": "2023-12-28"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 527481598,
+          "fonte_documento": "ITR",
+          "preco_acao": 8.85,
+          "data_preco": "2024-03-28"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 527481598,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.18,
+          "data_preco": "2024-06-28"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 651756313,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.51,
+          "data_preco": "2024-09-30"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 651756313,
+          "fonte_documento": "DFP",
+          "preco_acao": 2.34,
+          "data_preco": "2024-12-30"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 651756313,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.07,
+          "data_preco": "2025-03-31"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 651756313,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.13,
+          "data_preco": "2025-06-30"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 651756313,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.195166,
+          "data_preco": "2025-09-30"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 1132929494,
+          "fonte_documento": "DFP",
+          "preco_acao": 2.71,
+          "data_preco": "2025-12-30"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 1132929494,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.54,
+          "data_preco": "2026-03-31"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 1135097787,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.23,
+          "data_preco": "2026-06-30"
+        }
+      ]
+    },
+    "RDOR3": {
+      "cnpj": "06.047.087/0001-39",
+      "denominacao": "REDE D'OR SÃO LUIZ S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 2010367155,
+          "fonte_documento": "ITR",
+          "preco_acao": 49.900002,
+          "data_preco": "2022-03-31"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 2010367155,
+          "fonte_documento": "ITR",
+          "preco_acao": 28.98,
+          "data_preco": "2022-06-30"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 2010367155,
+          "fonte_documento": "ITR",
+          "preco_acao": 29.719999,
+          "data_preco": "2022-09-30"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 2289292590,
+          "fonte_documento": "DFP",
+          "preco_acao": 29.58,
+          "data_preco": "2022-12-29"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 2289292590,
+          "fonte_documento": "ITR",
+          "preco_acao": 21.24,
+          "data_preco": "2023-03-31"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 2289292590,
+          "fonte_documento": "ITR",
+          "preco_acao": 32.919998,
+          "data_preco": "2023-06-30"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 2289292590,
+          "fonte_documento": "ITR",
+          "preco_acao": 25.41,
+          "data_preco": "2023-09-29"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 2289292590,
+          "fonte_documento": "DFP",
+          "preco_acao": 28.76,
+          "data_preco": "2023-12-28"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 2289292590,
+          "fonte_documento": "ITR",
+          "preco_acao": 25.309999,
+          "data_preco": "2024-03-28"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 2289292590,
+          "fonte_documento": "ITR",
+          "preco_acao": 27.200001,
+          "data_preco": "2024-06-28"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 2289292590,
+          "fonte_documento": "ITR",
+          "preco_acao": 30.93,
+          "data_preco": "2024-09-30"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 2289292590,
+          "fonte_documento": "DFP",
+          "preco_acao": 25.42,
+          "data_preco": "2024-12-30"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 2289292590,
+          "fonte_documento": "ITR",
+          "preco_acao": 28.200001,
+          "data_preco": "2025-03-31"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 2289292590,
+          "fonte_documento": "ITR",
+          "preco_acao": 35.419998,
+          "data_preco": "2025-06-30"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 2289292590,
+          "fonte_documento": "ITR",
+          "preco_acao": 42.080002,
+          "data_preco": "2025-09-30"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 2289292590,
+          "fonte_documento": "DFP",
+          "preco_acao": 40.610001,
+          "data_preco": "2025-12-30"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 2289292590,
+          "fonte_documento": "ITR",
+          "preco_acao": 38.970001,
+          "data_preco": "2026-03-31"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 2240292590,
+          "fonte_documento": "ITR",
+          "preco_acao": 34.709999,
+          "data_preco": "2026-06-30"
+        }
+      ]
+    }
+  }
+}

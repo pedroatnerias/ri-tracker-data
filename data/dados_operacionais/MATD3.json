@@ -1,0 +1,64 @@
+{
+  "ticker": "MATD3",
+  "companhia": "Rede Mater Dei",
+  "fonte_pagina_ri": "https://ri.materdei.com.br/informacoes-aos-acionistas/central-de-resultados/",
+  "fonte_planilha": null,
+  "arquivo_fundamentos": null,
+  "fonte_alternativa": "Markdown gerado pelo app_parser_operacional.py",
+  "erro_planilha": "nenhum link candidato a planilha foi encontrado",
+  "extraido_em_utc": "2026-08-21T13:33:10.378302+00:00",
+  "metricas": {
+    "Ticket Médio": [],
+    "N. Atendimentos": [],
+    "N. Unidades": [],
+    "N. Pacientes": [],
+    "Receita Bruta": [
+      {
+        "escopo": "Release/relatório",
+        "fonte_linha": "|**Receita bruta**|**688,5**<br>**609,9**<br>**12,9%**<br>**644,3**<br>**6,9%**<br>**1.332,8**<br>**1.170,2**<br>**13,9%**|",
+        "fonte_documento": "Releases e relatórios/Saída/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+        "unidade": "R$ milhares",
+        "calculado": false,
+        "confidence": "medium",
+        "extraction_method": "markdown_contextual",
+        "requires_review": false,
+        "serie": {
+          "2T25": 609.9,
+          "1T26": 644.3,
+          "2T26": 688.5
+        }
+      }
+    ],
+    "Glosa/PCLD": [
+      {
+        "escopo": "Release/relatório",
+        "fonte_linha": "|Impostos, deduções e glosas|(74,8)<br>(64,1)<br>16,8%<br>(69,4)<br>7,9%<br>(144,2)<br>(125,1)<br>15,3%|",
+        "fonte_documento": "Releases e relatórios/Saída/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+        "unidade": "R$ milhares",
+        "calculado": false,
+        "confidence": "medium",
+        "extraction_method": "markdown_contextual",
+        "requires_review": false,
+        "serie": {
+          "2T25": -64.1,
+          "1T26": -69.4,
+          "2T26": -74.8
+        }
+      },
+      {
+        "escopo": "Release/relatório",
+        "fonte_linha": "Provisão para créditos de liquidação duvidosa **(10.128)** (5.038) **(12.913)** (9.559)",
+        "fonte_documento": "Releases e relatórios/Saída/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+        "unidade": "R$ milhares",
+        "calculado": false,
+        "confidence": "medium",
+        "extraction_method": "markdown_contextual",
+        "requires_review": false,
+        "serie": {
+          "2025": -5.038,
+          "2026": -10.128
+        }
+      }
+    ]
+  }
+}
