@@ -6,13 +6,82 @@
   "arquivo_fundamentos": null,
   "fonte_alternativa": "Markdown gerado pelo app_parser_operacional.py",
   "erro_planilha": "nenhum link candidato a planilha foi encontrado",
-  "extraido_em_utc": "2026-08-21T14:16:19.718844+00:00",
+  "extraido_em_utc": "2026-08-21T17:34:12.869817+00:00",
   "metricas": {
     "Ticket Médio": [],
     "N. Atendimentos": [],
     "N. Unidades": [],
     "N. Pacientes": [],
     "Receita Bruta": [
+      {
+        "escopo": "Release/relatório",
+        "fonte_linha": "Receita bruta de serviços hospitalares **999.711** 873.223 **1.332.783** 1.170.217",
+        "fonte_documento": "Releases e relatórios/Saída/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+        "unidade": "R$ milhares",
+        "calculado": false,
+        "confidence": "medium",
+        "extraction_method": "markdown_contextual",
+        "requires_review": false,
+        "serie": {
+          "2025": 873.223,
+          "2026": 999.711
+        },
+        "nature": "reported",
+        "mapping_type": "exact_label",
+        "confidence_score": 76,
+        "observations": [
+          {
+            "metric": "Receita Bruta",
+            "nature": "reported",
+            "original_label": "Receita bruta de serviços hospitalares **999.711** 873.223 **1.332.783** 1.170.217",
+            "original_value": 873.223,
+            "normalized_value": 873.223,
+            "unit": "R$ milhares",
+            "period": "2025",
+            "period_type": "annual",
+            "measurement_basis": "period_value",
+            "scope": "Release/relatório",
+            "document": "Releases e relatórios/Saída/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+            "page": null,
+            "source_context": "Release/relatório itr - informacoes trimestrais - 30/06/2026 - hospital mater dei s.a. versao : 1 **notas explicativas** **hospital mater dei s.a.** demonstracoes do valor adicionado periodos findos em 30 de junho de 2026 e 2025 (em milhares de reais) **<u>controladora</u>** **<u>consolidado</u>** **<u>30/06/2026</u>** <u>30/06/2025</u> **<u>30/06/2026</u>** <u>30/06/2025</u> receitas receita bruta de servicos hospitalares **999.711** 873.223 **1.332.783** 1.170.217",
+            "mapping_type": "exact_label",
+            "proxy_for": null,
+            "formula": null,
+            "inputs": {},
+            "confidence": "medium",
+            "confidence_score": 76,
+            "requires_review": false,
+            "rejection_reason": null,
+            "status": "validated",
+            "extraction_method": "markdown_contextual"
+          },
+          {
+            "metric": "Receita Bruta",
+            "nature": "reported",
+            "original_label": "Receita bruta de serviços hospitalares **999.711** 873.223 **1.332.783** 1.170.217",
+            "original_value": 999.711,
+            "normalized_value": 999.711,
+            "unit": "R$ milhares",
+            "period": "2026",
+            "period_type": "annual",
+            "measurement_basis": "period_value",
+            "scope": "Release/relatório",
+            "document": "Releases e relatórios/Saída/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+            "page": null,
+            "source_context": "Release/relatório itr - informacoes trimestrais - 30/06/2026 - hospital mater dei s.a. versao : 1 **notas explicativas** **hospital mater dei s.a.** demonstracoes do valor adicionado periodos findos em 30 de junho de 2026 e 2025 (em milhares de reais) **<u>controladora</u>** **<u>consolidado</u>** **<u>30/06/2026</u>** <u>30/06/2025</u> **<u>30/06/2026</u>** <u>30/06/2025</u> receitas receita bruta de servicos hospitalares **999.711** 873.223 **1.332.783** 1.170.217",
+            "mapping_type": "exact_label",
+            "proxy_for": null,
+            "formula": null,
+            "inputs": {},
+            "confidence": "medium",
+            "confidence_score": 76,
+            "requires_review": false,
+            "rejection_reason": null,
+            "status": "validated",
+            "extraction_method": "markdown_contextual"
+          }
+        ]
+      },
       {
         "escopo": "Release/relatório",
         "fonte_linha": "|**Receita bruta**|**688,5**<br>**609,9**<br>**12,9%**<br>**644,3**<br>**6,9%**<br>**1.332,8**<br>**1.170,2**<br>**13,9%**|",
@@ -26,39 +95,139 @@
           "2T25": 609.9,
           "1T26": 644.3,
           "2T26": 688.5
-        }
+        },
+        "nature": "reported",
+        "mapping_type": "exact_label",
+        "confidence_score": 76,
+        "observations": [
+          {
+            "metric": "Receita Bruta",
+            "nature": "reported",
+            "original_label": "|**Receita bruta**|**688,5**<br>**609,9**<br>**12,9%**<br>**644,3**<br>**6,9%**<br>**1.332,8**<br>**1.170,2**<br>**13,9%**|",
+            "original_value": 609.9,
+            "normalized_value": 609.9,
+            "unit": "R$ milhares",
+            "period": "2T25",
+            "period_type": "quarter",
+            "measurement_basis": "period_value",
+            "scope": "Release/relatório",
+            "document": "Releases e relatórios/Saída/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+            "page": null,
+            "source_context": "Release/relatório ## ebit e ebitda destaques do **resultado operacionaltrimestre** **12** .agosto.2026 |r$ milhoes|consolidado| |---|---| |_r$ milhoes_|**2t26**<br>**2t25**<br>**∆ 2t25**<br>**1t26**<br>**∆ 1t26**<br>**1s26**<br>**1s25**<br>**∆ 1s25**| |**receita bruta**|**688,5**<br>**609,9**<br>**12,9%**<br>**644,3**<br>**6,9%**<br>**1.332,8**<br>**1.170,2**<br>**13,9%**|",
+            "mapping_type": "exact_label",
+            "proxy_for": null,
+            "formula": null,
+            "inputs": {},
+            "confidence": "medium",
+            "confidence_score": 76,
+            "requires_review": false,
+            "rejection_reason": null,
+            "status": "validated",
+            "extraction_method": "markdown_contextual"
+          },
+          {
+            "metric": "Receita Bruta",
+            "nature": "reported",
+            "original_label": "|**Receita bruta**|**688,5**<br>**609,9**<br>**12,9%**<br>**644,3**<br>**6,9%**<br>**1.332,8**<br>**1.170,2**<br>**13,9%**|",
+            "original_value": 644.3,
+            "normalized_value": 644.3,
+            "unit": "R$ milhares",
+            "period": "1T26",
+            "period_type": "quarter",
+            "measurement_basis": "period_value",
+            "scope": "Release/relatório",
+            "document": "Releases e relatórios/Saída/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+            "page": null,
+            "source_context": "Release/relatório ## ebit e ebitda destaques do **resultado operacionaltrimestre** **12** .agosto.2026 |r$ milhoes|consolidado| |---|---| |_r$ milhoes_|**2t26**<br>**2t25**<br>**∆ 2t25**<br>**1t26**<br>**∆ 1t26**<br>**1s26**<br>**1s25**<br>**∆ 1s25**| |**receita bruta**|**688,5**<br>**609,9**<br>**12,9%**<br>**644,3**<br>**6,9%**<br>**1.332,8**<br>**1.170,2**<br>**13,9%**|",
+            "mapping_type": "exact_label",
+            "proxy_for": null,
+            "formula": null,
+            "inputs": {},
+            "confidence": "medium",
+            "confidence_score": 76,
+            "requires_review": false,
+            "rejection_reason": null,
+            "status": "validated",
+            "extraction_method": "markdown_contextual"
+          },
+          {
+            "metric": "Receita Bruta",
+            "nature": "reported",
+            "original_label": "|**Receita bruta**|**688,5**<br>**609,9**<br>**12,9%**<br>**644,3**<br>**6,9%**<br>**1.332,8**<br>**1.170,2**<br>**13,9%**|",
+            "original_value": 688.5,
+            "normalized_value": 688.5,
+            "unit": "R$ milhares",
+            "period": "2T26",
+            "period_type": "quarter",
+            "measurement_basis": "period_value",
+            "scope": "Release/relatório",
+            "document": "Releases e relatórios/Saída/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+            "page": null,
+            "source_context": "Release/relatório ## ebit e ebitda destaques do **resultado operacionaltrimestre** **12** .agosto.2026 |r$ milhoes|consolidado| |---|---| |_r$ milhoes_|**2t26**<br>**2t25**<br>**∆ 2t25**<br>**1t26**<br>**∆ 1t26**<br>**1s26**<br>**1s25**<br>**∆ 1s25**| |**receita bruta**|**688,5**<br>**609,9**<br>**12,9%**<br>**644,3**<br>**6,9%**<br>**1.332,8**<br>**1.170,2**<br>**13,9%**|",
+            "mapping_type": "exact_label",
+            "proxy_for": null,
+            "formula": null,
+            "inputs": {},
+            "confidence": "medium",
+            "confidence_score": 76,
+            "requires_review": false,
+            "rejection_reason": null,
+            "status": "validated",
+            "extraction_method": "markdown_contextual"
+          }
+        ]
       }
     ],
-    "Glosa/PCLD": [
-      {
-        "escopo": "Release/relatório",
-        "fonte_linha": "|Impostos, deduções e glosas|(74,8)<br>(64,1)<br>16,8%<br>(69,4)<br>7,9%<br>(144,2)<br>(125,1)<br>15,3%|",
-        "fonte_documento": "Releases e relatórios/Saída/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
-        "unidade": "R$ milhares",
-        "calculado": false,
-        "confidence": "medium",
-        "extraction_method": "markdown_contextual",
-        "requires_review": false,
-        "serie": {
-          "2T25": -64.1,
-          "1T26": -69.4,
-          "2T26": -74.8
-        }
-      },
-      {
-        "escopo": "Release/relatório",
-        "fonte_linha": "Provisão para créditos de liquidação duvidosa **(10.128)** (5.038) **(12.913)** (9.559)",
-        "fonte_documento": "Releases e relatórios/Saída/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS/MATD3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
-        "unidade": "R$ milhares",
-        "calculado": false,
-        "confidence": "medium",
-        "extraction_method": "markdown_contextual",
-        "requires_review": false,
-        "serie": {
-          "2025": -5.038,
-          "2026": -10.128
-        }
-      }
-    ]
-  }
+    "Glosa/PCLD": []
+  },
+  "warnings": [
+    {
+      "metric": "Ticket Médio",
+      "status": "not_found",
+      "message": "Nenhuma observação suficientemente confiável foi encontrada.",
+      "confidence": "not_found"
+    },
+    {
+      "metric": "N. Atendimentos",
+      "status": "not_found",
+      "message": "Nenhuma observação suficientemente confiável foi encontrada.",
+      "confidence": "not_found"
+    },
+    {
+      "metric": "N. Unidades",
+      "status": "not_found",
+      "message": "Nenhuma observação suficientemente confiável foi encontrada.",
+      "confidence": "not_found"
+    },
+    {
+      "metric": "N. Pacientes",
+      "status": "not_found",
+      "message": "Nenhuma observação suficientemente confiável foi encontrada.",
+      "confidence": "not_found"
+    },
+    {
+      "metric": "Receita Bruta",
+      "status": "medium_confidence",
+      "message": "Indicador exibido com confiança média por depender de proxy ou contexto menos estruturado.",
+      "confidence": "medium",
+      "nature": "reported",
+      "fonte_linha": "Receita bruta de serviços hospitalares **999.711** 873.223 **1.332.783** 1.170.217",
+      "escopo": "Release/relatório"
+    },
+    {
+      "metric": "Receita Bruta",
+      "status": "medium_confidence",
+      "message": "Indicador exibido com confiança média por depender de proxy ou contexto menos estruturado.",
+      "confidence": "medium",
+      "nature": "reported",
+      "fonte_linha": "|**Receita bruta**|**688,5**<br>**609,9**<br>**12,9%**<br>**644,3**<br>**6,9%**<br>**1.332,8**<br>**1.170,2**<br>**13,9%**|",
+      "escopo": "Release/relatório"
+    },
+    {
+      "metric": "Glosa/PCLD",
+      "status": "not_found",
+      "message": "Nenhuma observação suficientemente confiável foi encontrada.",
+      "confidence": "not_found"
+    }
+  ]
 }

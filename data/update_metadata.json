@@ -1,7 +1,7 @@
 {
-  "updated_at_utc": "2026-08-21T14:20:08.216783+00:00",
-  "source_commit": "784a525caedb61aad7b29d0a493d2fb2c7febf7c",
-  "workflow_run_id": "32490540509",
+  "updated_at_utc": "2026-08-21T17:37:45.381392+00:00",
+  "source_commit": "645370145970492389912b01531fb5ff4668a9bd",
+  "workflow_run_id": "32508196298",
   "status": "success",
   "warnings": [],
   "components": {
@@ -14,7 +14,7 @@
       "updated": true
     }
   },
-  "json_files_published": 17,
+  "json_files_published": 16,
   "files": {
     "balanco": "balancos_itr_cvm_2022_2026.json",
     "dre": "DRE_ITR_CVM_ultimos_5_anos.json",
@@ -32,7 +32,6 @@
     "dados_operacionais/FLRY3.json",
     "dados_operacionais/HAPV3.json",
     "dados_operacionais/MATD3.json",
-    "dados_operacionais/ONCO3.json",
-    "dados_operacionais/RDOR3.json"
+    "dados_operacionais/ONCO3.json"
   ]
 }
