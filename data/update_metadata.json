@@ -1,21 +1,28 @@
 {
-  "updated_at_utc": "2026-08-21T18:13:55.715085+00:00",
-  "source_commit": "75c7bfc54cb2d88d1e42e3d154764b7ec469863a",
-  "workflow_run_id": "32510981827",
+  "updated_at_utc": "2026-08-24T16:38:37.848764+00:00",
+  "last_update": "2026-08-24T16:38:37.848741+00:00",
+  "source_commit": "7002a293829e096ed4a679d607fed99d3607262c",
+  "workflow_run_id": "32751357011",
+  "scope": "operational",
+  "mode": "incremental",
   "status": "success",
   "warnings": [],
   "components": {
     "financial": {
-      "status": "success",
-      "updated": true
+      "status": "skipped_by_scope",
+      "updated": false,
+      "last_update": null,
+      "mode": ""
     },
     "operational": {
+      "last_update": "2026-08-24T16:38:37.848741+00:00",
+      "mode": "incremental",
       "status": "success",
       "updated": true
     }
   },
-  "json_files_published": 16,
-  "chart_pngs_published": 89,
+  "json_files_published": 9,
+  "chart_pngs_published": 0,
   "files": {
     "balanco": "balancos_itr_cvm_2022_2026.json",
     "dre": "DRE_ITR_CVM_ultimos_5_anos.json",
@@ -33,7 +40,9 @@
     "dados_operacionais/FLRY3.json",
     "dados_operacionais/HAPV3.json",
     "dados_operacionais/MATD3.json",
-    "dados_operacionais/ONCO3.json"
+    "dados_operacionais/ONCO3.json",
+    "dados_operacionais/RDOR3.json",
+    "dados_operacionais/operational_observations.json"
   ],
   "charts": {
     "individual": {
@@ -144,5 +153,5 @@
       "margem_operacional": "charts/comparison/margem_operacional.png"
     }
   },
-  "data_version": "75c7bfc54cb2d88d1e42e3d154764b7ec469863a"
+  "data_version": "7002a293829e096ed4a679d607fed99d3607262c"
 }
