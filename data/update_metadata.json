@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-08-24T16:38:37.848764+00:00",
+  "updated_at_utc": "2026-08-25T17:42:09.528289+00:00",
   "last_update": "2026-08-24T16:38:37.848741+00:00",
-  "source_commit": "7002a293829e096ed4a679d607fed99d3607262c",
-  "workflow_run_id": "32751357011",
+  "source_commit": "f716e673a184fa91aae190503e02ca61e211d4fc",
+  "workflow_run_id": "32878356173",
   "scope": "operational",
   "mode": "incremental",
   "status": "success",
@@ -153,5 +153,23 @@
       "margem_operacional": "charts/comparison/margem_operacional.png"
     }
   },
-  "data_version": "7002a293829e096ed4a679d607fed99d3607262c"
+  "data_version": "7002a293829e096ed4a679d607fed99d3607262c",
+  "sectors": {
+    "construcao_civil": {
+      "components": {
+        "financial": {
+          "last_update": "2026-08-25T17:42:09.528289+00:00",
+          "mode": "full",
+          "status": "success",
+          "updated": true
+        },
+        "operational": {
+          "last_update": null,
+          "mode": "",
+          "status": "skipped_by_scope",
+          "updated": false
+        }
+      }
+    }
+  }
 }

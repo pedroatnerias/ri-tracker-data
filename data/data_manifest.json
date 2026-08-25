@@ -1,133 +1,158 @@
 {
-  "files": {
-    "balanco": "balancos_itr_cvm_2022_2026.json",
-    "dre": "DRE_ITR_CVM_ultimos_5_anos.json",
-    "dfc": "DFC_ITR_CVM.json",
-    "divida_liquida": "divida_liquida.json",
-    "ciclo_financeiro": "ciclo_financeiro.json",
-    "market_cap": "market_cap.json",
-    "market_cap_historico": "market_cap_historico.json",
-    "indicadores": "indicadores.json",
-    "reconciliacao": "relatorio_reconciliacao.json"
-  },
-  "operational_jsons": [
-    "dados_operacionais/AALR3.json",
-    "dados_operacionais/DASA3.json",
-    "dados_operacionais/FLRY3.json",
-    "dados_operacionais/HAPV3.json",
-    "dados_operacionais/MATD3.json",
-    "dados_operacionais/ONCO3.json",
-    "dados_operacionais/RDOR3.json",
-    "dados_operacionais/operational_observations.json"
-  ],
-  "charts": {
-    "individual": {
-      "AALR3": {
-        "annual_capital_giro": "charts/individual/AALR3/annual_capital_giro.png",
-        "annual_ebit": "charts/individual/AALR3/annual_ebit.png",
-        "annual_ebitda": "charts/individual/AALR3/annual_ebitda.png",
-        "annual_ev_ebitda": "charts/individual/AALR3/annual_ev_ebitda.png",
-        "annual_lucro_liquido": "charts/individual/AALR3/annual_lucro_liquido.png",
-        "annual_resultado_bruto": "charts/individual/AALR3/annual_resultado_bruto.png",
-        "quarterly_capital_giro": "charts/individual/AALR3/quarterly_capital_giro.png",
-        "quarterly_ebit": "charts/individual/AALR3/quarterly_ebit.png",
-        "quarterly_ebitda": "charts/individual/AALR3/quarterly_ebitda.png",
-        "quarterly_ev_ebitda": "charts/individual/AALR3/quarterly_ev_ebitda.png",
-        "quarterly_lucro_liquido": "charts/individual/AALR3/quarterly_lucro_liquido.png",
-        "quarterly_resultado_bruto": "charts/individual/AALR3/quarterly_resultado_bruto.png"
+  "schema_version": 2,
+  "sectors": {
+    "saude": {
+      "files": {
+        "balanco": "balancos_itr_cvm_2022_2026.json",
+        "dre": "DRE_ITR_CVM_ultimos_5_anos.json",
+        "dfc": "DFC_ITR_CVM.json",
+        "divida_liquida": "divida_liquida.json",
+        "ciclo_financeiro": "ciclo_financeiro.json",
+        "market_cap": "market_cap.json",
+        "market_cap_historico": "market_cap_historico.json",
+        "indicadores": "indicadores.json",
+        "reconciliacao": "relatorio_reconciliacao.json"
       },
-      "DASA3": {
-        "annual_capital_giro": "charts/individual/DASA3/annual_capital_giro.png",
-        "annual_ebit": "charts/individual/DASA3/annual_ebit.png",
-        "annual_ebitda": "charts/individual/DASA3/annual_ebitda.png",
-        "annual_ev_ebitda": "charts/individual/DASA3/annual_ev_ebitda.png",
-        "annual_lucro_liquido": "charts/individual/DASA3/annual_lucro_liquido.png",
-        "annual_resultado_bruto": "charts/individual/DASA3/annual_resultado_bruto.png",
-        "quarterly_capital_giro": "charts/individual/DASA3/quarterly_capital_giro.png",
-        "quarterly_ebit": "charts/individual/DASA3/quarterly_ebit.png",
-        "quarterly_ebitda": "charts/individual/DASA3/quarterly_ebitda.png",
-        "quarterly_ev_ebitda": "charts/individual/DASA3/quarterly_ev_ebitda.png",
-        "quarterly_lucro_liquido": "charts/individual/DASA3/quarterly_lucro_liquido.png",
-        "quarterly_resultado_bruto": "charts/individual/DASA3/quarterly_resultado_bruto.png"
+      "operational_jsons": [
+        "dados_operacionais/AALR3.json",
+        "dados_operacionais/DASA3.json",
+        "dados_operacionais/FLRY3.json",
+        "dados_operacionais/HAPV3.json",
+        "dados_operacionais/MATD3.json",
+        "dados_operacionais/ONCO3.json",
+        "dados_operacionais/RDOR3.json",
+        "dados_operacionais/operational_observations.json"
+      ],
+      "charts": {
+        "individual": {
+          "AALR3": {
+            "annual_capital_giro": "charts/individual/AALR3/annual_capital_giro.png",
+            "annual_ebit": "charts/individual/AALR3/annual_ebit.png",
+            "annual_ebitda": "charts/individual/AALR3/annual_ebitda.png",
+            "annual_ev_ebitda": "charts/individual/AALR3/annual_ev_ebitda.png",
+            "annual_lucro_liquido": "charts/individual/AALR3/annual_lucro_liquido.png",
+            "annual_resultado_bruto": "charts/individual/AALR3/annual_resultado_bruto.png",
+            "quarterly_capital_giro": "charts/individual/AALR3/quarterly_capital_giro.png",
+            "quarterly_ebit": "charts/individual/AALR3/quarterly_ebit.png",
+            "quarterly_ebitda": "charts/individual/AALR3/quarterly_ebitda.png",
+            "quarterly_ev_ebitda": "charts/individual/AALR3/quarterly_ev_ebitda.png",
+            "quarterly_lucro_liquido": "charts/individual/AALR3/quarterly_lucro_liquido.png",
+            "quarterly_resultado_bruto": "charts/individual/AALR3/quarterly_resultado_bruto.png"
+          },
+          "DASA3": {
+            "annual_capital_giro": "charts/individual/DASA3/annual_capital_giro.png",
+            "annual_ebit": "charts/individual/DASA3/annual_ebit.png",
+            "annual_ebitda": "charts/individual/DASA3/annual_ebitda.png",
+            "annual_ev_ebitda": "charts/individual/DASA3/annual_ev_ebitda.png",
+            "annual_lucro_liquido": "charts/individual/DASA3/annual_lucro_liquido.png",
+            "annual_resultado_bruto": "charts/individual/DASA3/annual_resultado_bruto.png",
+            "quarterly_capital_giro": "charts/individual/DASA3/quarterly_capital_giro.png",
+            "quarterly_ebit": "charts/individual/DASA3/quarterly_ebit.png",
+            "quarterly_ebitda": "charts/individual/DASA3/quarterly_ebitda.png",
+            "quarterly_ev_ebitda": "charts/individual/DASA3/quarterly_ev_ebitda.png",
+            "quarterly_lucro_liquido": "charts/individual/DASA3/quarterly_lucro_liquido.png",
+            "quarterly_resultado_bruto": "charts/individual/DASA3/quarterly_resultado_bruto.png"
+          },
+          "FLRY3": {
+            "annual_capital_giro": "charts/individual/FLRY3/annual_capital_giro.png",
+            "annual_ebit": "charts/individual/FLRY3/annual_ebit.png",
+            "annual_ebitda": "charts/individual/FLRY3/annual_ebitda.png",
+            "annual_ev_ebitda": "charts/individual/FLRY3/annual_ev_ebitda.png",
+            "annual_lucro_liquido": "charts/individual/FLRY3/annual_lucro_liquido.png",
+            "annual_resultado_bruto": "charts/individual/FLRY3/annual_resultado_bruto.png",
+            "quarterly_capital_giro": "charts/individual/FLRY3/quarterly_capital_giro.png",
+            "quarterly_ebit": "charts/individual/FLRY3/quarterly_ebit.png",
+            "quarterly_ebitda": "charts/individual/FLRY3/quarterly_ebitda.png",
+            "quarterly_ev_ebitda": "charts/individual/FLRY3/quarterly_ev_ebitda.png",
+            "quarterly_lucro_liquido": "charts/individual/FLRY3/quarterly_lucro_liquido.png",
+            "quarterly_resultado_bruto": "charts/individual/FLRY3/quarterly_resultado_bruto.png"
+          },
+          "HAPV3": {
+            "annual_capital_giro": "charts/individual/HAPV3/annual_capital_giro.png",
+            "annual_ebit": "charts/individual/HAPV3/annual_ebit.png",
+            "annual_ebitda": "charts/individual/HAPV3/annual_ebitda.png",
+            "annual_ev_ebitda": "charts/individual/HAPV3/annual_ev_ebitda.png",
+            "annual_lucro_liquido": "charts/individual/HAPV3/annual_lucro_liquido.png",
+            "annual_resultado_bruto": "charts/individual/HAPV3/annual_resultado_bruto.png",
+            "quarterly_capital_giro": "charts/individual/HAPV3/quarterly_capital_giro.png",
+            "quarterly_ebit": "charts/individual/HAPV3/quarterly_ebit.png",
+            "quarterly_ebitda": "charts/individual/HAPV3/quarterly_ebitda.png",
+            "quarterly_ev_ebitda": "charts/individual/HAPV3/quarterly_ev_ebitda.png",
+            "quarterly_lucro_liquido": "charts/individual/HAPV3/quarterly_lucro_liquido.png",
+            "quarterly_resultado_bruto": "charts/individual/HAPV3/quarterly_resultado_bruto.png"
+          },
+          "MATD3": {
+            "annual_capital_giro": "charts/individual/MATD3/annual_capital_giro.png",
+            "annual_ebit": "charts/individual/MATD3/annual_ebit.png",
+            "annual_ebitda": "charts/individual/MATD3/annual_ebitda.png",
+            "annual_ev_ebitda": "charts/individual/MATD3/annual_ev_ebitda.png",
+            "annual_lucro_liquido": "charts/individual/MATD3/annual_lucro_liquido.png",
+            "annual_resultado_bruto": "charts/individual/MATD3/annual_resultado_bruto.png",
+            "quarterly_capital_giro": "charts/individual/MATD3/quarterly_capital_giro.png",
+            "quarterly_ebit": "charts/individual/MATD3/quarterly_ebit.png",
+            "quarterly_ebitda": "charts/individual/MATD3/quarterly_ebitda.png",
+            "quarterly_ev_ebitda": "charts/individual/MATD3/quarterly_ev_ebitda.png",
+            "quarterly_lucro_liquido": "charts/individual/MATD3/quarterly_lucro_liquido.png",
+            "quarterly_resultado_bruto": "charts/individual/MATD3/quarterly_resultado_bruto.png"
+          },
+          "ONCO3": {
+            "annual_capital_giro": "charts/individual/ONCO3/annual_capital_giro.png",
+            "annual_ebit": "charts/individual/ONCO3/annual_ebit.png",
+            "annual_ebitda": "charts/individual/ONCO3/annual_ebitda.png",
+            "annual_ev_ebitda": "charts/individual/ONCO3/annual_ev_ebitda.png",
+            "annual_lucro_liquido": "charts/individual/ONCO3/annual_lucro_liquido.png",
+            "annual_resultado_bruto": "charts/individual/ONCO3/annual_resultado_bruto.png",
+            "quarterly_capital_giro": "charts/individual/ONCO3/quarterly_capital_giro.png",
+            "quarterly_ebit": "charts/individual/ONCO3/quarterly_ebit.png",
+            "quarterly_ebitda": "charts/individual/ONCO3/quarterly_ebitda.png",
+            "quarterly_ev_ebitda": "charts/individual/ONCO3/quarterly_ev_ebitda.png",
+            "quarterly_lucro_liquido": "charts/individual/ONCO3/quarterly_lucro_liquido.png",
+            "quarterly_resultado_bruto": "charts/individual/ONCO3/quarterly_resultado_bruto.png"
+          },
+          "RDOR3": {
+            "annual_capital_giro": "charts/individual/RDOR3/annual_capital_giro.png",
+            "annual_ebit": "charts/individual/RDOR3/annual_ebit.png",
+            "annual_ebitda": "charts/individual/RDOR3/annual_ebitda.png",
+            "annual_ev_ebitda": "charts/individual/RDOR3/annual_ev_ebitda.png",
+            "annual_lucro_liquido": "charts/individual/RDOR3/annual_lucro_liquido.png",
+            "annual_resultado_bruto": "charts/individual/RDOR3/annual_resultado_bruto.png",
+            "quarterly_capital_giro": "charts/individual/RDOR3/quarterly_capital_giro.png",
+            "quarterly_ebit": "charts/individual/RDOR3/quarterly_ebit.png",
+            "quarterly_ebitda": "charts/individual/RDOR3/quarterly_ebitda.png",
+            "quarterly_ev_ebitda": "charts/individual/RDOR3/quarterly_ev_ebitda.png",
+            "quarterly_lucro_liquido": "charts/individual/RDOR3/quarterly_lucro_liquido.png",
+            "quarterly_resultado_bruto": "charts/individual/RDOR3/quarterly_resultado_bruto.png"
+          }
+        },
+        "comparison": {
+          "ciclo_financeiro": "charts/comparison/ciclo_financeiro.png",
+          "margem_bruta": "charts/comparison/margem_bruta.png",
+          "margem_ebitda": "charts/comparison/margem_ebitda.png",
+          "margem_liquida": "charts/comparison/margem_liquida.png",
+          "margem_operacional": "charts/comparison/margem_operacional.png"
+        }
       },
-      "FLRY3": {
-        "annual_capital_giro": "charts/individual/FLRY3/annual_capital_giro.png",
-        "annual_ebit": "charts/individual/FLRY3/annual_ebit.png",
-        "annual_ebitda": "charts/individual/FLRY3/annual_ebitda.png",
-        "annual_ev_ebitda": "charts/individual/FLRY3/annual_ev_ebitda.png",
-        "annual_lucro_liquido": "charts/individual/FLRY3/annual_lucro_liquido.png",
-        "annual_resultado_bruto": "charts/individual/FLRY3/annual_resultado_bruto.png",
-        "quarterly_capital_giro": "charts/individual/FLRY3/quarterly_capital_giro.png",
-        "quarterly_ebit": "charts/individual/FLRY3/quarterly_ebit.png",
-        "quarterly_ebitda": "charts/individual/FLRY3/quarterly_ebitda.png",
-        "quarterly_ev_ebitda": "charts/individual/FLRY3/quarterly_ev_ebitda.png",
-        "quarterly_lucro_liquido": "charts/individual/FLRY3/quarterly_lucro_liquido.png",
-        "quarterly_resultado_bruto": "charts/individual/FLRY3/quarterly_resultado_bruto.png"
-      },
-      "HAPV3": {
-        "annual_capital_giro": "charts/individual/HAPV3/annual_capital_giro.png",
-        "annual_ebit": "charts/individual/HAPV3/annual_ebit.png",
-        "annual_ebitda": "charts/individual/HAPV3/annual_ebitda.png",
-        "annual_ev_ebitda": "charts/individual/HAPV3/annual_ev_ebitda.png",
-        "annual_lucro_liquido": "charts/individual/HAPV3/annual_lucro_liquido.png",
-        "annual_resultado_bruto": "charts/individual/HAPV3/annual_resultado_bruto.png",
-        "quarterly_capital_giro": "charts/individual/HAPV3/quarterly_capital_giro.png",
-        "quarterly_ebit": "charts/individual/HAPV3/quarterly_ebit.png",
-        "quarterly_ebitda": "charts/individual/HAPV3/quarterly_ebitda.png",
-        "quarterly_ev_ebitda": "charts/individual/HAPV3/quarterly_ev_ebitda.png",
-        "quarterly_lucro_liquido": "charts/individual/HAPV3/quarterly_lucro_liquido.png",
-        "quarterly_resultado_bruto": "charts/individual/HAPV3/quarterly_resultado_bruto.png"
-      },
-      "MATD3": {
-        "annual_capital_giro": "charts/individual/MATD3/annual_capital_giro.png",
-        "annual_ebit": "charts/individual/MATD3/annual_ebit.png",
-        "annual_ebitda": "charts/individual/MATD3/annual_ebitda.png",
-        "annual_ev_ebitda": "charts/individual/MATD3/annual_ev_ebitda.png",
-        "annual_lucro_liquido": "charts/individual/MATD3/annual_lucro_liquido.png",
-        "annual_resultado_bruto": "charts/individual/MATD3/annual_resultado_bruto.png",
-        "quarterly_capital_giro": "charts/individual/MATD3/quarterly_capital_giro.png",
-        "quarterly_ebit": "charts/individual/MATD3/quarterly_ebit.png",
-        "quarterly_ebitda": "charts/individual/MATD3/quarterly_ebitda.png",
-        "quarterly_ev_ebitda": "charts/individual/MATD3/quarterly_ev_ebitda.png",
-        "quarterly_lucro_liquido": "charts/individual/MATD3/quarterly_lucro_liquido.png",
-        "quarterly_resultado_bruto": "charts/individual/MATD3/quarterly_resultado_bruto.png"
-      },
-      "ONCO3": {
-        "annual_capital_giro": "charts/individual/ONCO3/annual_capital_giro.png",
-        "annual_ebit": "charts/individual/ONCO3/annual_ebit.png",
-        "annual_ebitda": "charts/individual/ONCO3/annual_ebitda.png",
-        "annual_ev_ebitda": "charts/individual/ONCO3/annual_ev_ebitda.png",
-        "annual_lucro_liquido": "charts/individual/ONCO3/annual_lucro_liquido.png",
-        "annual_resultado_bruto": "charts/individual/ONCO3/annual_resultado_bruto.png",
-        "quarterly_capital_giro": "charts/individual/ONCO3/quarterly_capital_giro.png",
-        "quarterly_ebit": "charts/individual/ONCO3/quarterly_ebit.png",
-        "quarterly_ebitda": "charts/individual/ONCO3/quarterly_ebitda.png",
-        "quarterly_ev_ebitda": "charts/individual/ONCO3/quarterly_ev_ebitda.png",
-        "quarterly_lucro_liquido": "charts/individual/ONCO3/quarterly_lucro_liquido.png",
-        "quarterly_resultado_bruto": "charts/individual/ONCO3/quarterly_resultado_bruto.png"
-      },
-      "RDOR3": {
-        "annual_capital_giro": "charts/individual/RDOR3/annual_capital_giro.png",
-        "annual_ebit": "charts/individual/RDOR3/annual_ebit.png",
-        "annual_ebitda": "charts/individual/RDOR3/annual_ebitda.png",
-        "annual_ev_ebitda": "charts/individual/RDOR3/annual_ev_ebitda.png",
-        "annual_lucro_liquido": "charts/individual/RDOR3/annual_lucro_liquido.png",
-        "annual_resultado_bruto": "charts/individual/RDOR3/annual_resultado_bruto.png",
-        "quarterly_capital_giro": "charts/individual/RDOR3/quarterly_capital_giro.png",
-        "quarterly_ebit": "charts/individual/RDOR3/quarterly_ebit.png",
-        "quarterly_ebitda": "charts/individual/RDOR3/quarterly_ebitda.png",
-        "quarterly_ev_ebitda": "charts/individual/RDOR3/quarterly_ev_ebitda.png",
-        "quarterly_lucro_liquido": "charts/individual/RDOR3/quarterly_lucro_liquido.png",
-        "quarterly_resultado_bruto": "charts/individual/RDOR3/quarterly_resultado_bruto.png"
-      }
+      "data_version": "7002a293829e096ed4a679d607fed99d3607262c"
     },
-    "comparison": {
-      "ciclo_financeiro": "charts/comparison/ciclo_financeiro.png",
-      "margem_bruta": "charts/comparison/margem_bruta.png",
-      "margem_ebitda": "charts/comparison/margem_ebitda.png",
-      "margem_liquida": "charts/comparison/margem_liquida.png",
-      "margem_operacional": "charts/comparison/margem_operacional.png"
+    "construcao_civil": {
+      "files": {
+        "balanco": "balancos_itr_cvm_2022_2026.json",
+        "dre": "DRE_ITR_CVM_ultimos_5_anos.json",
+        "dfc": "DFC_ITR_CVM.json",
+        "divida_liquida": "divida_liquida.json",
+        "ciclo_financeiro": "ciclo_financeiro.json",
+        "market_cap": "market_cap.json",
+        "market_cap_historico": "market_cap_historico.json",
+        "indicadores": "indicadores.json",
+        "reconciliacao": "relatorio_reconciliacao.json"
+      },
+      "operational_jsons": [],
+      "charts": {
+        "individual": {},
+        "comparison": {}
+      },
+      "data_version": "f716e673a184fa91aae190503e02ca61e211d4fc"
     }
   },
-  "data_version": "7002a293829e096ed4a679d607fed99d3607262c"
+  "data_version": "f716e673a184fa91aae190503e02ca61e211d4fc"
 }

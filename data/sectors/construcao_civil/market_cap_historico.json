@@ -1,0 +1,3873 @@
+{
+  "metadata": {
+    "fonte": "CVM - ITR/DFP - composicao do capital",
+    "campo_cvm": "QT_ACAO_TOTAL_CAP_INTEGR",
+    "fonte_preco": "Yahoo Finance via yfinance",
+    "campo_preco": "Close",
+    "criterio_preco": "fechamento da data de referencia; se nao houver pregao, ultimo fechamento anterior",
+    "data_inicial": "2022-01-01",
+    "gerado_em_utc": "2026-08-25T17:39:20.720752+00:00"
+  },
+  "empresas": {
+    "AVLL3": {
+      "cnpj": "16.811.931/0001-00",
+      "denominacao": "ALPHAVILLE S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 22415794,
+          "fonte_documento": "ITR",
+          "preco_acao": 685.866272,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "AVLL3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 22415794,
+          "fonte_documento": "ITR",
+          "preco_acao": 422.561554,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "AVLL3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 22415794,
+          "fonte_documento": "ITR",
+          "preco_acao": 305.136169,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "AVLL3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 22415794,
+          "fonte_documento": "DFP",
+          "preco_acao": 149.276779,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "AVLL3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 22415794,
+          "fonte_documento": "ITR",
+          "preco_acao": 66.675545,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "AVLL3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 28615213,
+          "fonte_documento": "ITR",
+          "preco_acao": 149.48912,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "AVLL3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 28615213,
+          "fonte_documento": "ITR",
+          "preco_acao": 103.410797,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "AVLL3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 28615213,
+          "fonte_documento": "DFP",
+          "preco_acao": 121.25,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "AVLL3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 195330061,
+          "fonte_documento": "ITR",
+          "preco_acao": 103.5,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "AVLL3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 195330061,
+          "fonte_documento": "ITR",
+          "preco_acao": 83.75,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "AVLL3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 195330061,
+          "fonte_documento": "ITR",
+          "preco_acao": 80.0,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "AVLL3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 195330061,
+          "fonte_documento": "DFP",
+          "preco_acao": 68.0,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "AVLL3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 195330061,
+          "fonte_documento": "ITR",
+          "preco_acao": 51.75,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "AVLL3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 195330061,
+          "fonte_documento": "ITR",
+          "preco_acao": 43.0,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "AVLL3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 195330061,
+          "fonte_documento": "ITR",
+          "preco_acao": 42.0,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "AVLL3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 195330061,
+          "fonte_documento": "DFP",
+          "preco_acao": 23.0,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "AVLL3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 195330061,
+          "fonte_documento": "ITR",
+          "preco_acao": 16.5,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "AVLL3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 7813202,
+          "fonte_documento": "ITR",
+          "preco_acao": 12.95,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "AVLL3.SA"
+        }
+      ]
+    },
+    "CALI3": {
+      "cnpj": "61.022.042/0001-18",
+      "denominacao": "CONSTRUTORA ADOLPHO LINDENBERG S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 372119,
+          "fonte_documento": "ITR",
+          "preco_acao": 12.277999,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "CALI3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 3720971,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.0,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "CALI3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 3720971,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.74,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "CALI3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 3720971,
+          "fonte_documento": "DFP",
+          "preco_acao": 8.26,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "CALI3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 3720971,
+          "fonte_documento": "ITR",
+          "preco_acao": 9.1,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "CALI3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 3720971,
+          "fonte_documento": "ITR",
+          "preco_acao": 13.5,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "CALI3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 3720971,
+          "fonte_documento": "ITR",
+          "preco_acao": 14.1,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "CALI3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 3720971,
+          "fonte_documento": "DFP",
+          "preco_acao": 20.0,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "CALI3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 3720971,
+          "fonte_documento": "ITR",
+          "preco_acao": 26.0,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "CALI3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 3720971,
+          "fonte_documento": "ITR",
+          "preco_acao": 26.0,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "CALI3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 3720971,
+          "fonte_documento": "ITR",
+          "preco_acao": 26.0,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "CALI3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 3721065,
+          "fonte_documento": "DFP",
+          "preco_acao": 25.0,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "CALI3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 6988800,
+          "fonte_documento": "ITR",
+          "preco_acao": 25.0,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "CALI3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 6988800,
+          "fonte_documento": "ITR",
+          "preco_acao": 25.0,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "CALI3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 6988800,
+          "fonte_documento": "ITR",
+          "preco_acao": 17.049999,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "CALI3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 6988800,
+          "fonte_documento": "DFP",
+          "preco_acao": 16.049999,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "CALI3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 6988800,
+          "fonte_documento": "ITR",
+          "preco_acao": 16.299999,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "CALI3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 6988800,
+          "fonte_documento": "ITR",
+          "preco_acao": 28.0,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "CALI3.SA"
+        }
+      ]
+    },
+    "CURY3": {
+      "cnpj": "08.797.760/0001-83",
+      "denominacao": "CURY CONSTRUTORA E INCORPORADORA S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 291875088,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.57,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "CURY3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 291875088,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.15,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "CURY3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 291875088,
+          "fonte_documento": "ITR",
+          "preco_acao": 11.89,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "CURY3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 291875088,
+          "fonte_documento": "DFP",
+          "preco_acao": 12.66,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "CURY3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 291875088,
+          "fonte_documento": "ITR",
+          "preco_acao": 12.83,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "CURY3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 291875088,
+          "fonte_documento": "ITR",
+          "preco_acao": 16.049999,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "CURY3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 291875088,
+          "fonte_documento": "ITR",
+          "preco_acao": 16.26,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "CURY3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 291875088,
+          "fonte_documento": "DFP",
+          "preco_acao": 17.99,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "CURY3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 291875088,
+          "fonte_documento": "ITR",
+          "preco_acao": 20.360001,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "CURY3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 291875088,
+          "fonte_documento": "ITR",
+          "preco_acao": 20.6,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "CURY3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 291875088,
+          "fonte_documento": "ITR",
+          "preco_acao": 22.360001,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "CURY3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 291875088,
+          "fonte_documento": "DFP",
+          "preco_acao": 17.459999,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "CURY3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 291875088,
+          "fonte_documento": "ITR",
+          "preco_acao": 24.549999,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "CURY3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 291875088,
+          "fonte_documento": "ITR",
+          "preco_acao": 29.52,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "CURY3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 291875088,
+          "fonte_documento": "ITR",
+          "preco_acao": 34.57,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "CURY3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 308047594,
+          "fonte_documento": "DFP",
+          "preco_acao": 32.23,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "CURY3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 308047594,
+          "fonte_documento": "ITR",
+          "preco_acao": 35.380001,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "CURY3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 308047594,
+          "fonte_documento": "ITR",
+          "preco_acao": 35.060001,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "CURY3.SA"
+        }
+      ]
+    },
+    "CYRE3": {
+      "cnpj": "73.178.600/0001-18",
+      "denominacao": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 399743,
+          "fonte_documento": "ITR",
+          "preco_acao": 17.49,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "CYRE3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 399743,
+          "fonte_documento": "ITR",
+          "preco_acao": 11.82,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "CYRE3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 399743,
+          "fonte_documento": "ITR",
+          "preco_acao": 18.35,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "CYRE3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 399743,
+          "fonte_documento": "DFP",
+          "preco_acao": 13.07,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "CYRE3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 399743,
+          "fonte_documento": "ITR",
+          "preco_acao": 14.08,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "CYRE3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 399743,
+          "fonte_documento": "ITR",
+          "preco_acao": 20.129999,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "CYRE3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 399743,
+          "fonte_documento": "ITR",
+          "preco_acao": 20.27,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "CYRE3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 399743,
+          "fonte_documento": "DFP",
+          "preco_acao": 24.08,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "CYRE3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 399743,
+          "fonte_documento": "ITR",
+          "preco_acao": 24.940001,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "CYRE3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 399743,
+          "fonte_documento": "ITR",
+          "preco_acao": 18.85,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "CYRE3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 399743,
+          "fonte_documento": "ITR",
+          "preco_acao": 20.52,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "CYRE3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 384000,
+          "fonte_documento": "DFP",
+          "preco_acao": 16.950001,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "CYRE3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 384000,
+          "fonte_documento": "ITR",
+          "preco_acao": 23.9,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "CYRE3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 384000,
+          "fonte_documento": "ITR",
+          "preco_acao": 26.139999,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "CYRE3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 384000,
+          "fonte_documento": "ITR",
+          "preco_acao": 30.700001,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "CYRE3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 384000,
+          "fonte_documento": "DFP",
+          "preco_acao": 29.620001,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "CYRE3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 456800,
+          "fonte_documento": "ITR",
+          "preco_acao": 27.32,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "CYRE3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 453446,
+          "fonte_documento": "ITR",
+          "preco_acao": 23.02,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "CYRE3.SA"
+        }
+      ]
+    },
+    "DIRR3": {
+      "cnpj": "16.614.075/0001-00",
+      "denominacao": "DIRECIONAL ENGENHARIA S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 150000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.036627,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "DIRR3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 150000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.422502,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "DIRR3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 150000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.593517,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "DIRR3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 150000000,
+          "fonte_documento": "DFP",
+          "preco_acao": 5.191846,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "DIRR3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 150000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.304713,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "DIRR3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 173500000,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.55,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "DIRR3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 173500000,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.393333,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "DIRR3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 173500000,
+          "fonte_documento": "DFP",
+          "preco_acao": 7.463333,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "DIRR3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 173500000,
+          "fonte_documento": "ITR",
+          "preco_acao": 8.543333,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "DIRR3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 173500000,
+          "fonte_documento": "ITR",
+          "preco_acao": 8.863333,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "DIRR3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 173500000,
+          "fonte_documento": "ITR",
+          "preco_acao": 10.083333,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "DIRR3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 173500000,
+          "fonte_documento": "DFP",
+          "preco_acao": 8.866666,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "DIRR3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 173500000,
+          "fonte_documento": "ITR",
+          "preco_acao": 10.476666,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "DIRR3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 173500000,
+          "fonte_documento": "ITR",
+          "preco_acao": 13.606666,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "DIRR3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 520500000,
+          "fonte_documento": "ITR",
+          "preco_acao": 16.17,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "DIRR3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 520500000,
+          "fonte_documento": "DFP",
+          "preco_acao": 14.12,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "DIRR3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 520500000,
+          "fonte_documento": "ITR",
+          "preco_acao": 13.3,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "DIRR3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 520500000,
+          "fonte_documento": "ITR",
+          "preco_acao": 13.92,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "DIRR3.SA"
+        }
+      ]
+    },
+    "EVEN3": {
+      "cnpj": "43.470.988/0001-65",
+      "denominacao": "EVEN CONSTRUTORA E INCORPORADORA S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 212000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.39,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "EVEN3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 212000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.33,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "EVEN3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 212000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.9,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "EVEN3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 212000000,
+          "fonte_documento": "DFP",
+          "preco_acao": 4.58,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "EVEN3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 212000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.41,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "EVEN3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 210000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.81,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "EVEN3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 200000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.17,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "EVEN3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 200000000,
+          "fonte_documento": "DFP",
+          "preco_acao": 8.2,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "EVEN3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 200000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 8.4,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "EVEN3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 200000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.55,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "EVEN3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 200000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.21,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "EVEN3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 200000000,
+          "fonte_documento": "DFP",
+          "preco_acao": 5.36,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "EVEN3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 200000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.06,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "EVEN3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 200000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.46,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "EVEN3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 200000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.85,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "EVEN3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 200000000,
+          "fonte_documento": "DFP",
+          "preco_acao": 7.78,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "EVEN3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 200000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.28,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "EVEN3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 200000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.69,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "EVEN3.SA"
+        }
+      ]
+    },
+    "EZTC3": {
+      "cnpj": "08.312.229/0001-73",
+      "denominacao": "EZ TEC EMPREEND. E PARTICIPACOES S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 227000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 14.745714,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "EZTC3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 220989103,
+          "fonte_documento": "ITR",
+          "preco_acao": 11.36403,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "EZTC3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 220989103,
+          "fonte_documento": "ITR",
+          "preco_acao": 16.703945,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "EZTC3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 220989103,
+          "fonte_documento": "DFP",
+          "preco_acao": 10.561863,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "EZTC3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 220989103,
+          "fonte_documento": "ITR",
+          "preco_acao": 9.578815,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "EZTC3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 220989103,
+          "fonte_documento": "ITR",
+          "preco_acao": 14.486189,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "EZTC3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 220989103,
+          "fonte_documento": "ITR",
+          "preco_acao": 14.800764,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "EZTC3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 220989103,
+          "fonte_documento": "DFP",
+          "preco_acao": 14.706392,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "EZTC3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 220989103,
+          "fonte_documento": "ITR",
+          "preco_acao": 12.81894,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "EZTC3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 220989103,
+          "fonte_documento": "ITR",
+          "preco_acao": 10.176508,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "EZTC3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 220989103,
+          "fonte_documento": "ITR",
+          "preco_acao": 10.640507,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "EZTC3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 220989103,
+          "fonte_documento": "DFP",
+          "preco_acao": 8.517124,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "EZTC3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 220989103,
+          "fonte_documento": "ITR",
+          "preco_acao": 11.961723,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "EZTC3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 220989103,
+          "fonte_documento": "ITR",
+          "preco_acao": 10.947218,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "EZTC3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 220989103,
+          "fonte_documento": "ITR",
+          "preco_acao": 12.929042,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "EZTC3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 281000000,
+          "fonte_documento": "DFP",
+          "preco_acao": 13.73,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "EZTC3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 277359027,
+          "fonte_documento": "ITR",
+          "preco_acao": 13.98,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "EZTC3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 277359027,
+          "fonte_documento": "ITR",
+          "preco_acao": 13.03,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "EZTC3.SA"
+        }
+      ]
+    },
+    "FIEI3": {
+      "cnpj": "07.820.907/0001-46",
+      "denominacao": "FICA EMPREENDIMENTOS IMOBILIÁRIOS S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 2422153,
+          "fonte_documento": "ITR",
+          "preco_acao": 20.469999,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "FIEI3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 2422153,
+          "fonte_documento": "ITR",
+          "preco_acao": 21.57,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "FIEI3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 2422153,
+          "fonte_documento": "ITR",
+          "preco_acao": 20.0,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "FIEI3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 2422153,
+          "fonte_documento": "DFP",
+          "preco_acao": 16.0,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "FIEI3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 2422153,
+          "fonte_documento": "ITR",
+          "preco_acao": 15.0,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "FIEI3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 2422153,
+          "fonte_documento": "ITR",
+          "preco_acao": 15.0,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "FIEI3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 2422153,
+          "fonte_documento": "ITR",
+          "preco_acao": 15.2,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "FIEI3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 2422153,
+          "fonte_documento": "DFP",
+          "preco_acao": 12.0,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "FIEI3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 2422153,
+          "fonte_documento": "ITR",
+          "preco_acao": 12.8,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "FIEI3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 2422153,
+          "fonte_documento": "ITR",
+          "preco_acao": 10.5,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "FIEI3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 2422153,
+          "fonte_documento": "ITR",
+          "preco_acao": 8.65,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "FIEI3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 2422153,
+          "fonte_documento": "DFP",
+          "preco_acao": 9.8,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "FIEI3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 2422153,
+          "fonte_documento": "ITR",
+          "preco_acao": 9.0,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "FIEI3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 2422153,
+          "fonte_documento": "ITR",
+          "preco_acao": 11.97,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "FIEI3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 24221530,
+          "fonte_documento": "ITR",
+          "preco_acao": 22.200001,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "FIEI3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 2422153,
+          "fonte_documento": "DFP",
+          "preco_acao": 14.49,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "FIEI3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 24221530,
+          "fonte_documento": "ITR",
+          "preco_acao": 12.6,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "FIEI3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": null,
+          "fonte_documento": null,
+          "preco_acao": null,
+          "data_preco": null
+        }
+      ]
+    },
+    "GFSA3": {
+      "cnpj": "01.545.826/0001-07",
+      "denominacao": "GAFISA S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 337445,
+          "fonte_documento": "ITR",
+          "preco_acao": 291.891174,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "GFSA3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 337445,
+          "fonte_documento": "ITR",
+          "preco_acao": 159.34874,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "GFSA3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 37884,
+          "fonte_documento": "ITR",
+          "preco_acao": 133.535248,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "GFSA3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 51139,
+          "fonte_documento": "DFP",
+          "preco_acao": 168.632004,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "GFSA3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 51140,
+          "fonte_documento": "ITR",
+          "preco_acao": 102.030876,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "GFSA3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 60422,
+          "fonte_documento": "ITR",
+          "preco_acao": 117.872063,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "GFSA3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 63260,
+          "fonte_documento": "ITR",
+          "preco_acao": 70.518837,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "GFSA3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 63267,
+          "fonte_documento": "DFP",
+          "preco_acao": 177.489441,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "GFSA3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 69330,
+          "fonte_documento": "ITR",
+          "preco_acao": 132.800003,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "GFSA3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 89443,
+          "fonte_documento": "ITR",
+          "preco_acao": 66.800003,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "GFSA3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 115936,
+          "fonte_documento": "ITR",
+          "preco_acao": 44.599998,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "GFSA3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 115936,
+          "fonte_documento": "DFP",
+          "preco_acao": 23.6,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "GFSA3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 134576,
+          "fonte_documento": "ITR",
+          "preco_acao": 45.400002,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "GFSA3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 6729,
+          "fonte_documento": "ITR",
+          "preco_acao": 20.9,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "GFSA3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 11162,
+          "fonte_documento": "ITR",
+          "preco_acao": 8.12,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "GFSA3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 11162,
+          "fonte_documento": "DFP",
+          "preco_acao": 5.35,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "GFSA3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 24516,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.69,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "GFSA3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": null,
+          "fonte_documento": null,
+          "preco_acao": null,
+          "data_preco": null
+        }
+      ]
+    },
+    "HBOR3": {
+      "cnpj": "49.263.189/0001-02",
+      "denominacao": "HELBOR EMPREENDIMENTOS S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 133851,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.9,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "HBOR3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 133851,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.4,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "HBOR3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 133851,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.98,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "HBOR3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 133851,
+          "fonte_documento": "DFP",
+          "preco_acao": 2.04,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "HBOR3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 133851,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.04,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "HBOR3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 133851,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.63,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "HBOR3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 133851,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.65,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "HBOR3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 133851,
+          "fonte_documento": "DFP",
+          "preco_acao": 3.53,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "HBOR3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 133851,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.0,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "HBOR3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 133851,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.06,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "HBOR3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 133851,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.89,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "HBOR3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 133851,
+          "fonte_documento": "DFP",
+          "preco_acao": 1.38,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "HBOR3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 133851,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.81,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "HBOR3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 133851,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.56,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "HBOR3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 133851,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.77,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "HBOR3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 133851,
+          "fonte_documento": "DFP",
+          "preco_acao": 2.5,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "HBOR3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 133851,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.38,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "HBOR3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 133851,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.23,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "HBOR3.SA"
+        }
+      ]
+    },
+    "INNC3": {
+      "cnpj": "09.611.768/0001-76",
+      "denominacao": "INC EMPREENDIMENTOS IMOBILIÁRIOS S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 86885350,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 86885350,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 86885350,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 86885350,
+          "fonte_documento": "DFP",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 86885350,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 86885350,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 86885350,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 86885350,
+          "fonte_documento": "DFP",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 86885350,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 86850350,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 86885349,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 86885349,
+          "fonte_documento": "DFP",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 86885350,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 86885350,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 86885350,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 86885350,
+          "fonte_documento": "DFP",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 86885350,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 86885350,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        }
+      ]
+    },
+    "JFEN3": {
+      "cnpj": "33.035.536/0001-00",
+      "denominacao": "JOAO FORTES ENGENHARIA S.A. - EM RECUPERAÇÃO JUDICIAL",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 105203815,
+          "fonte_documento": "ITR",
+          "preco_acao": 130.0,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "JFEN3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 105203815,
+          "fonte_documento": "ITR",
+          "preco_acao": 94.0,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "JFEN3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 105203815,
+          "fonte_documento": "ITR",
+          "preco_acao": 86.0,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "JFEN3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 105203815,
+          "fonte_documento": "DFP",
+          "preco_acao": 70.0,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "JFEN3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 21040763,
+          "fonte_documento": "ITR",
+          "preco_acao": 57.0,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "JFEN3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 21040763,
+          "fonte_documento": "ITR",
+          "preco_acao": 66.199997,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "JFEN3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 21040763,
+          "fonte_documento": "ITR",
+          "preco_acao": 46.400002,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "JFEN3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 21040763,
+          "fonte_documento": "DFP",
+          "preco_acao": 43.0,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "JFEN3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 21040763,
+          "fonte_documento": "ITR",
+          "preco_acao": 48.0,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "JFEN3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 246374418,
+          "fonte_documento": "ITR",
+          "preco_acao": 10.4,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "JFEN3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 246374418,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.0,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "JFEN3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 12318720,
+          "fonte_documento": "DFP",
+          "preco_acao": 2.28,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "JFEN3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 12318720,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.36,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "JFEN3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 12318720,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.9,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "JFEN3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 12802745,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.62,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "JFEN3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 12802745,
+          "fonte_documento": "DFP",
+          "preco_acao": 0.99,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "JFEN3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 12802745,
+          "fonte_documento": "ITR",
+          "preco_acao": 0.75,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "JFEN3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 12802745,
+          "fonte_documento": "ITR",
+          "preco_acao": 0.7,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "JFEN3.SA"
+        }
+      ]
+    },
+    "JHSF3": {
+      "cnpj": "08.294.224/0001-65",
+      "denominacao": "JHSF PARTICIPACOES S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 686224353,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.57,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "JHSF3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 679328541,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.83,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "JHSF3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 680028981,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.4,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "JHSF3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 679328541,
+          "fonte_documento": "DFP",
+          "preco_acao": 5.02,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "JHSF3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 679328541,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.7,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "JHSF3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 679328541,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.09,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "JHSF3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 679328541,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.76,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "JHSF3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 679328541,
+          "fonte_documento": "DFP",
+          "preco_acao": 5.57,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "JHSF3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 679328541,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.88,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "JHSF3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 679328541,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.95,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "JHSF3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 679328541,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.11,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "JHSF3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 679328541,
+          "fonte_documento": "DFP",
+          "preco_acao": 3.66,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "JHSF3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 681322756,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.18,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "JHSF3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 681322756,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.33,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "JHSF3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 681322756,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.47,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "JHSF3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 681322756,
+          "fonte_documento": "DFP",
+          "preco_acao": 7.93,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "JHSF3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 681322756,
+          "fonte_documento": "ITR",
+          "preco_acao": 9.27,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "JHSF3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 683756108,
+          "fonte_documento": "ITR",
+          "preco_acao": 11.33,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "JHSF3.SA"
+        }
+      ]
+    },
+    "LAVV3": {
+      "cnpj": "26.462.693/0001-28",
+      "denominacao": "LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 208191252,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.15,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "LAVV3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 199534352,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.62,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "LAVV3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 199534352,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.01,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "LAVV3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 199534352,
+          "fonte_documento": "DFP",
+          "preco_acao": 4.77,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "LAVV3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 199534352,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.1,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "LAVV3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 199534352,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.06,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "LAVV3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 199534352,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.55,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "LAVV3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 199534352,
+          "fonte_documento": "DFP",
+          "preco_acao": 8.81,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "LAVV3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 199534352,
+          "fonte_documento": "ITR",
+          "preco_acao": 9.51,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "LAVV3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 199534352,
+          "fonte_documento": "ITR",
+          "preco_acao": 8.59,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "LAVV3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 199534352,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.98,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "LAVV3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 199534352,
+          "fonte_documento": "DFP",
+          "preco_acao": 7.49,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "LAVV3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 195434352,
+          "fonte_documento": "ITR",
+          "preco_acao": 9.25,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "LAVV3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 195434352,
+          "fonte_documento": "ITR",
+          "preco_acao": 12.46,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "LAVV3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 195434352,
+          "fonte_documento": "ITR",
+          "preco_acao": 14.92,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "LAVV3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 195434352,
+          "fonte_documento": "DFP",
+          "preco_acao": 15.98,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "LAVV3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 195434352,
+          "fonte_documento": "ITR",
+          "preco_acao": 14.26,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "LAVV3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 1954343520,
+          "fonte_documento": "ITR",
+          "preco_acao": 11.48,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "LAVV3.SA"
+        }
+      ]
+    },
+    "MDNE3": {
+      "cnpj": "12.049.631/0001-84",
+      "denominacao": "MOURA DUBEUX ENGENHARIA S/A",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 84909375,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.67,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "MDNE3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 84909375,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.14,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "MDNE3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 84909375,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.57,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "MDNE3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 84909375,
+          "fonte_documento": "DFP",
+          "preco_acao": 5.81,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "MDNE3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 84909375,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.0,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "MDNE3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 84909375,
+          "fonte_documento": "ITR",
+          "preco_acao": 9.19,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "MDNE3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 84909375,
+          "fonte_documento": "ITR",
+          "preco_acao": 10.75,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "MDNE3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 84909375,
+          "fonte_documento": "DFP",
+          "preco_acao": 13.33,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "MDNE3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 84909375,
+          "fonte_documento": "ITR",
+          "preco_acao": 12.74,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "MDNE3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 84909375,
+          "fonte_documento": "ITR",
+          "preco_acao": 11.08,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "MDNE3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 84909375,
+          "fonte_documento": "ITR",
+          "preco_acao": 14.15,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "MDNE3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 84909375,
+          "fonte_documento": "DFP",
+          "preco_acao": 10.8,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "MDNE3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 84909375,
+          "fonte_documento": "ITR",
+          "preco_acao": 14.43,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "MDNE3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 84909375,
+          "fonte_documento": "ITR",
+          "preco_acao": 23.059999,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "MDNE3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 84909375,
+          "fonte_documento": "ITR",
+          "preco_acao": 29.93,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "MDNE3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 84909375,
+          "fonte_documento": "DFP",
+          "preco_acao": 27.450001,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "MDNE3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 104214394,
+          "fonte_documento": "ITR",
+          "preco_acao": 32.25,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "MDNE3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 104214394,
+          "fonte_documento": "ITR",
+          "preco_acao": 29.280001,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "MDNE3.SA"
+        }
+      ]
+    },
+    "MELK3": {
+      "cnpj": "12.181.987/0001-77",
+      "denominacao": "MELNICK DESENVOLVIMENTO IMOBILIÁRIO S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 213754241,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.22,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "MELK3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 207969341,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.58,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "MELK3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 207969341,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.38,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "MELK3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 207969341,
+          "fonte_documento": "DFP",
+          "preco_acao": 3.29,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "MELK3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 206269341,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.0,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "MELK3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 206269341,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.25,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "MELK3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 206269341,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.46,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "MELK3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 206269341,
+          "fonte_documento": "DFP",
+          "preco_acao": 4.8,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "MELK3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 206269341,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.73,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "MELK3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 206269341,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.45,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "MELK3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 206269341,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.44,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "MELK3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 206269341,
+          "fonte_documento": "DFP",
+          "preco_acao": 3.55,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "MELK3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 206269341,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.2,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "MELK3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 206269341,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.37,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "MELK3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 206269341,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.18,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "MELK3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 206269341,
+          "fonte_documento": "DFP",
+          "preco_acao": 3.8,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "MELK3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 206269341,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.44,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "MELK3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 206269341,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.26,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "MELK3.SA"
+        }
+      ]
+    },
+    "MRVE3": {
+      "cnpj": "08.343.492/0001-20",
+      "denominacao": "MRV ENGENHARIA E PARTICIPACOES S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 483233,
+          "fonte_documento": "ITR",
+          "preco_acao": 12.85,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "MRVE3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 483233,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.81,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "MRVE3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 483233,
+          "fonte_documento": "ITR",
+          "preco_acao": 12.42,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "MRVE3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 483233,
+          "fonte_documento": "DFP",
+          "preco_acao": 7.6,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "MRVE3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 483233,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.38,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "MRVE3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 483784,
+          "fonte_documento": "ITR",
+          "preco_acao": 11.57,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "MRVE3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 561971,
+          "fonte_documento": "ITR",
+          "preco_acao": 10.67,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "MRVE3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 561971,
+          "fonte_documento": "DFP",
+          "preco_acao": 11.23,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "MRVE3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 562827,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.79,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "MRVE3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 562827,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.68,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "MRVE3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 562827,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.24,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "MRVE3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 562827,
+          "fonte_documento": "DFP",
+          "preco_acao": 5.31,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "MRVE3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 562827,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.11,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "MRVE3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 562827,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.37,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "MRVE3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 562827,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.45,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "MRVE3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 562827,
+          "fonte_documento": "DFP",
+          "preco_acao": 7.79,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "MRVE3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 562836,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.87,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "MRVE3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 562836,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.28,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "MRVE3.SA"
+        }
+      ]
+    },
+    "MTRE3": {
+      "cnpj": "07.882.930/0001-65",
+      "denominacao": "MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 105774820,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.18,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "MTRE3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 105774820,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.14,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "MTRE3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 105774820,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.25,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "MTRE3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 105774820,
+          "fonte_documento": "DFP",
+          "preco_acao": 3.63,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "MTRE3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 105774820,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.44,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "MTRE3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 105774820,
+          "fonte_documento": "ITR",
+          "preco_acao": 6.98,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "MTRE3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 105774820,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.66,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "MTRE3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 105774820,
+          "fonte_documento": "DFP",
+          "preco_acao": 6.16,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "MTRE3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 105774820,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.1,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "MTRE3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 105774820,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.49,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "MTRE3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 105774820,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.55,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "MTRE3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 105774820,
+          "fonte_documento": "DFP",
+          "preco_acao": 2.9,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "MTRE3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 105774820,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.37,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "MTRE3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 105774820,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.05,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "MTRE3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 105774820,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.88,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "MTRE3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 105774820,
+          "fonte_documento": "DFP",
+          "preco_acao": 3.72,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "MTRE3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 105774820,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.77,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "MTRE3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 105774820,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.39,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "MTRE3.SA"
+        }
+      ]
+    },
+    "PDGR3": {
+      "cnpj": "02.950.811/0001-89",
+      "denominacao": "PDG REALTY S.A. EMPREEND E PARTICIPACOES",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 56133,
+          "fonte_documento": "ITR",
+          "preco_acao": 4075000.0,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "PDGR3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 56133,
+          "fonte_documento": "ITR",
+          "preco_acao": 2275000.0,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "PDGR3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 56133,
+          "fonte_documento": "ITR",
+          "preco_acao": 1750000.0,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "PDGR3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 322186,
+          "fonte_documento": "DFP",
+          "preco_acao": 300000.0,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "PDGR3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 3221,
+          "fonte_documento": "ITR",
+          "preco_acao": 106750.0,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "PDGR3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 3221,
+          "fonte_documento": "ITR",
+          "preco_acao": 153750.0,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "PDGR3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 3221,
+          "fonte_documento": "ITR",
+          "preco_acao": 102500.0,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "PDGR3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 77786,
+          "fonte_documento": "DFP",
+          "preco_acao": 11250.0,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "PDGR3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 77786,
+          "fonte_documento": "ITR",
+          "preco_acao": 8250.0,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "PDGR3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 77786,
+          "fonte_documento": "ITR",
+          "preco_acao": 4250.0,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "PDGR3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 1743505,
+          "fonte_documento": "ITR",
+          "preco_acao": 500.0,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "PDGR3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 1743505,
+          "fonte_documento": "DFP",
+          "preco_acao": 250.0,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "PDGR3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 13948,
+          "fonte_documento": "ITR",
+          "preco_acao": 152.0,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "PDGR3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 29691,
+          "fonte_documento": "ITR",
+          "preco_acao": 58.0,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "PDGR3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 29691,
+          "fonte_documento": "ITR",
+          "preco_acao": 28.0,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "PDGR3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 3287,
+          "fonte_documento": "DFP",
+          "preco_acao": 1.43,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "PDGR3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 3287,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.7,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "PDGR3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 3287,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.4,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "PDGR3.SA"
+        }
+      ]
+    },
+    "PLPL3": {
+      "cnpj": "24.230.275/0001-80",
+      "denominacao": "PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 204256000,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.9,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "PLPL3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 204256000,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.92,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "PLPL3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 204256000,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.05,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "PLPL3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 204256000,
+          "fonte_documento": "DFP",
+          "preco_acao": 3.98,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "PLPL3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 204256000,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.78,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "PLPL3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 204256000,
+          "fonte_documento": "ITR",
+          "preco_acao": 9.53,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "PLPL3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 204256000,
+          "fonte_documento": "ITR",
+          "preco_acao": 9.39,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "PLPL3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 204256000,
+          "fonte_documento": "DFP",
+          "preco_acao": 11.68,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "PLPL3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 204256000,
+          "fonte_documento": "ITR",
+          "preco_acao": 14.0,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "PLPL3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 204256000,
+          "fonte_documento": "ITR",
+          "preco_acao": 10.3,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "PLPL3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 203901000,
+          "fonte_documento": "ITR",
+          "preco_acao": 12.45,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "PLPL3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 203901000,
+          "fonte_documento": "DFP",
+          "preco_acao": 9.17,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "PLPL3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 203901000,
+          "fonte_documento": "ITR",
+          "preco_acao": 11.76,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "PLPL3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 203901000,
+          "fonte_documento": "ITR",
+          "preco_acao": 15.7,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "PLPL3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 203901000,
+          "fonte_documento": "ITR",
+          "preco_acao": 17.07,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "PLPL3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 203901000,
+          "fonte_documento": "DFP",
+          "preco_acao": 13.7,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "PLPL3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 203901000,
+          "fonte_documento": "ITR",
+          "preco_acao": 13.33,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "PLPL3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 203901000,
+          "fonte_documento": "ITR",
+          "preco_acao": 8.45,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "PLPL3.SA"
+        }
+      ]
+    },
+    "RDNI3": {
+      "cnpj": "67.010.660/0001-24",
+      "denominacao": "RNI NEGÓCIOS IMOBILIÁRIOS S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 43770,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 43770,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 43770,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 43770,
+          "fonte_documento": "DFP",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 43770,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 43770,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 43770,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 43770,
+          "fonte_documento": "DFP",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 43770,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 43770,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 43770,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 43770,
+          "fonte_documento": "DFP",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 43770,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 43770,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 43770,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 43770,
+          "fonte_documento": "DFP",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 45117,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 45117,
+          "fonte_documento": "ITR",
+          "preco_acao": null,
+          "data_preco": null
+        }
+      ]
+    },
+    "RSID3": {
+      "cnpj": "61.065.751/0001-80",
+      "denominacao": "ROSSI RESIDENCIAL S.A. - EM RECUPERAÇÃO JUDICIAL",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 20000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 8.09,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "RSID3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 20000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.36,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "RSID3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 20000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.79,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "RSID3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 20000000,
+          "fonte_documento": "DFP",
+          "preco_acao": 2.84,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "RSID3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 20000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.9,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "RSID3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 20000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.95,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "RSID3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 20000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.88,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "RSID3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 20000000,
+          "fonte_documento": "DFP",
+          "preco_acao": 4.02,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "RSID3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 20000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.0,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "RSID3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 200000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.34,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "RSID3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 20000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.29,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "RSID3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 20000000,
+          "fonte_documento": "DFP",
+          "preco_acao": 2.8,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "RSID3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 20000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.9,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "RSID3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 20000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.06,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "RSID3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 20000000,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.67,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "RSID3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 20272198,
+          "fonte_documento": "DFP",
+          "preco_acao": 1.69,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "RSID3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": null,
+          "fonte_documento": null,
+          "preco_acao": null,
+          "data_preco": null
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": null,
+          "fonte_documento": null,
+          "preco_acao": null,
+          "data_preco": null
+        }
+      ]
+    },
+    "TCSA3": {
+      "cnpj": "08.065.557/0001-12",
+      "denominacao": "TECNISA S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 73619,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.27,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "TCSA3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 73619,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.79,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "TCSA3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 73619,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.24,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "TCSA3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 73619,
+          "fonte_documento": "DFP",
+          "preco_acao": 2.65,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "TCSA3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 73619,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.78,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "TCSA3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 73619,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.48,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "TCSA3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 73619,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.08,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "TCSA3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 73619,
+          "fonte_documento": "DFP",
+          "preco_acao": 4.02,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "TCSA3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 73619,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.92,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "TCSA3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 73619,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.95,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "TCSA3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 73619,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.88,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "TCSA3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 73619,
+          "fonte_documento": "DFP",
+          "preco_acao": 1.25,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "TCSA3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 73619,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.48,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "TCSA3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 73619,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.72,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "TCSA3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 73619,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.53,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "TCSA3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 73619,
+          "fonte_documento": "DFP",
+          "preco_acao": 1.13,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "TCSA3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 73619,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.28,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "TCSA3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 73619,
+          "fonte_documento": "ITR",
+          "preco_acao": 0.82,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "TCSA3.SA"
+        }
+      ]
+    },
+    "TEND3": {
+      "cnpj": "71.476.527/0001-35",
+      "denominacao": "CONSTRUTORA TENDA S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 104344,
+          "fonte_documento": "ITR",
+          "preco_acao": 8.400488,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "TEND3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 104344,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.818404,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "TEND3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 104344,
+          "fonte_documento": "ITR",
+          "preco_acao": 7.068942,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "TEND3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 104344,
+          "fonte_documento": "DFP",
+          "preco_acao": 4.131708,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "TEND3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 104344,
+          "fonte_documento": "DFP",
+          "preco_acao": 4.689783,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "TEND3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 104344,
+          "fonte_documento": "ITR",
+          "preco_acao": 11.259396,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "TEND3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 123094,
+          "fonte_documento": "ITR",
+          "preco_acao": 13.13,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "TEND3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 123094,
+          "fonte_documento": "DFP",
+          "preco_acao": 14.83,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "TEND3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 123094,
+          "fonte_documento": "ITR",
+          "preco_acao": 12.83,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "TEND3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 123094,
+          "fonte_documento": "ITR",
+          "preco_acao": 10.75,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "TEND3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 123094,
+          "fonte_documento": "ITR",
+          "preco_acao": 12.43,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "TEND3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 123094,
+          "fonte_documento": "DFP",
+          "preco_acao": 12.44,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "TEND3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 122578,
+          "fonte_documento": "ITR",
+          "preco_acao": 13.8,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "TEND3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 122578,
+          "fonte_documento": "ITR",
+          "preco_acao": 24.4,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "TEND3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 122578,
+          "fonte_documento": "ITR",
+          "preco_acao": 26.09,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "TEND3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 122578,
+          "fonte_documento": "DFP",
+          "preco_acao": 24.559999,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "TEND3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 122578,
+          "fonte_documento": "ITR",
+          "preco_acao": 31.200001,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "TEND3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 122578,
+          "fonte_documento": "ITR",
+          "preco_acao": 36.549999,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "TEND3.SA"
+        }
+      ]
+    },
+    "TRIS3": {
+      "cnpj": "08.811.643/0001-27",
+      "denominacao": "TRISUL S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 186618,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.738234,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "TRIS3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 186618,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.622917,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "TRIS3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 186618,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.953605,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "TRIS3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 186618,
+          "fonte_documento": "DFP",
+          "preco_acao": 2.645993,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "TRIS3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 186618,
+          "fonte_documento": "ITR",
+          "preco_acao": 2.353703,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "TRIS3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 186618,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.276663,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "TRIS3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 186618,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.122826,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "TRIS3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 186618,
+          "fonte_documento": "DFP",
+          "preco_acao": 4.461267,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "TRIS3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 186618,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.384349,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "TRIS3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 186618,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.730542,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "TRIS3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 186618,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.72285,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "TRIS3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 186618,
+          "fonte_documento": "DFP",
+          "preco_acao": 3.392101,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "TRIS3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 186618,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.8074,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "TRIS3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 186618,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.538125,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "TRIS3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 186618,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.64581,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "TRIS3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 242618,
+          "fonte_documento": "DFP",
+          "preco_acao": 6.26,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "TRIS3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 242618,
+          "fonte_documento": "ITR",
+          "preco_acao": 5.77,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "TRIS3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 233517,
+          "fonte_documento": "ITR",
+          "preco_acao": 4.28,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "TRIS3.SA"
+        }
+      ]
+    },
+    "VIVR3": {
+      "cnpj": "67.571.414/0001-41",
+      "denominacao": "VIVER INCORPORADORA E CONSTRUTORA S.A.",
+      "periodos": [
+        {
+          "data_referencia": "2022-03-31",
+          "quantidade_acoes_total": 142903,
+          "fonte_documento": "ITR",
+          "preco_acao": 118.820419,
+          "data_preco": "2022-03-31",
+          "ticker_yahoo": "VIVR3.SA"
+        },
+        {
+          "data_referencia": "2022-06-30",
+          "quantidade_acoes_total": 142903,
+          "fonte_documento": "ITR",
+          "preco_acao": 59.41021,
+          "data_preco": "2022-06-30",
+          "ticker_yahoo": "VIVR3.SA"
+        },
+        {
+          "data_referencia": "2022-09-30",
+          "quantidade_acoes_total": 164409,
+          "fonte_documento": "ITR",
+          "preco_acao": 49.508507,
+          "data_preco": "2022-09-30",
+          "ticker_yahoo": "VIVR3.SA"
+        },
+        {
+          "data_referencia": "2022-12-31",
+          "quantidade_acoes_total": 192397,
+          "fonte_documento": "DFP",
+          "preco_acao": 49.508507,
+          "data_preco": "2022-12-29",
+          "ticker_yahoo": "VIVR3.SA"
+        },
+        {
+          "data_referencia": "2023-03-31",
+          "quantidade_acoes_total": 234784,
+          "fonte_documento": "ITR",
+          "preco_acao": 39.606804,
+          "data_preco": "2023-03-31",
+          "ticker_yahoo": "VIVR3.SA"
+        },
+        {
+          "data_referencia": "2023-06-30",
+          "quantidade_acoes_total": 23478,
+          "fonte_documento": "ITR",
+          "preco_acao": 30.596256,
+          "data_preco": "2023-06-30",
+          "ticker_yahoo": "VIVR3.SA"
+        },
+        {
+          "data_referencia": "2023-09-30",
+          "quantidade_acoes_total": 23676,
+          "fonte_documento": "ITR",
+          "preco_acao": 33.269714,
+          "data_preco": "2023-09-29",
+          "ticker_yahoo": "VIVR3.SA"
+        },
+        {
+          "data_referencia": "2023-12-31",
+          "quantidade_acoes_total": 23677,
+          "fonte_documento": "DFP",
+          "preco_acao": 51.389832,
+          "data_preco": "2023-12-28",
+          "ticker_yahoo": "VIVR3.SA"
+        },
+        {
+          "data_referencia": "2024-03-31",
+          "quantidade_acoes_total": 27346,
+          "fonte_documento": "ITR",
+          "preco_acao": 31.932686,
+          "data_preco": "2024-03-28",
+          "ticker_yahoo": "VIVR3.SA"
+        },
+        {
+          "data_referencia": "2024-06-30",
+          "quantidade_acoes_total": 27346,
+          "fonte_documento": "ITR",
+          "preco_acao": 23.151197,
+          "data_preco": "2024-06-28",
+          "ticker_yahoo": "VIVR3.SA"
+        },
+        {
+          "data_referencia": "2024-09-30",
+          "quantidade_acoes_total": 38366082,
+          "fonte_documento": "ITR",
+          "preco_acao": 17.962135,
+          "data_preco": "2024-09-30",
+          "ticker_yahoo": "VIVR3.SA"
+        },
+        {
+          "data_referencia": "2024-12-31",
+          "quantidade_acoes_total": 38366,
+          "fonte_documento": "DFP",
+          "preco_acao": 11.775177,
+          "data_preco": "2024-12-30",
+          "ticker_yahoo": "VIVR3.SA"
+        },
+        {
+          "data_referencia": "2025-03-31",
+          "quantidade_acoes_total": 38366,
+          "fonte_documento": "ITR",
+          "preco_acao": 10.278333,
+          "data_preco": "2025-03-31",
+          "ticker_yahoo": "VIVR3.SA"
+        },
+        {
+          "data_referencia": "2025-06-30",
+          "quantidade_acoes_total": 38366,
+          "fonte_documento": "ITR",
+          "preco_acao": 8.7,
+          "data_preco": "2025-06-30",
+          "ticker_yahoo": "VIVR3.SA"
+        },
+        {
+          "data_referencia": "2025-09-30",
+          "quantidade_acoes_total": 38366,
+          "fonte_documento": "ITR",
+          "preco_acao": 9.5,
+          "data_preco": "2025-09-30",
+          "ticker_yahoo": "VIVR3.SA"
+        },
+        {
+          "data_referencia": "2025-12-31",
+          "quantidade_acoes_total": 48764066,
+          "fonte_documento": "DFP",
+          "preco_acao": 6.2,
+          "data_preco": "2025-12-30",
+          "ticker_yahoo": "VIVR3.SA"
+        },
+        {
+          "data_referencia": "2026-03-31",
+          "quantidade_acoes_total": 48800409,
+          "fonte_documento": "ITR",
+          "preco_acao": 3.9,
+          "data_preco": "2026-03-31",
+          "ticker_yahoo": "VIVR3.SA"
+        },
+        {
+          "data_referencia": "2026-06-30",
+          "quantidade_acoes_total": 4880040,
+          "fonte_documento": "ITR",
+          "preco_acao": 1.74,
+          "data_preco": "2026-06-30",
+          "ticker_yahoo": "VIVR3.SA"
+        }
+      ]
+    }
+  }
+}

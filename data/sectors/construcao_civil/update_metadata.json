@@ -1,0 +1,44 @@
+{
+  "updated_at_utc": "2026-08-25T17:42:09.528318+00:00",
+  "last_update": "2026-08-25T17:42:09.528289+00:00",
+  "source_commit": "f716e673a184fa91aae190503e02ca61e211d4fc",
+  "workflow_run_id": "32878356173",
+  "scope": "financial",
+  "sector": "construcao_civil",
+  "mode": "full",
+  "status": "success",
+  "warnings": [],
+  "components": {
+    "financial": {
+      "last_update": "2026-08-25T17:42:09.528289+00:00",
+      "mode": "full",
+      "status": "success",
+      "updated": true
+    },
+    "operational": {
+      "last_update": null,
+      "mode": "",
+      "status": "skipped_by_scope",
+      "updated": false
+    }
+  },
+  "json_files_published": 10,
+  "chart_pngs_published": 0,
+  "files": {
+    "balanco": "balancos_itr_cvm_2022_2026.json",
+    "dre": "DRE_ITR_CVM_ultimos_5_anos.json",
+    "dfc": "DFC_ITR_CVM.json",
+    "divida_liquida": "divida_liquida.json",
+    "ciclo_financeiro": "ciclo_financeiro.json",
+    "market_cap": "market_cap.json",
+    "market_cap_historico": "market_cap_historico.json",
+    "indicadores": "indicadores.json",
+    "reconciliacao": "relatorio_reconciliacao.json"
+  },
+  "operational_jsons": [],
+  "charts": {
+    "individual": {},
+    "comparison": {}
+  },
+  "data_version": "f716e673a184fa91aae190503e02ca61e211d4fc"
+}
