@@ -1,0 +1,124 @@
+{
+  "schema_version": "construction_operational_v1",
+  "sector": "construcao_civil",
+  "generated_at": "2026-08-28T19:03:17.736302+00:00",
+  "extractor_version": "construction_operational_v1",
+  "ticker": "EZTC3",
+  "companhia": "EZ TEC EMPREENDIMENTOS E PARTICIPACOES S.A.",
+  "companies_requested": 26,
+  "documents_processed": 4,
+  "metricas": {
+    "Banco de terras": [
+      {
+        "metric": "Banco de terras",
+        "indicator_id": "landbank_vgv",
+        "confidence": "medium",
+        "calculated": false,
+        "serie": {
+          "1T23": 0.000814
+        },
+        "observations": [
+          {
+            "sector": "construcao_civil",
+            "ticker": "EZTC3",
+            "ticker_found": "EZTC3",
+            "company": "EZ TEC EMPREENDIMENTOS E PARTICIPACOES S.A.",
+            "indicator_id": "landbank_vgv",
+            "indicator_name": "Banco de terras",
+            "value": 0.000814,
+            "unit": "BRL_million",
+            "currency": "BRL",
+            "scale": "million",
+            "period": "1T23",
+            "period_type": "ending_position",
+            "reference_date": null,
+            "flow_or_stock": "stock",
+            "ownership_basis": "unknown",
+            "gross_or_net": "not_applicable",
+            "segment": "consolidated",
+            "region": "",
+            "consolidated_or_breakdown": "consolidated",
+            "source_document": "EZTC3_4T22_APRESENTACAO_RESULTADOS.md",
+            "source_url": "",
+            "source_type": "release",
+            "page": null,
+            "table_title": "**R$ 20,68**",
+            "row_label": "(+) Ativos Corporativos em construção Esther Towers + Air Brooklyn*<br>814.000<br>814.000<br>0,00%",
+            "column_label": "1T23",
+            "evidence_text": "|Projeção da possível adição dada a execução da estratégia* 5.267.449 5.353.272 -1,60%|1.520.824 3.746.625| |---|---| |(+) Valor futuro previsto pela venda do Estoque ao preço esperado atualmente<br>1.329.193<br>1.300.869<br>2,18%|119.474<br>1.209.719| |(+) Ativos Corporativos em construção Esther Towers + Air Brooklyn*<br>814.000<br>814.000<br>0,00%|814.000<br>0| |(+) Valor futuro previsto pela elaboração dos projetos em landbank e venda de suas unidades<br>3.124.255<br>3.238.403 -3,52%|587.350<br>2.536.906| |**Adição prevista de valores do estoque atual e futuros projetos em landbank**<br>**R$ 24,15**<br>**R$ 24,54**<br>**-1,60%**|**R$ 6,97**<br>**R$ 17,18**| |<br> <br> <br>|<br>|",
+            "extraction_method": "contextual_table",
+            "reported_or_derived": "reported",
+            "confidence": "medium",
+            "confidence_reasons": [
+              "official_source",
+              "indicator_explicit",
+              "period_confirmed"
+            ],
+            "validation_flags": [
+              "unknown_ownership_basis"
+            ],
+            "created_at": "2026-08-28T19:03:17.723505+00:00",
+            "extractor_version": "construction_operational_v1"
+          }
+        ]
+      }
+    ]
+  },
+  "observations": [
+    {
+      "sector": "construcao_civil",
+      "ticker": "EZTC3",
+      "ticker_found": "EZTC3",
+      "company": "EZ TEC EMPREENDIMENTOS E PARTICIPACOES S.A.",
+      "indicator_id": "landbank_vgv",
+      "indicator_name": "Banco de terras",
+      "value": 0.000814,
+      "unit": "BRL_million",
+      "currency": "BRL",
+      "scale": "million",
+      "period": "1T23",
+      "period_type": "ending_position",
+      "reference_date": null,
+      "flow_or_stock": "stock",
+      "ownership_basis": "unknown",
+      "gross_or_net": "not_applicable",
+      "segment": "consolidated",
+      "region": "",
+      "consolidated_or_breakdown": "consolidated",
+      "source_document": "EZTC3_4T22_APRESENTACAO_RESULTADOS.md",
+      "source_url": "",
+      "source_type": "release",
+      "page": null,
+      "table_title": "**R$ 20,68**",
+      "row_label": "(+) Ativos Corporativos em construção Esther Towers + Air Brooklyn*<br>814.000<br>814.000<br>0,00%",
+      "column_label": "1T23",
+      "evidence_text": "|Projeção da possível adição dada a execução da estratégia* 5.267.449 5.353.272 -1,60%|1.520.824 3.746.625| |---|---| |(+) Valor futuro previsto pela venda do Estoque ao preço esperado atualmente<br>1.329.193<br>1.300.869<br>2,18%|119.474<br>1.209.719| |(+) Ativos Corporativos em construção Esther Towers + Air Brooklyn*<br>814.000<br>814.000<br>0,00%|814.000<br>0| |(+) Valor futuro previsto pela elaboração dos projetos em landbank e venda de suas unidades<br>3.124.255<br>3.238.403 -3,52%|587.350<br>2.536.906| |**Adição prevista de valores do estoque atual e futuros projetos em landbank**<br>**R$ 24,15**<br>**R$ 24,54**<br>**-1,60%**|**R$ 6,97**<br>**R$ 17,18**| |<br> <br> <br>|<br>|",
+      "extraction_method": "contextual_table",
+      "reported_or_derived": "reported",
+      "confidence": "medium",
+      "confidence_reasons": [
+        "official_source",
+        "indicator_explicit",
+        "period_confirmed"
+      ],
+      "validation_flags": [
+        "unknown_ownership_basis"
+      ],
+      "created_at": "2026-08-28T19:03:17.723505+00:00",
+      "extractor_version": "construction_operational_v1"
+    }
+  ],
+  "calculation_metadata": {
+    "roe": {
+      "value": null,
+      "calculation_status": "missing_financial_dependencies"
+    },
+    "credit_loss_allowance_to_receivables": {
+      "value": null,
+      "calculation_status": "missing_financial_dependencies"
+    }
+  },
+  "warnings": [
+    "ROE e PCLD/Recebíveis não calculados: dependências financeiras hidratadas não disponíveis nesta extração."
+  ]
+}

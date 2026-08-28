@@ -1,29 +1,29 @@
 {
-  "updated_at_utc": "2026-08-27T17:21:23.869409+00:00",
-  "last_update": "2026-08-27T17:21:23.869390+00:00",
-  "source_commit": "5e4afbba0cd007444df9ef56e0e231f6e94f8918",
-  "workflow_run_id": "33097426187",
-  "scope": "financial",
+  "updated_at_utc": "2026-08-28T19:03:25.251902+00:00",
+  "last_update": "2026-08-28T19:03:25.251882+00:00",
+  "source_commit": "68468f934474112bc714bd4d20b4e82202701112",
+  "workflow_run_id": "33201033395",
+  "scope": "operational",
   "sector": "construcao_civil",
-  "mode": "",
+  "mode": "full",
   "status": "success",
   "warnings": [],
   "components": {
     "financial": {
       "last_update": "2026-08-27T17:21:23.869390+00:00",
       "mode": "",
-      "status": "success",
-      "updated": true
-    },
-    "operational": {
-      "last_update": null,
-      "mode": "",
       "status": "skipped_by_scope",
       "updated": false
+    },
+    "operational": {
+      "last_update": "2026-08-28T19:03:25.251882+00:00",
+      "mode": "full",
+      "status": "success",
+      "updated": true
     }
   },
-  "json_files_published": 10,
-  "chart_pngs_published": 321,
+  "json_files_published": 5,
+  "chart_pngs_published": 0,
   "files": {
     "balanco": "balancos_itr_cvm_2022_2026.json",
     "dre": "DRE_ITR_CVM_ultimos_5_anos.json",
@@ -35,7 +35,12 @@
     "indicadores": "indicadores.json",
     "reconciliacao": "relatorio_reconciliacao.json"
   },
-  "operational_jsons": [],
+  "operational_jsons": [
+    "dados_operacionais/AVLL3.json",
+    "dados_operacionais/CYRE3.json",
+    "dados_operacionais/DIRR3.json",
+    "dados_operacionais/EZTC3.json"
+  ],
   "charts": {
     "individual": {
       "AVLL3": {
@@ -415,5 +420,5 @@
       "retorno_preco_setorial_360d": "charts/comparison/retorno_preco_setorial_360d.png"
     }
   },
-  "data_version": "5e4afbba0cd007444df9ef56e0e231f6e94f8918"
+  "data_version": "68468f934474112bc714bd4d20b4e82202701112"
 }

@@ -1,0 +1,401 @@
+{
+  "schema_version": "construction_operational_v1",
+  "sector": "construcao_civil",
+  "generated_at": "2026-08-28T19:03:17.635585+00:00",
+  "extractor_version": "construction_operational_v1",
+  "ticker": "CYRE3",
+  "companhia": "CYRELA BRAZIL REALTY S.A. EMPREENDIMENTOS E PARTICIPACOES",
+  "companies_requested": 26,
+  "documents_processed": 2,
+  "metricas": {
+    "Lançamentos": [
+      {
+        "metric": "Lançamentos",
+        "indicator_id": "launches_vgv",
+        "confidence": "high",
+        "calculated": false,
+        "serie": {
+          "1T26": 0.626625
+        },
+        "observations": [
+          {
+            "sector": "construcao_civil",
+            "ticker": "CYRE3",
+            "ticker_found": "CYRE3",
+            "company": "CYRELA BRAZIL REALTY S.A. EMPREENDIMENTOS E PARTICIPACOES",
+            "indicator_id": "launches_vgv",
+            "indicator_name": "Lançamentos",
+            "value": 0.626625,
+            "unit": "BRL_million",
+            "currency": "BRL",
+            "scale": "million",
+            "period": "1T26",
+            "period_type": "quarter",
+            "reference_date": null,
+            "flow_or_stock": "flow",
+            "ownership_basis": "one_hundred_percent",
+            "gross_or_net": "not_applicable",
+            "segment": "consolidated",
+            "region": "",
+            "consolidated_or_breakdown": "consolidated",
+            "source_document": "CYRE3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+            "source_url": "",
+            "source_type": "release",
+            "page": null,
+            "table_title": "**6M26**",
+            "row_label": "Por Região",
+            "column_label": "1T26",
+            "evidence_text": "   |Por Região|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%| |---|---|---|---|---| |São Paulo<br>Rio de Janeiro<br>Sul<br>Outros|5.154<br>6.302<br>-18%<br>2.145<br>1.413<br>52%<br>0<br>237<br>-100%<br>96<br>1.037<br>-91%|4.158<br>4.822<br>-14%<br>1.482<br>981<br>51%<br>0<br>190<br>-100%<br>48<br>630<br>-92%|81%<br>77%<br>4,1 p.p<br>69%<br>69%<br>-0,3 p.p<br>0%<br>80%<br>-80,0 p.p<br>50%<br>61%<br>-10,7 p.p|131<br>163<br>-20%<br>0<br>216<br>-100%<br>0<br>18<br>-100%<br>14<br>64<br>-78%| |**Total**|**7.395**<br>**8.989**<br>**-18%**|**5.687**<br>**6.622**<br>**-14%**|**77%**<br>**74%**<br>**3,2 p.p**|**144**<br>**461**<br>**-69%**|",
+            "extraction_method": "contextual_table",
+            "reported_or_derived": "reported",
+            "confidence": "high",
+            "confidence_reasons": [
+              "official_source",
+              "indicator_explicit",
+              "period_confirmed"
+            ],
+            "validation_flags": [],
+            "created_at": "2026-08-28T19:03:17.625544+00:00",
+            "extractor_version": "construction_operational_v1"
+          }
+        ]
+      },
+      {
+        "metric": "Lançamentos",
+        "indicator_id": "launches_vgv",
+        "confidence": "high",
+        "calculated": false,
+        "serie": {
+          "2T25": 0.0777432
+        },
+        "observations": [
+          {
+            "sector": "construcao_civil",
+            "ticker": "CYRE3",
+            "ticker_found": "CYRE3",
+            "company": "CYRELA BRAZIL REALTY S.A. EMPREENDIMENTOS E PARTICIPACOES",
+            "indicator_id": "launches_vgv",
+            "indicator_name": "Lançamentos",
+            "value": 0.0777432,
+            "unit": "BRL_million",
+            "currency": "BRL",
+            "scale": "million",
+            "period": "2T25",
+            "period_type": "quarter",
+            "reference_date": null,
+            "flow_or_stock": "flow",
+            "ownership_basis": "one_hundred_percent",
+            "gross_or_net": "not_applicable",
+            "segment": "consolidated",
+            "region": "",
+            "consolidated_or_breakdown": "consolidated",
+            "source_document": "CYRE3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+            "source_url": "",
+            "source_type": "release",
+            "page": null,
+            "table_title": "**6M26**",
+            "row_label": "**Total**",
+            "column_label": "2T25",
+            "evidence_text": "|Por Região|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%| |---|---|---|---|---| |São Paulo<br>Rio de Janeiro<br>Sul<br>Outros|5.154<br>6.302<br>-18%<br>2.145<br>1.413<br>52%<br>0<br>237<br>-100%<br>96<br>1.037<br>-91%|4.158<br>4.822<br>-14%<br>1.482<br>981<br>51%<br>0<br>190<br>-100%<br>48<br>630<br>-92%|81%<br>77%<br>4,1 p.p<br>69%<br>69%<br>-0,3 p.p<br>0%<br>80%<br>-80,0 p.p<br>50%<br>61%<br>-10,7 p.p|131<br>163<br>-20%<br>0<br>216<br>-100%<br>0<br>18<br>-100%<br>14<br>64<br>-78%| |**Total**|**7.395**<br>**8.989**<br>**-18%**|**5.687**<br>**6.622**<br>**-14%**|**77%**<br>**74%**<br>**3,2 p.p**|**144**<br>**461**<br>**-69%**|   |Por Produto|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%|",
+            "extraction_method": "contextual_table",
+            "reported_or_derived": "reported",
+            "confidence": "high",
+            "confidence_reasons": [
+              "official_source",
+              "indicator_explicit",
+              "period_confirmed"
+            ],
+            "validation_flags": [],
+            "created_at": "2026-08-28T19:03:17.626462+00:00",
+            "extractor_version": "construction_operational_v1"
+          }
+        ]
+      },
+      {
+        "metric": "Lançamentos",
+        "indicator_id": "launches_vgv",
+        "confidence": "medium",
+        "calculated": false,
+        "serie": {
+          "1T26": 0.626625
+        },
+        "observations": [
+          {
+            "sector": "construcao_civil",
+            "ticker": "CYRE3",
+            "ticker_found": "CYRE3",
+            "company": "CYRELA BRAZIL REALTY S.A. EMPREENDIMENTOS E PARTICIPACOES",
+            "indicator_id": "launches_vgv",
+            "indicator_name": "Lançamentos",
+            "value": 0.626625,
+            "unit": "BRL_million",
+            "currency": "BRL",
+            "scale": "million",
+            "period": "1T26",
+            "period_type": "quarter",
+            "reference_date": null,
+            "flow_or_stock": "flow",
+            "ownership_basis": "unknown",
+            "gross_or_net": "not_applicable",
+            "segment": "consolidated",
+            "region": "",
+            "consolidated_or_breakdown": "consolidated",
+            "source_document": "CYRE3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+            "source_url": "",
+            "source_type": "release",
+            "page": null,
+            "table_title": "**6M26**",
+            "row_label": "Por Produto",
+            "column_label": "1T26",
+            "evidence_text": "|**Total**|**7.395**<br>**8.989**<br>**-18%**|**5.687**<br>**6.622**<br>**-14%**|**77%**<br>**74%**<br>**3,2 p.p**|**144**<br>**461**<br>**-69%**|   |Por Produto|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%| |---|---|---|---|---| |Alto padrão<br>Médio<br>MCMV 2 e 3|2.962<br>4.901<br>-40%<br>2.032<br>1.724<br>18%<br>2.401<br>2.364<br>2%|2.003<br>3.653<br>-45%<br>1.838<br>1.370<br>34%<br>1.846<br>1.599<br>15%|68%<br>75%<br>-6,9 p.p<br>90%<br>79%<br>11,0 p.p<br>77%<br>68%<br>9,2 p.p|86<br>332<br>-74%<br>43<br>102<br>-58%<br>16<br>27<br>-41%| |**Total**|**7.395**<br>**8.989**<br>**-18%**|**5.687**<br>**6.622**<br>**-14%**|**77%**<br>**74%**<br>**3,2 p.p**|**144**<br>**461**<br>**-69%**|",
+            "extraction_method": "contextual_table",
+            "reported_or_derived": "reported",
+            "confidence": "medium",
+            "confidence_reasons": [
+              "official_source",
+              "indicator_explicit",
+              "period_confirmed"
+            ],
+            "validation_flags": [
+              "unknown_ownership_basis"
+            ],
+            "created_at": "2026-08-28T19:03:17.626925+00:00",
+            "extractor_version": "construction_operational_v1"
+          }
+        ]
+      },
+      {
+        "metric": "Lançamentos",
+        "indicator_id": "launches_vgv",
+        "confidence": "medium",
+        "calculated": false,
+        "serie": {
+          "2T25": 0.0777432
+        },
+        "observations": [
+          {
+            "sector": "construcao_civil",
+            "ticker": "CYRE3",
+            "ticker_found": "CYRE3",
+            "company": "CYRELA BRAZIL REALTY S.A. EMPREENDIMENTOS E PARTICIPACOES",
+            "indicator_id": "launches_vgv",
+            "indicator_name": "Lançamentos",
+            "value": 0.0777432,
+            "unit": "BRL_million",
+            "currency": "BRL",
+            "scale": "million",
+            "period": "2T25",
+            "period_type": "quarter",
+            "reference_date": null,
+            "flow_or_stock": "flow",
+            "ownership_basis": "unknown",
+            "gross_or_net": "not_applicable",
+            "segment": "consolidated",
+            "region": "",
+            "consolidated_or_breakdown": "consolidated",
+            "source_document": "CYRE3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+            "source_url": "",
+            "source_type": "release",
+            "page": null,
+            "table_title": "**6M26**",
+            "row_label": "**Total**",
+            "column_label": "2T25",
+            "evidence_text": "|Por Produto|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%| |---|---|---|---|---| |Alto padrão<br>Médio<br>MCMV 2 e 3|2.962<br>4.901<br>-40%<br>2.032<br>1.724<br>18%<br>2.401<br>2.364<br>2%|2.003<br>3.653<br>-45%<br>1.838<br>1.370<br>34%<br>1.846<br>1.599<br>15%|68%<br>75%<br>-6,9 p.p<br>90%<br>79%<br>11,0 p.p<br>77%<br>68%<br>9,2 p.p|86<br>332<br>-74%<br>43<br>102<br>-58%<br>16<br>27<br>-41%| |**Total**|**7.395**<br>**8.989**<br>**-18%**|**5.687**<br>**6.622**<br>**-14%**|**77%**<br>**74%**<br>**3,2 p.p**|**144**<br>**461**<br>**-69%**|   40",
+            "extraction_method": "contextual_table",
+            "reported_or_derived": "reported",
+            "confidence": "medium",
+            "confidence_reasons": [
+              "official_source",
+              "indicator_explicit",
+              "period_confirmed"
+            ],
+            "validation_flags": [
+              "unknown_ownership_basis"
+            ],
+            "created_at": "2026-08-28T19:03:17.627675+00:00",
+            "extractor_version": "construction_operational_v1"
+          }
+        ]
+      }
+    ]
+  },
+  "observations": [
+    {
+      "sector": "construcao_civil",
+      "ticker": "CYRE3",
+      "ticker_found": "CYRE3",
+      "company": "CYRELA BRAZIL REALTY S.A. EMPREENDIMENTOS E PARTICIPACOES",
+      "indicator_id": "launches_vgv",
+      "indicator_name": "Lançamentos",
+      "value": 0.626625,
+      "unit": "BRL_million",
+      "currency": "BRL",
+      "scale": "million",
+      "period": "1T26",
+      "period_type": "quarter",
+      "reference_date": null,
+      "flow_or_stock": "flow",
+      "ownership_basis": "one_hundred_percent",
+      "gross_or_net": "not_applicable",
+      "segment": "consolidated",
+      "region": "",
+      "consolidated_or_breakdown": "consolidated",
+      "source_document": "CYRE3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+      "source_url": "",
+      "source_type": "release",
+      "page": null,
+      "table_title": "**6M26**",
+      "row_label": "Por Região",
+      "column_label": "1T26",
+      "evidence_text": "   |Por Região|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%| |---|---|---|---|---| |São Paulo<br>Rio de Janeiro<br>Sul<br>Outros|5.154<br>6.302<br>-18%<br>2.145<br>1.413<br>52%<br>0<br>237<br>-100%<br>96<br>1.037<br>-91%|4.158<br>4.822<br>-14%<br>1.482<br>981<br>51%<br>0<br>190<br>-100%<br>48<br>630<br>-92%|81%<br>77%<br>4,1 p.p<br>69%<br>69%<br>-0,3 p.p<br>0%<br>80%<br>-80,0 p.p<br>50%<br>61%<br>-10,7 p.p|131<br>163<br>-20%<br>0<br>216<br>-100%<br>0<br>18<br>-100%<br>14<br>64<br>-78%| |**Total**|**7.395**<br>**8.989**<br>**-18%**|**5.687**<br>**6.622**<br>**-14%**|**77%**<br>**74%**<br>**3,2 p.p**|**144**<br>**461**<br>**-69%**|",
+      "extraction_method": "contextual_table",
+      "reported_or_derived": "reported",
+      "confidence": "high",
+      "confidence_reasons": [
+        "official_source",
+        "indicator_explicit",
+        "period_confirmed"
+      ],
+      "validation_flags": [],
+      "created_at": "2026-08-28T19:03:17.625544+00:00",
+      "extractor_version": "construction_operational_v1"
+    },
+    {
+      "sector": "construcao_civil",
+      "ticker": "CYRE3",
+      "ticker_found": "CYRE3",
+      "company": "CYRELA BRAZIL REALTY S.A. EMPREENDIMENTOS E PARTICIPACOES",
+      "indicator_id": "launches_vgv",
+      "indicator_name": "Lançamentos",
+      "value": 0.0777432,
+      "unit": "BRL_million",
+      "currency": "BRL",
+      "scale": "million",
+      "period": "2T25",
+      "period_type": "quarter",
+      "reference_date": null,
+      "flow_or_stock": "flow",
+      "ownership_basis": "one_hundred_percent",
+      "gross_or_net": "not_applicable",
+      "segment": "consolidated",
+      "region": "",
+      "consolidated_or_breakdown": "consolidated",
+      "source_document": "CYRE3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+      "source_url": "",
+      "source_type": "release",
+      "page": null,
+      "table_title": "**6M26**",
+      "row_label": "**Total**",
+      "column_label": "2T25",
+      "evidence_text": "|Por Região|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%| |---|---|---|---|---| |São Paulo<br>Rio de Janeiro<br>Sul<br>Outros|5.154<br>6.302<br>-18%<br>2.145<br>1.413<br>52%<br>0<br>237<br>-100%<br>96<br>1.037<br>-91%|4.158<br>4.822<br>-14%<br>1.482<br>981<br>51%<br>0<br>190<br>-100%<br>48<br>630<br>-92%|81%<br>77%<br>4,1 p.p<br>69%<br>69%<br>-0,3 p.p<br>0%<br>80%<br>-80,0 p.p<br>50%<br>61%<br>-10,7 p.p|131<br>163<br>-20%<br>0<br>216<br>-100%<br>0<br>18<br>-100%<br>14<br>64<br>-78%| |**Total**|**7.395**<br>**8.989**<br>**-18%**|**5.687**<br>**6.622**<br>**-14%**|**77%**<br>**74%**<br>**3,2 p.p**|**144**<br>**461**<br>**-69%**|   |Por Produto|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%|",
+      "extraction_method": "contextual_table",
+      "reported_or_derived": "reported",
+      "confidence": "high",
+      "confidence_reasons": [
+        "official_source",
+        "indicator_explicit",
+        "period_confirmed"
+      ],
+      "validation_flags": [],
+      "created_at": "2026-08-28T19:03:17.626462+00:00",
+      "extractor_version": "construction_operational_v1"
+    },
+    {
+      "sector": "construcao_civil",
+      "ticker": "CYRE3",
+      "ticker_found": "CYRE3",
+      "company": "CYRELA BRAZIL REALTY S.A. EMPREENDIMENTOS E PARTICIPACOES",
+      "indicator_id": "launches_vgv",
+      "indicator_name": "Lançamentos",
+      "value": 0.626625,
+      "unit": "BRL_million",
+      "currency": "BRL",
+      "scale": "million",
+      "period": "1T26",
+      "period_type": "quarter",
+      "reference_date": null,
+      "flow_or_stock": "flow",
+      "ownership_basis": "unknown",
+      "gross_or_net": "not_applicable",
+      "segment": "consolidated",
+      "region": "",
+      "consolidated_or_breakdown": "consolidated",
+      "source_document": "CYRE3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+      "source_url": "",
+      "source_type": "release",
+      "page": null,
+      "table_title": "**6M26**",
+      "row_label": "Por Produto",
+      "column_label": "1T26",
+      "evidence_text": "|**Total**|**7.395**<br>**8.989**<br>**-18%**|**5.687**<br>**6.622**<br>**-14%**|**77%**<br>**74%**<br>**3,2 p.p**|**144**<br>**461**<br>**-69%**|   |Por Produto|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%| |---|---|---|---|---| |Alto padrão<br>Médio<br>MCMV 2 e 3|2.962<br>4.901<br>-40%<br>2.032<br>1.724<br>18%<br>2.401<br>2.364<br>2%|2.003<br>3.653<br>-45%<br>1.838<br>1.370<br>34%<br>1.846<br>1.599<br>15%|68%<br>75%<br>-6,9 p.p<br>90%<br>79%<br>11,0 p.p<br>77%<br>68%<br>9,2 p.p|86<br>332<br>-74%<br>43<br>102<br>-58%<br>16<br>27<br>-41%| |**Total**|**7.395**<br>**8.989**<br>**-18%**|**5.687**<br>**6.622**<br>**-14%**|**77%**<br>**74%**<br>**3,2 p.p**|**144**<br>**461**<br>**-69%**|",
+      "extraction_method": "contextual_table",
+      "reported_or_derived": "reported",
+      "confidence": "medium",
+      "confidence_reasons": [
+        "official_source",
+        "indicator_explicit",
+        "period_confirmed"
+      ],
+      "validation_flags": [
+        "unknown_ownership_basis"
+      ],
+      "created_at": "2026-08-28T19:03:17.626925+00:00",
+      "extractor_version": "construction_operational_v1"
+    },
+    {
+      "sector": "construcao_civil",
+      "ticker": "CYRE3",
+      "ticker_found": "CYRE3",
+      "company": "CYRELA BRAZIL REALTY S.A. EMPREENDIMENTOS E PARTICIPACOES",
+      "indicator_id": "launches_vgv",
+      "indicator_name": "Lançamentos",
+      "value": 0.0777432,
+      "unit": "BRL_million",
+      "currency": "BRL",
+      "scale": "million",
+      "period": "2T25",
+      "period_type": "quarter",
+      "reference_date": null,
+      "flow_or_stock": "flow",
+      "ownership_basis": "unknown",
+      "gross_or_net": "not_applicable",
+      "segment": "consolidated",
+      "region": "",
+      "consolidated_or_breakdown": "consolidated",
+      "source_document": "CYRE3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+      "source_url": "",
+      "source_type": "release",
+      "page": null,
+      "table_title": "**6M26**",
+      "row_label": "**Total**",
+      "column_label": "2T25",
+      "evidence_text": "|Por Produto|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%| |---|---|---|---|---| |Alto padrão<br>Médio<br>MCMV 2 e 3|2.962<br>4.901<br>-40%<br>2.032<br>1.724<br>18%<br>2.401<br>2.364<br>2%|2.003<br>3.653<br>-45%<br>1.838<br>1.370<br>34%<br>1.846<br>1.599<br>15%|68%<br>75%<br>-6,9 p.p<br>90%<br>79%<br>11,0 p.p<br>77%<br>68%<br>9,2 p.p|86<br>332<br>-74%<br>43<br>102<br>-58%<br>16<br>27<br>-41%| |**Total**|**7.395**<br>**8.989**<br>**-18%**|**5.687**<br>**6.622**<br>**-14%**|**77%**<br>**74%**<br>**3,2 p.p**|**144**<br>**461**<br>**-69%**|   40",
+      "extraction_method": "contextual_table",
+      "reported_or_derived": "reported",
+      "confidence": "medium",
+      "confidence_reasons": [
+        "official_source",
+        "indicator_explicit",
+        "period_confirmed"
+      ],
+      "validation_flags": [
+        "unknown_ownership_basis"
+      ],
+      "created_at": "2026-08-28T19:03:17.627675+00:00",
+      "extractor_version": "construction_operational_v1"
+    }
+  ],
+  "calculation_metadata": {
+    "roe": {
+      "value": null,
+      "calculation_status": "missing_financial_dependencies"
+    },
+    "credit_loss_allowance_to_receivables": {
+      "value": null,
+      "calculation_status": "missing_financial_dependencies"
+    }
+  },
+  "warnings": [
+    "ROE e PCLD/Recebíveis não calculados: dependências financeiras hidratadas não disponíveis nesta extração."
+  ]
+}

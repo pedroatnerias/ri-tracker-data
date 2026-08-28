@@ -141,7 +141,12 @@
         "indicadores": "indicadores.json",
         "reconciliacao": "relatorio_reconciliacao.json"
       },
-      "operational_jsons": [],
+      "operational_jsons": [
+        "dados_operacionais/AVLL3.json",
+        "dados_operacionais/CYRE3.json",
+        "dados_operacionais/DIRR3.json",
+        "dados_operacionais/EZTC3.json"
+      ],
       "charts": {
         "individual": {
           "AVLL3": {
@@ -521,8 +526,8 @@
           "retorno_preco_setorial_360d": "charts/comparison/retorno_preco_setorial_360d.png"
         }
       },
-      "data_version": "5e4afbba0cd007444df9ef56e0e231f6e94f8918"
+      "data_version": "68468f934474112bc714bd4d20b4e82202701112"
     }
   },
-  "data_version": "5e4afbba0cd007444df9ef56e0e231f6e94f8918"
+  "data_version": "68468f934474112bc714bd4d20b4e82202701112"
 }
