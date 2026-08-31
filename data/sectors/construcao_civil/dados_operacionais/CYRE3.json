@@ -1,7 +1,7 @@
 {
   "schema_version": "construction_operational_v1",
   "sector": "construcao_civil",
-  "generated_at": "2026-08-31T12:57:46.453050+00:00",
+  "generated_at": "2026-08-31T13:11:41.272103+00:00",
   "extractor_version": "construction_operational_v1",
   "ticker": "CYRE3",
   "companhia": "CYRELA BRAZIL REALTY S.A. EMPREENDIMENTOS E PARTICIPACOES",
@@ -60,7 +60,7 @@
             "normalized_value": 77743.2,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-08-31T12:57:46.445375+00:00",
+            "created_at": "2026-08-31T13:11:41.265610+00:00",
             "extractor_version": "construction_operational_v1"
           }
         ]
@@ -118,7 +118,7 @@
             "normalized_value": 77743.2,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-08-31T12:57:46.446166+00:00",
+            "created_at": "2026-08-31T13:11:41.266280+00:00",
             "extractor_version": "construction_operational_v1"
           }
         ]
@@ -168,7 +168,7 @@
       "normalized_value": 77743.2,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-08-31T12:57:46.445375+00:00",
+      "created_at": "2026-08-31T13:11:41.265610+00:00",
       "extractor_version": "construction_operational_v1"
     },
     {
@@ -215,7 +215,7 @@
       "normalized_value": 77743.2,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-08-31T12:57:46.446166+00:00",
+      "created_at": "2026-08-31T13:11:41.266280+00:00",
       "extractor_version": "construction_operational_v1"
     }
   ],

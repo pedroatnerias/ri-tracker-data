@@ -1,7 +1,7 @@
 {
   "schema_version": "construction_operational_v1",
   "sector": "construcao_civil",
-  "generated_at": "2026-08-31T12:57:46.402314+00:00",
+  "generated_at": "2026-08-31T13:11:41.229534+00:00",
   "extractor_version": "construction_operational_v1",
   "ticker": "AVLL3",
   "companhia": "ALPHAVILLE S.A.",
@@ -60,7 +60,7 @@
             "normalized_value": 34000.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": true,
-            "created_at": "2026-08-31T12:57:46.376522+00:00",
+            "created_at": "2026-08-31T13:11:41.208049+00:00",
             "extractor_version": "construction_operational_v1"
           }
         ]
@@ -116,7 +116,7 @@
             "normalized_value": 35000.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": true,
-            "created_at": "2026-08-31T12:57:46.376611+00:00",
+            "created_at": "2026-08-31T13:11:41.208121+00:00",
             "extractor_version": "construction_operational_v1"
           }
         ]
@@ -172,7 +172,7 @@
             "normalized_value": 35000.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": true,
-            "created_at": "2026-08-31T12:57:46.376780+00:00",
+            "created_at": "2026-08-31T13:11:41.208266+00:00",
             "extractor_version": "construction_operational_v1"
           }
         ]
@@ -230,7 +230,7 @@
             "normalized_value": 294.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-08-31T12:57:46.387734+00:00",
+            "created_at": "2026-08-31T13:11:41.217341+00:00",
             "extractor_version": "construction_operational_v1"
           }
         ]
@@ -288,7 +288,7 @@
             "normalized_value": 212.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-08-31T12:57:46.387778+00:00",
+            "created_at": "2026-08-31T13:11:41.217376+00:00",
             "extractor_version": "construction_operational_v1"
           }
         ]
@@ -346,7 +346,7 @@
             "normalized_value": 0.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-08-31T12:57:46.387826+00:00",
+            "created_at": "2026-08-31T13:11:41.217414+00:00",
             "extractor_version": "construction_operational_v1"
           }
         ]
@@ -406,7 +406,7 @@
             "normalized_value": 2.0,
             "normalized_unit": "units",
             "scale_conversion_applied": false,
-            "created_at": "2026-08-31T12:57:46.380376+00:00",
+            "created_at": "2026-08-31T13:11:41.211270+00:00",
             "extractor_version": "construction_operational_v1"
           }
         ]
@@ -464,7 +464,7 @@
             "normalized_value": 2.0,
             "normalized_unit": "units",
             "scale_conversion_applied": false,
-            "created_at": "2026-08-31T12:57:46.380417+00:00",
+            "created_at": "2026-08-31T13:11:41.211303+00:00",
             "extractor_version": "construction_operational_v1"
           }
         ]
@@ -522,7 +522,7 @@
             "normalized_value": 3.0,
             "normalized_unit": "units",
             "scale_conversion_applied": false,
-            "created_at": "2026-08-31T12:57:46.380461+00:00",
+            "created_at": "2026-08-31T13:11:41.211339+00:00",
             "extractor_version": "construction_operational_v1"
           }
         ]
@@ -582,7 +582,7 @@
             "normalized_value": 12.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-08-31T12:57:46.381503+00:00",
+            "created_at": "2026-08-31T13:11:41.212189+00:00",
             "extractor_version": "construction_operational_v1"
           }
         ]
@@ -640,7 +640,7 @@
             "normalized_value": 13.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-08-31T12:57:46.381600+00:00",
+            "created_at": "2026-08-31T13:11:41.212260+00:00",
             "extractor_version": "construction_operational_v1"
           }
         ]
@@ -698,7 +698,7 @@
             "normalized_value": 14.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-08-31T12:57:46.381689+00:00",
+            "created_at": "2026-08-31T13:11:41.212330+00:00",
             "extractor_version": "construction_operational_v1"
           }
         ]
@@ -758,7 +758,7 @@
             "normalized_value": 34000.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": true,
-            "created_at": "2026-08-31T12:57:46.385880+00:00",
+            "created_at": "2026-08-31T13:11:41.215831+00:00",
             "extractor_version": "construction_operational_v1"
           }
         ]
@@ -816,7 +816,7 @@
             "normalized_value": 35000.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": true,
-            "created_at": "2026-08-31T12:57:46.385920+00:00",
+            "created_at": "2026-08-31T13:11:41.215862+00:00",
             "extractor_version": "construction_operational_v1"
           }
         ]
@@ -874,7 +874,7 @@
             "normalized_value": 35000.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": true,
-            "created_at": "2026-08-31T12:57:46.385961+00:00",
+            "created_at": "2026-08-31T13:11:41.215897+00:00",
             "extractor_version": "construction_operational_v1"
           }
         ]
@@ -924,7 +924,7 @@
       "normalized_value": 34000.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": true,
-      "created_at": "2026-08-31T12:57:46.376522+00:00",
+      "created_at": "2026-08-31T13:11:41.208049+00:00",
       "extractor_version": "construction_operational_v1"
     },
     {
@@ -969,7 +969,7 @@
       "normalized_value": 35000.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": true,
-      "created_at": "2026-08-31T12:57:46.376611+00:00",
+      "created_at": "2026-08-31T13:11:41.208121+00:00",
       "extractor_version": "construction_operational_v1"
     },
     {
@@ -1014,7 +1014,7 @@
       "normalized_value": 35000.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": true,
-      "created_at": "2026-08-31T12:57:46.376780+00:00",
+      "created_at": "2026-08-31T13:11:41.208266+00:00",
       "extractor_version": "construction_operational_v1"
     },
     {
@@ -1061,7 +1061,7 @@
       "normalized_value": 2.0,
       "normalized_unit": "units",
       "scale_conversion_applied": false,
-      "created_at": "2026-08-31T12:57:46.380376+00:00",
+      "created_at": "2026-08-31T13:11:41.211270+00:00",
       "extractor_version": "construction_operational_v1"
     },
     {
@@ -1108,7 +1108,7 @@
       "normalized_value": 2.0,
       "normalized_unit": "units",
       "scale_conversion_applied": false,
-      "created_at": "2026-08-31T12:57:46.380417+00:00",
+      "created_at": "2026-08-31T13:11:41.211303+00:00",
       "extractor_version": "construction_operational_v1"
     },
     {
@@ -1155,7 +1155,7 @@
       "normalized_value": 3.0,
       "normalized_unit": "units",
       "scale_conversion_applied": false,
-      "created_at": "2026-08-31T12:57:46.380461+00:00",
+      "created_at": "2026-08-31T13:11:41.211339+00:00",
       "extractor_version": "construction_operational_v1"
     },
     {
@@ -1202,7 +1202,7 @@
       "normalized_value": 12.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-08-31T12:57:46.381503+00:00",
+      "created_at": "2026-08-31T13:11:41.212189+00:00",
       "extractor_version": "construction_operational_v1"
     },
     {
@@ -1249,7 +1249,7 @@
       "normalized_value": 13.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-08-31T12:57:46.381600+00:00",
+      "created_at": "2026-08-31T13:11:41.212260+00:00",
       "extractor_version": "construction_operational_v1"
     },
     {
@@ -1296,7 +1296,7 @@
       "normalized_value": 14.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-08-31T12:57:46.381689+00:00",
+      "created_at": "2026-08-31T13:11:41.212330+00:00",
       "extractor_version": "construction_operational_v1"
     },
     {
@@ -1343,7 +1343,7 @@
       "normalized_value": 34000.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": true,
-      "created_at": "2026-08-31T12:57:46.385880+00:00",
+      "created_at": "2026-08-31T13:11:41.215831+00:00",
       "extractor_version": "construction_operational_v1"
     },
     {
@@ -1390,7 +1390,7 @@
       "normalized_value": 35000.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": true,
-      "created_at": "2026-08-31T12:57:46.385920+00:00",
+      "created_at": "2026-08-31T13:11:41.215862+00:00",
       "extractor_version": "construction_operational_v1"
     },
     {
@@ -1437,7 +1437,7 @@
       "normalized_value": 35000.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": true,
-      "created_at": "2026-08-31T12:57:46.385961+00:00",
+      "created_at": "2026-08-31T13:11:41.215897+00:00",
       "extractor_version": "construction_operational_v1"
     },
     {
@@ -1484,7 +1484,7 @@
       "normalized_value": 294.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-08-31T12:57:46.387734+00:00",
+      "created_at": "2026-08-31T13:11:41.217341+00:00",
       "extractor_version": "construction_operational_v1"
     },
     {
@@ -1531,7 +1531,7 @@
       "normalized_value": 212.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-08-31T12:57:46.387778+00:00",
+      "created_at": "2026-08-31T13:11:41.217376+00:00",
       "extractor_version": "construction_operational_v1"
     },
     {
@@ -1578,7 +1578,7 @@
       "normalized_value": 0.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-08-31T12:57:46.387826+00:00",
+      "created_at": "2026-08-31T13:11:41.217414+00:00",
       "extractor_version": "construction_operational_v1"
     }
   ],
