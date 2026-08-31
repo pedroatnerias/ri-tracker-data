@@ -13,7 +13,15 @@
         "indicadores": "indicadores.json",
         "reconciliacao": "relatorio_reconciliacao.json"
       },
-      "operational_jsons": [],
+      "operational_jsons": [
+        "dados_operacionais/AALR3.json",
+        "dados_operacionais/DASA3.json",
+        "dados_operacionais/FLRY3.json",
+        "dados_operacionais/HAPV3.json",
+        "dados_operacionais/MATD3.json",
+        "dados_operacionais/ONCO3.json",
+        "dados_operacionais/RDOR3.json"
+      ],
       "charts": {
         "individual": {
           "AALR3": {
@@ -127,7 +135,7 @@
           "retorno_preco_setorial_360d": "charts/comparison/retorno_preco_setorial_360d.png"
         }
       },
-      "data_version": "5e4afbba0cd007444df9ef56e0e231f6e94f8918"
+      "data_version": "5898e32ddb8d0cbf3e2ff9ad1045a35ea236859e"
     },
     "construcao_civil": {
       "files": {
@@ -529,5 +537,5 @@
       "data_version": "68468f934474112bc714bd4d20b4e82202701112"
     }
   },
-  "data_version": "68468f934474112bc714bd4d20b4e82202701112"
+  "data_version": "5898e32ddb8d0cbf3e2ff9ad1045a35ea236859e"
 }
