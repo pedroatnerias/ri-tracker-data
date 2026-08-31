@@ -1,13 +1,176 @@
 {
-  "updated_at_utc": "2026-08-31T13:11:47.804675+00:00",
-  "last_update": "2026-08-31T13:11:47.804663+00:00",
-  "source_commit": "07cdf39180aef374e2b9725a5639915e986fba3a",
-  "workflow_run_id": "33394938341",
+  "updated_at_utc": "2026-08-31T13:54:15.708884+00:00",
+  "last_update": "2026-08-31T13:54:15.708864+00:00",
+  "source_commit": "b20d1ace6d59b2fbd44d8712c91dace8f0651dfe",
+  "workflow_run_id": "33398443165",
   "scope": "operational",
   "sector": "construcao_civil",
   "mode": "full",
-  "status": "success",
-  "warnings": [],
+  "status": "success_with_warnings",
+  "warnings": [
+    "Cobertura parcial: 4/26 empresas com observacoes validas."
+  ],
+  "operational_quality": {
+    "sector": "construcao_civil",
+    "companies_requested": 26,
+    "manifest_operational_jsons": [
+      "dados_operacionais/AVLL3.json",
+      "dados_operacionais/CALI3.json",
+      "dados_operacionais/CURY3.json",
+      "dados_operacionais/CYRE3.json",
+      "dados_operacionais/DIRR3.json",
+      "dados_operacionais/EVEN3.json",
+      "dados_operacionais/EZTC3.json",
+      "dados_operacionais/FIEI3.json",
+      "dados_operacionais/GFSA3.json",
+      "dados_operacionais/HBOR3.json",
+      "dados_operacionais/INNC3.json",
+      "dados_operacionais/JFEN3.json",
+      "dados_operacionais/JHSF3.json",
+      "dados_operacionais/LAVV3.json",
+      "dados_operacionais/MDNE3.json",
+      "dados_operacionais/MELK3.json",
+      "dados_operacionais/MRVE3.json",
+      "dados_operacionais/MTRE3.json",
+      "dados_operacionais/PDGR3.json",
+      "dados_operacionais/PLPL3.json",
+      "dados_operacionais/RDNI3.json",
+      "dados_operacionais/RSID3.json",
+      "dados_operacionais/TCSA3.json",
+      "dados_operacionais/TEND3.json",
+      "dados_operacionais/TRIS3.json",
+      "dados_operacionais/VIVR3.json"
+    ],
+    "manifest_missing_files": [],
+    "publishable_unlisted_files": [],
+    "companies_with_valid_observations": 4,
+    "companies_not_found": 0,
+    "companies_quarantined_only": 0,
+    "valid_observations": 49,
+    "quarantined_observations": 0,
+    "zero_observations": 0,
+    "scales_detected": {
+      "(R$ milhões) 1T26 1T25 Var (%) 4T25 Var (%)": 17,
+      "**_Landbank Total (R$ bilhões)_** **Indicadores Operacionais¹** |(R$ milhões)|1T26|1T25|Var (%)|4T25|Var (%)| |---|---|---|---|---|---| |**Landbank **|**Landbank **|**Landbank **|**Landbank **|**Landbank **|**Landbank **| |**_Landbank Total (R$ bilhões)_**|34|35|_-3%_|35|_-3%_| |**_Landbank %AVLL (R$ bilhões)_**|19|20|_-4%_|19|_-3%_| |**Lançamentos**|**Lançamentos**|**Lançamentos**|**Lançamentos**|**Lançamentos**|**Lançamentos**| |**_Empreendimentos Lançados_**|2|1|_100%_|0|_n/a_|": 3,
+      "Contas a receber 2T26<br>R$ MM 1T26<br>R$ MM 2T26 x 1T26": 1,
+      "Por Região VGV Lançado (R$ MM)<br>6M26 6M25 Var% VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var% % CBR<br>6M26 6M25 Var p.p. VGV Permutado (R$ MM)<br>6M26 6M25 Var%": 2,
+      "**Total** **6M26** |Por Região|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%| |---|---|---|---|---| |São Paulo<br>Rio de Janeiro<br>Sul<br>Outros|5.154<br>6.302<br>-18%<br>2.145<br>1.413<br>52%<br>0<br>237<br>-100%<br>96<br>1.037<br>-91%|4.158<br>4.822<br>-14%<br>1.482<br>981<br>51%<br>0<br>190<br>-100%<br>48<br>630<br>-92%|81%<br>77%<br>4,1 p.p<br>69%<br>69%<br>-0,3 p.p<br>0%<br>80%<br>-80,0 p.p<br>50%<br>61%<br>-10,7 p.p|131<br>163<br>-20%<br>0<br>216<br>-100%<br>0<br>18<br>-100%<br>14<br>64<br>-78%| |**Total**|**7.395**<br>**8.989**<br>**-18%**|**5.687**<br>**6.622**<br>**-14%**|**77%**<br>**74%**<br>**3,2 p.p**|**144**<br>**461**<br>**-69%**|   |Por Produto|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%|": 1,
+      "**Total** **6M26** |Por Produto|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%| |---|---|---|---|---| |Alto padrão<br>Médio<br>MCMV 2 e 3|2.962<br>4.901<br>-40%<br>2.032<br>1.724<br>18%<br>2.401<br>2.364<br>2%|2.003<br>3.653<br>-45%<br>1.838<br>1.370<br>34%<br>1.846<br>1.599<br>15%|68%<br>75%<br>-6,9 p.p<br>90%<br>79%<br>11,0 p.p<br>77%<br>68%<br>9,2 p.p|86<br>332<br>-74%<br>43<br>102<br>-58%<br>16<br>27<br>-41%| |**Total**|**7.395**<br>**8.989**<br>**-18%**|**5.687**<br>**6.622**<br>**-14%**|**77%**<br>**74%**<br>**3,2 p.p**|**144**<br>**461**<br>**-69%**|   40": 1,
+      "Período findo de 30 de junho de 2026 2T26<br>R$ MM 1T26 %Var 2T25 %Var 1S26 1S25 %Var": 4,
+      "4T25 3T25 %Var 4T24 %Var 2025 2024 %Var": 4,
+      "1T26 4T25 %Var 1T25 %Var 1T26 4T25 %Var": 3,
+      "(+) Ativos Corporativos em construção Esther Towers + Air Brooklyn*<br>814.000<br>814.000<br>0,00% **R$ 20,68** |Projeção da possível adição dada a execução da estratégia* 5.267.449 5.353.272 -1,60%|1.520.824 3.746.625| |---|---| |(+) Valor futuro previsto pela venda do Estoque ao preço esperado atualmente<br>1.329.193<br>1.300.869<br>2,18%|119.474<br>1.209.719| |(+) Ativos Corporativos em construção Esther Towers + Air Brooklyn*<br>814.000<br>814.000<br>0,00%|814.000<br>0| |(+) Valor futuro previsto pela elaboração dos projetos em landbank e venda de suas unidades<br>3.124.255<br>3.238.403 -3,52%|587.350<br>2.536.906| |**Adição prevista de valores do estoque atual e futuros projetos em landbank**<br>**R$ 24,15**<br>**R$ 24,54**<br>**-1,60%**|**R$ 6,97**<br>**R$ 17,18**| |<br> <br> <br>|<br>|": 1,
+      "Landbank 3T25 2T25 3T24 3T25 x 2T25 ↕️ 3T25 x 3T24 ↕️ 9M25 9M24 9M25 X 9M24": 5,
+      "Landbank 4T25 3T25 4T24 4T25 x<br>4T25 x 3T25 ↕️ ↕️<br>4T24 2025 2024 2025 x 2024": 4,
+      "Landbank<br>Landbank (em R$ mil)<br>Número de Unidades<br>Preço Médio por Unidade (em R$ mil) 1T26 4T25 1T25": 3
+    },
+    "periods_coverage_by_company": {
+      "AVLL3": [
+        "1T25",
+        "1T26",
+        "4T25"
+      ],
+      "CALI3": [],
+      "CURY3": [],
+      "CYRE3": [
+        "2T25",
+        "2T26",
+        "6M25",
+        "6M26"
+      ],
+      "DIRR3": [],
+      "EVEN3": [],
+      "EZTC3": [
+        "1T23",
+        "1T25",
+        "1T26",
+        "2024",
+        "2025",
+        "2T25",
+        "3T25",
+        "4T24",
+        "4T25"
+      ],
+      "FIEI3": [],
+      "GFSA3": [],
+      "HBOR3": [],
+      "INNC3": [
+        "1T25",
+        "1T26",
+        "2024",
+        "2T25",
+        "3T24",
+        "3T25",
+        "4T24",
+        "4T25",
+        "9M24",
+        "9M25"
+      ],
+      "JFEN3": [],
+      "JHSF3": [],
+      "LAVV3": [],
+      "MDNE3": [],
+      "MELK3": [],
+      "MRVE3": [],
+      "MTRE3": [],
+      "PDGR3": [],
+      "PLPL3": [],
+      "RDNI3": [],
+      "RSID3": [],
+      "TCSA3": [],
+      "TEND3": [],
+      "TRIS3": [],
+      "VIVR3": []
+    },
+    "metrics_coverage_by_company": {
+      "AVLL3": [
+        "cancellations_vgv",
+        "ending_inventory_vgv",
+        "landbank_vgv",
+        "launches_vgv",
+        "net_sales_vgv",
+        "units_sold"
+      ],
+      "CALI3": [],
+      "CURY3": [],
+      "CYRE3": [
+        "launches_vgv",
+        "units_under_construction"
+      ],
+      "DIRR3": [],
+      "EVEN3": [],
+      "EZTC3": [
+        "cancellations_vgv",
+        "landbank_vgv",
+        "net_sales_vgv"
+      ],
+      "FIEI3": [],
+      "GFSA3": [],
+      "HBOR3": [],
+      "INNC3": [
+        "landbank_vgv"
+      ],
+      "JFEN3": [],
+      "JHSF3": [],
+      "LAVV3": [],
+      "MDNE3": [],
+      "MELK3": [],
+      "MRVE3": [],
+      "MTRE3": [],
+      "PDGR3": [],
+      "PLPL3": [],
+      "RDNI3": [],
+      "RSID3": [],
+      "TCSA3": [],
+      "TEND3": [],
+      "TRIS3": [],
+      "VIVR3": []
+    },
+    "status": "success",
+    "warnings": [
+      "Cobertura parcial: 4/26 empresas com observacoes validas."
+    ]
+  },
   "components": {
     "financial": {
       "last_update": "2026-08-27T17:21:23.869390+00:00",
@@ -16,7 +179,7 @@
       "updated": false
     },
     "operational": {
-      "last_update": "2026-08-31T13:11:47.804663+00:00",
+      "last_update": "2026-08-31T13:54:15.708864+00:00",
       "mode": "full",
       "status": "success",
       "updated": true
@@ -442,5 +605,5 @@
       "retorno_preco_setorial_360d": "charts/comparison/retorno_preco_setorial_360d.png"
     }
   },
-  "data_version": "07cdf39180aef374e2b9725a5639915e986fba3a"
+  "data_version": "b20d1ace6d59b2fbd44d8712c91dace8f0651dfe"
 }
