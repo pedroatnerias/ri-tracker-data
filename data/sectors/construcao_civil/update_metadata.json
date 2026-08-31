@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-08-28T19:03:25.251902+00:00",
-  "last_update": "2026-08-28T19:03:25.251882+00:00",
-  "source_commit": "68468f934474112bc714bd4d20b4e82202701112",
-  "workflow_run_id": "33201033395",
+  "updated_at_utc": "2026-08-31T12:57:53.474286+00:00",
+  "last_update": "2026-08-31T12:57:53.474271+00:00",
+  "source_commit": "eb5033cf2a5100683f60ec7a414209bde803a4ff",
+  "workflow_run_id": "33393728943",
   "scope": "operational",
   "sector": "construcao_civil",
   "mode": "full",
@@ -16,13 +16,13 @@
       "updated": false
     },
     "operational": {
-      "last_update": "2026-08-28T19:03:25.251882+00:00",
+      "last_update": "2026-08-31T12:57:53.474271+00:00",
       "mode": "full",
       "status": "success",
       "updated": true
     }
   },
-  "json_files_published": 5,
+  "json_files_published": 27,
   "chart_pngs_published": 0,
   "files": {
     "balanco": "balancos_itr_cvm_2022_2026.json",
@@ -37,9 +37,31 @@
   },
   "operational_jsons": [
     "dados_operacionais/AVLL3.json",
+    "dados_operacionais/CALI3.json",
+    "dados_operacionais/CURY3.json",
     "dados_operacionais/CYRE3.json",
     "dados_operacionais/DIRR3.json",
-    "dados_operacionais/EZTC3.json"
+    "dados_operacionais/EVEN3.json",
+    "dados_operacionais/EZTC3.json",
+    "dados_operacionais/FIEI3.json",
+    "dados_operacionais/GFSA3.json",
+    "dados_operacionais/HBOR3.json",
+    "dados_operacionais/INNC3.json",
+    "dados_operacionais/JFEN3.json",
+    "dados_operacionais/JHSF3.json",
+    "dados_operacionais/LAVV3.json",
+    "dados_operacionais/MDNE3.json",
+    "dados_operacionais/MELK3.json",
+    "dados_operacionais/MRVE3.json",
+    "dados_operacionais/MTRE3.json",
+    "dados_operacionais/PDGR3.json",
+    "dados_operacionais/PLPL3.json",
+    "dados_operacionais/RDNI3.json",
+    "dados_operacionais/RSID3.json",
+    "dados_operacionais/TCSA3.json",
+    "dados_operacionais/TEND3.json",
+    "dados_operacionais/TRIS3.json",
+    "dados_operacionais/VIVR3.json"
   ],
   "charts": {
     "individual": {
@@ -420,5 +442,5 @@
       "retorno_preco_setorial_360d": "charts/comparison/retorno_preco_setorial_360d.png"
     }
   },
-  "data_version": "68468f934474112bc714bd4d20b4e82202701112"
+  "data_version": "eb5033cf2a5100683f60ec7a414209bde803a4ff"
 }

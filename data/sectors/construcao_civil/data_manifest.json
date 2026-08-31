@@ -14,7 +14,29 @@
     "dados_operacionais/AVLL3.json",
     "dados_operacionais/CYRE3.json",
     "dados_operacionais/DIRR3.json",
-    "dados_operacionais/EZTC3.json"
+    "dados_operacionais/EZTC3.json",
+    "dados_operacionais/CALI3.json",
+    "dados_operacionais/CURY3.json",
+    "dados_operacionais/EVEN3.json",
+    "dados_operacionais/FIEI3.json",
+    "dados_operacionais/GFSA3.json",
+    "dados_operacionais/HBOR3.json",
+    "dados_operacionais/INNC3.json",
+    "dados_operacionais/JFEN3.json",
+    "dados_operacionais/JHSF3.json",
+    "dados_operacionais/LAVV3.json",
+    "dados_operacionais/MDNE3.json",
+    "dados_operacionais/MELK3.json",
+    "dados_operacionais/MRVE3.json",
+    "dados_operacionais/MTRE3.json",
+    "dados_operacionais/PDGR3.json",
+    "dados_operacionais/PLPL3.json",
+    "dados_operacionais/RDNI3.json",
+    "dados_operacionais/RSID3.json",
+    "dados_operacionais/TCSA3.json",
+    "dados_operacionais/TEND3.json",
+    "dados_operacionais/TRIS3.json",
+    "dados_operacionais/VIVR3.json"
   ],
   "charts": {
     "individual": {
@@ -395,5 +417,5 @@
       "retorno_preco_setorial_360d": "charts/comparison/retorno_preco_setorial_360d.png"
     }
   },
-  "data_version": "68468f934474112bc714bd4d20b4e82202701112"
+  "data_version": "eb5033cf2a5100683f60ec7a414209bde803a4ff"
 }
