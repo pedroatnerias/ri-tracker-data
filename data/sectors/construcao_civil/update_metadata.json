@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-08-31T13:54:15.708884+00:00",
-  "last_update": "2026-08-31T13:54:15.708864+00:00",
-  "source_commit": "b20d1ace6d59b2fbd44d8712c91dace8f0651dfe",
-  "workflow_run_id": "33398443165",
+  "updated_at_utc": "2026-09-02T18:32:14.383405+00:00",
+  "last_update": "2026-09-02T18:32:14.383383+00:00",
+  "source_commit": "976cfc8e64e2689516881d7eab3cdc7b29e7e925",
+  "workflow_run_id": "33666536291",
   "scope": "operational",
   "sector": "construcao_civil",
   "mode": "full",
@@ -179,7 +179,7 @@
       "updated": false
     },
     "operational": {
-      "last_update": "2026-08-31T13:54:15.708864+00:00",
+      "last_update": "2026-09-02T18:32:14.383383+00:00",
       "mode": "full",
       "status": "success",
       "updated": true
@@ -605,5 +605,5 @@
       "retorno_preco_setorial_360d": "charts/comparison/retorno_preco_setorial_360d.png"
     }
   },
-  "data_version": "b20d1ace6d59b2fbd44d8712c91dace8f0651dfe"
+  "data_version": "976cfc8e64e2689516881d7eab3cdc7b29e7e925"
 }
