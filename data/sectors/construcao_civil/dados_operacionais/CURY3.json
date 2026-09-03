@@ -1,7 +1,7 @@
 {
   "schema_version": "construction_operational_v1",
   "sector": "construcao_civil",
-  "generated_at": "2026-09-03T14:22:25.241741+00:00",
+  "generated_at": "2026-09-03T18:28:48.800817+00:00",
   "extractor_version": "construction_operational_v1",
   "ticker": "CURY3",
   "companhia": "CURY CONSTRUTORA E INCORPORADORA S.A.",
@@ -63,7 +63,7 @@
             "normalized_value": 16575.0,
             "normalized_unit": "units",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T14:22:24.832581+00:00",
+            "created_at": "2026-09-03T18:28:48.330700+00:00",
             "extractor_version": "construction_operational_v1",
             "validation_status": "quarantined",
             "validation_missing_fields": [],
@@ -130,7 +130,7 @@
             "normalized_value": 77743.2,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T14:22:25.064390+00:00",
+            "created_at": "2026-09-03T18:28:48.768671+00:00",
             "extractor_version": "construction_operational_v1",
             "company_resolution_method": "content_alias",
             "company_resolution": {
@@ -196,7 +196,7 @@
             "normalized_value": 77743.2,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T14:22:25.066170+00:00",
+            "created_at": "2026-09-03T18:28:48.772266+00:00",
             "extractor_version": "construction_operational_v1",
             "company_resolution_method": "content_alias",
             "company_resolution": {
@@ -256,7 +256,7 @@
       "normalized_value": 16575.0,
       "normalized_unit": "units",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T14:22:24.832581+00:00",
+      "created_at": "2026-09-03T18:28:48.330700+00:00",
       "extractor_version": "construction_operational_v1",
       "validation_status": "quarantined",
       "validation_missing_fields": [],
@@ -310,7 +310,7 @@
       "normalized_value": 77743.2,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T14:22:25.064390+00:00",
+      "created_at": "2026-09-03T18:28:48.768671+00:00",
       "extractor_version": "construction_operational_v1",
       "company_resolution_method": "content_alias",
       "company_resolution": {
@@ -365,7 +365,7 @@
       "normalized_value": 77743.2,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T14:22:25.066170+00:00",
+      "created_at": "2026-09-03T18:28:48.772266+00:00",
       "extractor_version": "construction_operational_v1",
       "company_resolution_method": "content_alias",
       "company_resolution": {
@@ -383,6 +383,23 @@
     "documents_processed": [
       "Releases e relatórios/Saída/construcao_civil/CYRE3_2T26_DEMONSTRACOES_FINANCEIRAS/CYRE3_2T26_DEMONSTRACOES_FINANCEIRAS.md"
     ]
+  },
+  "tracking": {
+    "run_id": "33788615320",
+    "sector": "construcao_civil",
+    "pipeline": "operational_extractor",
+    "extractor_version": "construction_tracking_v1",
+    "started_at": "2026-09-03T18:28:47.613012+00:00",
+    "finished_at": "2026-09-03T18:28:48.800838+00:00",
+    "documents_found": 40,
+    "documents_accepted": 40,
+    "documents_processed": 40,
+    "documents_with_observations": 2,
+    "documents_unresolved": 0,
+    "documents_with_errors": 0,
+    "documents_rejected": 0,
+    "events_count": 164,
+    "coverage_status": "complete"
   },
   "calculation_metadata": {
     "roe": {

@@ -575,6 +575,7 @@
   },
   "warnings": [
     "ROE e PCLD/Recebíveis não calculados: dependências financeiras hidratadas não disponíveis nesta extração.",
+    "Snapshot anterior preservado: nenhuma observação válida nova encontrada.",
     "Snapshot anterior preservado: nenhuma observação válida nova encontrada."
   ]
 }

@@ -1,19 +1,39 @@
 {
   "schema_version": "construction_operational_v1",
   "sector": "construcao_civil",
-  "generated_at": "2026-09-03T14:22:28.378827+00:00",
+  "generated_at": "2026-09-03T18:28:50.700904+00:00",
   "extractor_version": "construction_operational_v1",
   "ticker": "JHSF3",
   "companhia": "JHSF PARTICIPACOES S.A.",
   "companies_requested": 26,
-  "documents_processed": 0,
+  "documents_processed": 2,
   "metricas": {},
   "observations": [],
   "status": "not_found_no_previous_data",
   "coverage_status": "not_found",
   "discovery": {
     "source_policy": "official_ri_pdf_only",
-    "documents_processed": []
+    "documents_processed": [
+      "Releases e relatórios/Saída/construcao_civil/JHSF3_4T26_APRESENTACAO_RESULTADOS/JHSF3_4T26_APRESENTACAO_RESULTADOS.md",
+      "Releases e relatórios/Saída/construcao_civil/JHSF3_4T26_DEMONSTRACOES_FINANCEIRAS/JHSF3_4T26_DEMONSTRACOES_FINANCEIRAS.md"
+    ]
+  },
+  "tracking": {
+    "run_id": "33788615320",
+    "sector": "construcao_civil",
+    "pipeline": "operational_extractor",
+    "extractor_version": "construction_tracking_v1",
+    "started_at": "2026-09-03T18:28:47.613012+00:00",
+    "finished_at": "2026-09-03T18:28:50.700925+00:00",
+    "documents_found": 40,
+    "documents_accepted": 40,
+    "documents_processed": 40,
+    "documents_with_observations": 3,
+    "documents_unresolved": 0,
+    "documents_with_errors": 0,
+    "documents_rejected": 0,
+    "events_count": 193,
+    "coverage_status": "complete"
   },
   "calculation_metadata": {
     "roe": {

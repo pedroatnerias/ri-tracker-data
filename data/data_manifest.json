@@ -151,12 +151,12 @@
       },
       "operational_jsons": [
         "dados_operacionais/AVLL3.json",
-        "dados_operacionais/CYRE3.json",
-        "dados_operacionais/DIRR3.json",
-        "dados_operacionais/EZTC3.json",
         "dados_operacionais/CALI3.json",
         "dados_operacionais/CURY3.json",
+        "dados_operacionais/CYRE3.json",
+        "dados_operacionais/DIRR3.json",
         "dados_operacionais/EVEN3.json",
+        "dados_operacionais/EZTC3.json",
         "dados_operacionais/FIEI3.json",
         "dados_operacionais/GFSA3.json",
         "dados_operacionais/HBOR3.json",
@@ -553,11 +553,26 @@
           "margem_operacional": "charts/comparison/margem_operacional.png",
           "market_cap_share": "charts/comparison/market_cap_share.png",
           "retorno_preco_setorial_30d": "charts/comparison/retorno_preco_setorial_30d.png",
-          "retorno_preco_setorial_360d": "charts/comparison/retorno_preco_setorial_360d.png"
+          "retorno_preco_setorial_360d": "charts/comparison/retorno_preco_setorial_360d.png",
+          "retorno_preco_setorial_90d": "charts/comparison/retorno_preco_setorial_90d.png"
         }
       },
-      "data_version": "6fd9123ae6f918afbb1787e96a1d5aa1406c8880"
+      "data_version": "73b43642d5545609535131db1e93dc6fb04874dc",
+      "tracking": {
+        "run_id": "33788615320",
+        "sector": "construcao_civil",
+        "pipeline": "dashboard_update",
+        "extractor_version": "dashboard_tracking_v1",
+        "started_at": "2026-09-03T18:08:27.890909+00:00",
+        "finished_at": "2026-09-03T18:30:12.909767+00:00",
+        "documents_found": 11,
+        "documents_processed": 11,
+        "documents_with_observations": 0,
+        "documents_unresolved": 0,
+        "documents_with_errors": 0,
+        "coverage_status": "complete"
+      }
     }
   },
-  "data_version": "6fd9123ae6f918afbb1787e96a1d5aa1406c8880"
+  "data_version": "73b43642d5545609535131db1e93dc6fb04874dc"
 }

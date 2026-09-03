@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-09-03T16:40:43.174584+00:00",
+  "updated_at_utc": "2026-09-03T18:34:04.625947+00:00",
   "last_update": "2026-08-24T16:38:37.848741+00:00",
-  "source_commit": "6fd9123ae6f918afbb1787e96a1d5aa1406c8880",
-  "workflow_run_id": "33778895499",
+  "source_commit": "73b43642d5545609535131db1e93dc6fb04874dc",
+  "workflow_run_id": "33788615320",
   "scope": "operational",
   "mode": "incremental",
   "status": "success",
@@ -158,13 +158,13 @@
     "construcao_civil": {
       "components": {
         "financial": {
-          "last_update": "2026-08-27T17:21:23.869390+00:00",
-          "mode": "",
-          "status": "skipped_by_scope",
-          "updated": false
+          "last_update": "2026-09-03T18:34:04.625947+00:00",
+          "mode": "full",
+          "status": "success",
+          "updated": true
         },
         "operational": {
-          "last_update": "2026-09-03T16:40:43.174584+00:00",
+          "last_update": "2026-09-03T18:34:04.625947+00:00",
           "mode": "full",
           "status": "success",
           "updated": true
