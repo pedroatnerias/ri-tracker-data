@@ -558,7 +558,7 @@
       "company_resolution_method": "metadata_or_content"
     }
   ],
-  "status": "found_new_data",
+  "status": "preserved_existing_data",
   "calculation_metadata": {
     "roe": {
       "value": null,
@@ -574,6 +574,7 @@
     }
   },
   "warnings": [
-    "ROE e PCLD/Recebíveis não calculados: dependências financeiras hidratadas não disponíveis nesta extração."
+    "ROE e PCLD/Recebíveis não calculados: dependências financeiras hidratadas não disponíveis nesta extração.",
+    "Snapshot anterior preservado: nenhuma observação válida nova encontrada."
   ]
 }

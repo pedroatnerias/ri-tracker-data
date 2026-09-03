@@ -1,14 +1,14 @@
 {
-  "updated_at_utc": "2026-09-03T12:50:32.734492+00:00",
-  "last_update": "2026-09-03T12:50:32.734470+00:00",
-  "source_commit": "8d3ef81817c3abba10a1bbabecafd977add6ad21",
-  "workflow_run_id": "33756380265",
+  "updated_at_utc": "2026-09-03T14:22:32.585891+00:00",
+  "last_update": "2026-09-03T14:22:32.585870+00:00",
+  "source_commit": "c56849fe97af65d55f1aeae0d503fc30cabc7834",
+  "workflow_run_id": "33765516628",
   "scope": "operational",
   "sector": "construcao_civil",
   "mode": "full",
   "status": "success_with_warnings",
   "warnings": [
-    "Cobertura parcial: 4/26 empresas com observacoes validas."
+    "Cobertura parcial: 5/26 empresas com observacoes validas."
   ],
   "operational_quality": {
     "sector": "construcao_civil",
@@ -43,23 +43,22 @@
     ],
     "manifest_missing_files": [],
     "publishable_unlisted_files": [],
-    "companies_with_valid_observations": 4,
+    "companies_with_valid_observations": 5,
     "companies_not_found": 0,
     "companies_quarantined_only": 0,
-    "valid_observations": 66,
-    "quarantined_observations": 0,
+    "valid_observations": 37,
+    "quarantined_observations": 13,
     "zero_observations": 0,
     "scales_detected": {
-      "(R$ milhões) 1T26 1T25 Var (%) 4T25 Var (%)": 25,
-      "_Empreendimentos 2018-_ **Indicadores Operacionais¹** |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|": 3,
+      "(R$ milhões) 1T26 1T25 Var (%) 4T25 Var (%)": 14,
+      "_Empreendimentos 2018-_ **Indicadores Operacionais¹** AVLL3 |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|": 3,
+      "**Total** **6M26** CURY3 |Por Região|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%| |---|---|---|---|---| |São Paulo<br>Rio de Janeiro<br>Sul<br>Outros|5.154<br>6.302<br>-18%<br>2.145<br>1.413<br>52%<br>0<br>237<br>-100%<br>96<br>1.037<br>-91%|4.158<br>4.822<br>-14%<br>1.482<br>981<br>51%<br>0<br>190<br>-100%<br>48<br>630<br>-92%|81%<br>77%<br>4,1 p.p<br>69%<br>69%<br>-0,3 p.p<br>0%<br>80%<br>-80,0 p.p<br>50%<br>61%<br>-10,7 p.p|131<br>163<br>-20%<br>0<br>216<br>-100%<br>0<br>18<br>-100%<br>14<br>64<br>-78%| |**Total**|**7.395**<br>**8.989**<br>**-18%**|**5.687**<br>**6.622**<br>**-14%**|**77%**<br>**74%**<br>**3,2 p.p**|**144**<br>**461**<br>**-69%**|   |Por Produto|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%|": 1,
+      "**Total** **6M26** CURY3 |Por Produto|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%| |---|---|---|---|---| |Alto padrão<br>Médio<br>MCMV 2 e 3|2.962<br>4.901<br>-40%<br>2.032<br>1.724<br>18%<br>2.401<br>2.364<br>2%|2.003<br>3.653<br>-45%<br>1.838<br>1.370<br>34%<br>1.846<br>1.599<br>15%|68%<br>75%<br>-6,9 p.p<br>90%<br>79%<br>11,0 p.p<br>77%<br>68%<br>9,2 p.p|86<br>332<br>-74%<br>43<br>102<br>-58%<br>16<br>27<br>-41%| |**Total**|**7.395**<br>**8.989**<br>**-18%**|**5.687**<br>**6.622**<br>**-14%**|**77%**<br>**74%**<br>**3,2 p.p**|**144**<br>**461**<br>**-69%**|   40": 1,
       "Contas a receber 2T26<br>R$ MM 1T26<br>R$ MM 2T26 x 1T26": 1,
       "Por Região VGV Lançado (R$ MM)<br>6M26 6M25 Var% VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var% % CBR<br>6M26 6M25 Var p.p. VGV Permutado (R$ MM)<br>6M26 6M25 Var%": 2,
       "**Total** **6M26** |Por Região|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%| |---|---|---|---|---| |São Paulo<br>Rio de Janeiro<br>Sul<br>Outros|5.154<br>6.302<br>-18%<br>2.145<br>1.413<br>52%<br>0<br>237<br>-100%<br>96<br>1.037<br>-91%|4.158<br>4.822<br>-14%<br>1.482<br>981<br>51%<br>0<br>190<br>-100%<br>48<br>630<br>-92%|81%<br>77%<br>4,1 p.p<br>69%<br>69%<br>-0,3 p.p<br>0%<br>80%<br>-80,0 p.p<br>50%<br>61%<br>-10,7 p.p|131<br>163<br>-20%<br>0<br>216<br>-100%<br>0<br>18<br>-100%<br>14<br>64<br>-78%| |**Total**|**7.395**<br>**8.989**<br>**-18%**|**5.687**<br>**6.622**<br>**-14%**|**77%**<br>**74%**<br>**3,2 p.p**|**144**<br>**461**<br>**-69%**|   |Por Produto|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%|": 1,
       "**Total** **6M26** |Por Produto|VGV Lançado (R$ MM)<br>6M26 6M25 Var%|VGV Lançado CBR (R$ MM)<br>6M26 6M25 Var%|% CBR<br>6M26 6M25 Var p.p.|VGV Permutado (R$ MM)<br>6M26 6M25 Var%| |---|---|---|---|---| |Alto padrão<br>Médio<br>MCMV 2 e 3|2.962<br>4.901<br>-40%<br>2.032<br>1.724<br>18%<br>2.401<br>2.364<br>2%|2.003<br>3.653<br>-45%<br>1.838<br>1.370<br>34%<br>1.846<br>1.599<br>15%|68%<br>75%<br>-6,9 p.p<br>90%<br>79%<br>11,0 p.p<br>77%<br>68%<br>9,2 p.p|86<br>332<br>-74%<br>43<br>102<br>-58%<br>16<br>27<br>-41%| |**Total**|**7.395**<br>**8.989**<br>**-18%**|**5.687**<br>**6.622**<br>**-14%**|**77%**<br>**74%**<br>**3,2 p.p**|**144**<br>**461**<br>**-69%**|   40": 1,
-      "Período findo de 30 de junho de 2026 2T26<br>R$ MM 1T26 %Var 2T25 %Var 1S26 1S25 %Var": 6,
-      "4T25 3T25 %Var 4T24 %Var 2025 2024 %Var": 8,
-      "1T26 4T25 %Var 1T25 %Var 1T26 4T25 %Var": 6,
-      "(+) Ativos Corporativos em construção Esther Towers + Air Brooklyn*<br>814.000<br>814.000<br>0,00% **R$ 20,68** |Projeção da possível adição dada a execução da estratégia* 5.267.449 5.353.272 -1,60%|1.520.824 3.746.625| |---|---| |(+) Valor futuro previsto pela venda do Estoque ao preço esperado atualmente<br>1.329.193<br>1.300.869<br>2,18%|119.474<br>1.209.719| |(+) Ativos Corporativos em construção Esther Towers + Air Brooklyn*<br>814.000<br>814.000<br>0,00%|814.000<br>0| |(+) Valor futuro previsto pela elaboração dos projetos em landbank e venda de suas unidades<br>3.124.255<br>3.238.403 -3,52%|587.350<br>2.536.906| |**Adição prevista de valores do estoque atual e futuros projetos em landbank**<br>**R$ 24,15**<br>**R$ 24,54**<br>**-1,60%**|**R$ 6,97**<br>**R$ 17,18**| |<br> <br> <br>|<br>|": 1,
+      "(+) Ativos Corporativos em construção Esther Towers + Air Brooklyn*<br>814.000<br>814.000<br>0,00% **R$ 20,68** EZTC3 |Projeção da possível adição dada a execução da estratégia* 5.267.449 5.353.272 -1,60%|1.520.824 3.746.625| |---|---| |(+) Valor futuro previsto pela venda do Estoque ao preço esperado atualmente<br>1.329.193<br>1.300.869<br>2,18%|119.474<br>1.209.719| |(+) Ativos Corporativos em construção Esther Towers + Air Brooklyn*<br>814.000<br>814.000<br>0,00%|814.000<br>0| |(+) Valor futuro previsto pela elaboração dos projetos em landbank e venda de suas unidades<br>3.124.255<br>3.238.403 -3,52%|587.350<br>2.536.906| |**Adição prevista de valores do estoque atual e futuros projetos em landbank**<br>**R$ 24,15**<br>**R$ 24,54**<br>**-1,60%**|**R$ 6,97**<br>**R$ 17,18**| |<br> <br> <br>|<br>|": 1,
       "Landbank 3T25 2T25 3T24 3T25 x 2T25 ↕️ 3T25 x 3T24 ↕️ 9M25 9M24 9M25 X 9M24": 5,
       "Landbank 4T25 3T25 4T24 4T25 x<br>4T25 x 3T25 ↕️ ↕️<br>4T24 2025 2024 2025 x 2024": 4,
       "Landbank<br>Landbank (em R$ mil)<br>Número de Unidades<br>Preço Médio por Unidade (em R$ mil) 1T26 4T25 1T25": 3
@@ -71,7 +70,9 @@
         "4T25"
       ],
       "CALI3": [],
-      "CURY3": [],
+      "CURY3": [
+        "2T25"
+      ],
       "CYRE3": [
         "2T25",
         "2T26",
@@ -81,15 +82,7 @@
       "DIRR3": [],
       "EVEN3": [],
       "EZTC3": [
-        "1T23",
-        "1T25",
-        "1T26",
-        "2024",
-        "2025",
-        "2T25",
-        "3T25",
-        "4T24",
-        "4T25"
+        "1T23"
       ],
       "FIEI3": [],
       "GFSA3": [],
@@ -124,7 +117,6 @@
     },
     "metrics_coverage_by_company": {
       "AVLL3": [
-        "cancellations_vgv",
         "ending_inventory_vgv",
         "landbank_vgv",
         "launches_vgv",
@@ -132,7 +124,9 @@
         "units_sold"
       ],
       "CALI3": [],
-      "CURY3": [],
+      "CURY3": [
+        "launches_vgv"
+      ],
       "CYRE3": [
         "launches_vgv",
         "units_under_construction"
@@ -140,10 +134,7 @@
       "DIRR3": [],
       "EVEN3": [],
       "EZTC3": [
-        "cancellations_vgv",
-        "landbank_vgv",
-        "net_sales_vgv",
-        "units_sold"
+        "landbank_vgv"
       ],
       "FIEI3": [],
       "GFSA3": [],
@@ -169,7 +160,7 @@
     },
     "status": "success",
     "warnings": [
-      "Cobertura parcial: 4/26 empresas com observacoes validas."
+      "Cobertura parcial: 5/26 empresas com observacoes validas."
     ]
   },
   "components": {
@@ -180,7 +171,7 @@
       "updated": false
     },
     "operational": {
-      "last_update": "2026-09-03T12:50:32.734470+00:00",
+      "last_update": "2026-09-03T14:22:32.585870+00:00",
       "mode": "full",
       "status": "success",
       "updated": true
@@ -606,5 +597,5 @@
       "retorno_preco_setorial_360d": "charts/comparison/retorno_preco_setorial_360d.png"
     }
   },
-  "data_version": "8d3ef81817c3abba10a1bbabecafd977add6ad21"
+  "data_version": "c56849fe97af65d55f1aeae0d503fc30cabc7834"
 }

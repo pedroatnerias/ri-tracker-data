@@ -1,7 +1,7 @@
 {
   "schema_version": "construction_operational_v1",
   "sector": "construcao_civil",
-  "generated_at": "2026-09-03T12:50:28.030962+00:00",
+  "generated_at": "2026-09-03T14:22:24.514653+00:00",
   "extractor_version": "construction_operational_v1",
   "ticker": "AVLL3",
   "companhia": "ALPHAVILLE S.A.",
@@ -55,6 +55,7 @@
               "period_confirmed"
             ],
             "validation_flags": [
+              "ownership_basis_expected:company_share",
               "unknown_ownership_basis"
             ],
             "raw_value": "34",
@@ -62,11 +63,17 @@
             "normalized_value": 34.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.851116+00:00",
+            "created_at": "2026-09-03T14:22:24.246083+00:00",
             "extractor_version": "construction_operational_v1",
-            "validation_status": "valid",
+            "validation_status": "quarantined",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
@@ -116,6 +123,7 @@
               "period_confirmed"
             ],
             "validation_flags": [
+              "ownership_basis_expected:company_share",
               "unknown_ownership_basis"
             ],
             "raw_value": "35",
@@ -123,11 +131,17 @@
             "normalized_value": 35.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.851200+00:00",
+            "created_at": "2026-09-03T14:22:24.246192+00:00",
             "extractor_version": "construction_operational_v1",
-            "validation_status": "valid",
+            "validation_status": "quarantined",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
@@ -177,6 +191,7 @@
               "period_confirmed"
             ],
             "validation_flags": [
+              "ownership_basis_expected:company_share",
               "unknown_ownership_basis"
             ],
             "raw_value": "35",
@@ -184,11 +199,17 @@
             "normalized_value": 35.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.851259+00:00",
+            "created_at": "2026-09-03T14:22:24.246274+00:00",
             "extractor_version": "construction_operational_v1",
-            "validation_status": "valid",
+            "validation_status": "quarantined",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
@@ -243,11 +264,17 @@
             "normalized_value": 19.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.852077+00:00",
+            "created_at": "2026-09-03T14:22:24.246828+00:00",
             "extractor_version": "construction_operational_v1",
             "validation_status": "valid",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
@@ -302,11 +329,17 @@
             "normalized_value": 20.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.852143+00:00",
+            "created_at": "2026-09-03T14:22:24.246908+00:00",
             "extractor_version": "construction_operational_v1",
             "validation_status": "valid",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
@@ -361,18 +394,24 @@
             "normalized_value": 19.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.852198+00:00",
+            "created_at": "2026-09-03T14:22:24.246982+00:00",
             "extractor_version": "construction_operational_v1",
             "validation_status": "valid",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       }
     ],
-    "Lançamentos": [
+    "LanÃ§amentos": [
       {
-        "metric": "Lançamentos",
+        "metric": "LanÃ§amentos",
         "indicator_id": "launches_vgv",
         "confidence": "medium",
         "calculated": false,
@@ -386,7 +425,7 @@
             "ticker_found": "AVLL3",
             "company": "ALPHAVILLE S.A.",
             "indicator_id": "launches_vgv",
-            "indicator_name": "Lançamentos",
+            "indicator_name": "LanÃ§amentos",
             "value": 305.0,
             "unit": "BRL_million",
             "currency": "BRL",
@@ -417,6 +456,7 @@
               "period_confirmed"
             ],
             "validation_flags": [
+              "ownership_basis_expected:company_share",
               "unknown_ownership_basis"
             ],
             "raw_value": "305",
@@ -424,16 +464,22 @@
             "normalized_value": 305.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.854291+00:00",
+            "created_at": "2026-09-03T14:22:24.248308+00:00",
             "extractor_version": "construction_operational_v1",
-            "validation_status": "valid",
+            "validation_status": "quarantined",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
       {
-        "metric": "Lançamentos",
+        "metric": "LanÃ§amentos",
         "indicator_id": "launches_vgv",
         "confidence": "medium",
         "calculated": false,
@@ -447,7 +493,7 @@
             "ticker_found": "AVLL3",
             "company": "ALPHAVILLE S.A.",
             "indicator_id": "launches_vgv",
-            "indicator_name": "Lançamentos",
+            "indicator_name": "LanÃ§amentos",
             "value": 88.0,
             "unit": "BRL_million",
             "currency": "BRL",
@@ -478,6 +524,7 @@
               "period_confirmed"
             ],
             "validation_flags": [
+              "ownership_basis_expected:company_share",
               "unknown_ownership_basis"
             ],
             "raw_value": "88",
@@ -485,16 +532,22 @@
             "normalized_value": 88.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.854363+00:00",
+            "created_at": "2026-09-03T14:22:24.248397+00:00",
             "extractor_version": "construction_operational_v1",
-            "validation_status": "valid",
+            "validation_status": "quarantined",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
       {
-        "metric": "Lançamentos",
+        "metric": "LanÃ§amentos",
         "indicator_id": "launches_vgv",
         "confidence": "medium",
         "calculated": false,
@@ -508,7 +561,7 @@
             "ticker_found": "AVLL3",
             "company": "ALPHAVILLE S.A.",
             "indicator_id": "launches_vgv",
-            "indicator_name": "Lançamentos",
+            "indicator_name": "LanÃ§amentos",
             "value": 0.0,
             "unit": "BRL_million",
             "currency": "BRL",
@@ -539,6 +592,7 @@
               "period_confirmed"
             ],
             "validation_flags": [
+              "ownership_basis_expected:company_share",
               "unknown_ownership_basis"
             ],
             "raw_value": "0",
@@ -546,18 +600,24 @@
             "normalized_value": 0.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.854419+00:00",
+            "created_at": "2026-09-03T14:22:24.248496+00:00",
             "extractor_version": "construction_operational_v1",
-            "validation_status": "low_confidence",
+            "validation_status": "quarantined",
             "validation_missing_fields": [
               "value"
             ],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
       {
-        "metric": "Lançamentos",
+        "metric": "LanÃ§amentos",
         "indicator_id": "launches_vgv",
         "confidence": "high",
         "calculated": false,
@@ -571,7 +631,7 @@
             "ticker_found": "AVLL3",
             "company": "ALPHAVILLE S.A.",
             "indicator_id": "launches_vgv",
-            "indicator_name": "Lançamentos",
+            "indicator_name": "LanÃ§amentos",
             "value": 187.0,
             "unit": "BRL_million",
             "currency": "BRL",
@@ -607,16 +667,22 @@
             "normalized_value": 187.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.855199+00:00",
+            "created_at": "2026-09-03T14:22:24.249001+00:00",
             "extractor_version": "construction_operational_v1",
             "validation_status": "valid",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
       {
-        "metric": "Lançamentos",
+        "metric": "LanÃ§amentos",
         "indicator_id": "launches_vgv",
         "confidence": "high",
         "calculated": false,
@@ -630,7 +696,7 @@
             "ticker_found": "AVLL3",
             "company": "ALPHAVILLE S.A.",
             "indicator_id": "launches_vgv",
-            "indicator_name": "Lançamentos",
+            "indicator_name": "LanÃ§amentos",
             "value": 60.0,
             "unit": "BRL_million",
             "currency": "BRL",
@@ -666,16 +732,22 @@
             "normalized_value": 60.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.855256+00:00",
+            "created_at": "2026-09-03T14:22:24.249073+00:00",
             "extractor_version": "construction_operational_v1",
             "validation_status": "valid",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
       {
-        "metric": "Lançamentos",
+        "metric": "LanÃ§amentos",
         "indicator_id": "launches_vgv",
         "confidence": "high",
         "calculated": false,
@@ -689,7 +761,7 @@
             "ticker_found": "AVLL3",
             "company": "ALPHAVILLE S.A.",
             "indicator_id": "launches_vgv",
-            "indicator_name": "Lançamentos",
+            "indicator_name": "LanÃ§amentos",
             "value": 0.0,
             "unit": "BRL_million",
             "currency": "BRL",
@@ -725,13 +797,19 @@
             "normalized_value": 0.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.855313+00:00",
+            "created_at": "2026-09-03T14:22:24.249143+00:00",
             "extractor_version": "construction_operational_v1",
             "validation_status": "low_confidence",
             "validation_missing_fields": [
               "value"
             ],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       }
@@ -790,11 +868,17 @@
             "normalized_value": 273.0,
             "normalized_unit": "units",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.858447+00:00",
+            "created_at": "2026-09-03T14:22:24.251075+00:00",
             "extractor_version": "construction_operational_v1",
             "validation_status": "valid",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
@@ -851,11 +935,17 @@
             "normalized_value": 210.0,
             "normalized_unit": "units",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.858499+00:00",
+            "created_at": "2026-09-03T14:22:24.251147+00:00",
             "extractor_version": "construction_operational_v1",
             "validation_status": "valid",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
@@ -912,11 +1002,17 @@
             "normalized_value": 423.0,
             "normalized_unit": "units",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.858542+00:00",
+            "created_at": "2026-09-03T14:22:24.251215+00:00",
             "extractor_version": "construction_operational_v1",
             "validation_status": "valid",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
@@ -956,7 +1052,7 @@
             "table_title": "**Indicadores Operacionais¹**",
             "row_label": "_Empreendimentos 2018-_",
             "column_label": "1T26",
-            "evidence_text": "|**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
+            "evidence_text": "AVLL3 |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
             "extraction_method": "contextual_table",
             "reported_or_derived": "reported",
             "confidence": "high",
@@ -967,13 +1063,19 @@
             ],
             "validation_flags": [],
             "raw_value": "2",
-            "raw_unit": "_Empreendimentos 2018-_ **Indicadores Operacionais¹** |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
+            "raw_unit": "_Empreendimentos 2018-_ **Indicadores Operacionais¹** AVLL3 |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
             "normalized_value": 2.0,
             "normalized_unit": "units",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.977698+00:00",
+            "created_at": "2026-09-03T14:22:24.335042+00:00",
             "extractor_version": "construction_operational_v1",
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
@@ -1013,7 +1115,7 @@
             "table_title": "**Indicadores Operacionais¹**",
             "row_label": "_Empreendimentos 2018-_",
             "column_label": "1T25",
-            "evidence_text": "|**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
+            "evidence_text": "AVLL3 |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
             "extraction_method": "contextual_table",
             "reported_or_derived": "reported",
             "confidence": "high",
@@ -1024,13 +1126,19 @@
             ],
             "validation_flags": [],
             "raw_value": "2",
-            "raw_unit": "_Empreendimentos 2018-_ **Indicadores Operacionais¹** |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
+            "raw_unit": "_Empreendimentos 2018-_ **Indicadores Operacionais¹** AVLL3 |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
             "normalized_value": 2.0,
             "normalized_unit": "units",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.977759+00:00",
+            "created_at": "2026-09-03T14:22:24.335120+00:00",
             "extractor_version": "construction_operational_v1",
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
@@ -1070,7 +1178,7 @@
             "table_title": "**Indicadores Operacionais¹**",
             "row_label": "_Empreendimentos 2018-_",
             "column_label": "4T25",
-            "evidence_text": "|**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
+            "evidence_text": "AVLL3 |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
             "extraction_method": "contextual_table",
             "reported_or_derived": "reported",
             "confidence": "high",
@@ -1081,13 +1189,19 @@
             ],
             "validation_flags": [],
             "raw_value": "3",
-            "raw_unit": "_Empreendimentos 2018-_ **Indicadores Operacionais¹** |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
+            "raw_unit": "_Empreendimentos 2018-_ **Indicadores Operacionais¹** AVLL3 |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
             "normalized_value": 3.0,
             "normalized_unit": "units",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.977842+00:00",
+            "created_at": "2026-09-03T14:22:24.335201+00:00",
             "extractor_version": "construction_operational_v1",
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       }
@@ -1138,17 +1252,25 @@
               "indicator_explicit",
               "period_confirmed"
             ],
-            "validation_flags": [],
+            "validation_flags": [
+              "unexpected_positive_sign"
+            ],
             "raw_value": "(5)",
             "raw_unit": "(R$ milhões) 1T26 1T25 Var (%) 4T25 Var (%)",
             "normalized_value": 5.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.868276+00:00",
+            "created_at": "2026-09-03T14:22:24.257268+00:00",
             "extractor_version": "construction_operational_v1",
-            "validation_status": "valid",
+            "validation_status": "quarantined",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
@@ -1197,17 +1319,25 @@
               "indicator_explicit",
               "period_confirmed"
             ],
-            "validation_flags": [],
+            "validation_flags": [
+              "unexpected_positive_sign"
+            ],
             "raw_value": "(7)",
             "raw_unit": "(R$ milhões) 1T26 1T25 Var (%) 4T25 Var (%)",
             "normalized_value": 7.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.868334+00:00",
+            "created_at": "2026-09-03T14:22:24.257343+00:00",
             "extractor_version": "construction_operational_v1",
-            "validation_status": "valid",
+            "validation_status": "quarantined",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
@@ -1256,24 +1386,32 @@
               "indicator_explicit",
               "period_confirmed"
             ],
-            "validation_flags": [],
+            "validation_flags": [
+              "unexpected_positive_sign"
+            ],
             "raw_value": "(12)",
             "raw_unit": "(R$ milhões) 1T26 1T25 Var (%) 4T25 Var (%)",
             "normalized_value": 12.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.868385+00:00",
+            "created_at": "2026-09-03T14:22:24.257412+00:00",
             "extractor_version": "construction_operational_v1",
-            "validation_status": "valid",
+            "validation_status": "quarantined",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       }
     ],
-    "VGV líquido — vendas líquidas": [
+    "VGV lÃ­quido â€” vendas lÃ­quidas": [
       {
-        "metric": "VGV líquido — vendas líquidas",
+        "metric": "VGV lÃ­quido â€” vendas lÃ­quidas",
         "indicator_id": "net_sales_vgv",
         "confidence": "high",
         "calculated": false,
@@ -1287,7 +1425,7 @@
             "ticker_found": "AVLL3",
             "company": "ALPHAVILLE S.A.",
             "indicator_id": "net_sales_vgv",
-            "indicator_name": "VGV líquido — vendas líquidas",
+            "indicator_name": "VGV lÃ­quido â€” vendas lÃ­quidas",
             "value": 100.0,
             "unit": "BRL_million",
             "currency": "BRL",
@@ -1323,16 +1461,22 @@
             "normalized_value": 100.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.869139+00:00",
+            "created_at": "2026-09-03T14:22:24.257907+00:00",
             "extractor_version": "construction_operational_v1",
             "validation_status": "valid",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
       {
-        "metric": "VGV líquido — vendas líquidas",
+        "metric": "VGV lÃ­quido â€” vendas lÃ­quidas",
         "indicator_id": "net_sales_vgv",
         "confidence": "high",
         "calculated": false,
@@ -1346,7 +1490,7 @@
             "ticker_found": "AVLL3",
             "company": "ALPHAVILLE S.A.",
             "indicator_id": "net_sales_vgv",
-            "indicator_name": "VGV líquido — vendas líquidas",
+            "indicator_name": "VGV lÃ­quido â€” vendas lÃ­quidas",
             "value": 49.0,
             "unit": "BRL_million",
             "currency": "BRL",
@@ -1382,16 +1526,22 @@
             "normalized_value": 49.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.869195+00:00",
+            "created_at": "2026-09-03T14:22:24.257980+00:00",
             "extractor_version": "construction_operational_v1",
             "validation_status": "valid",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
       {
-        "metric": "VGV líquido — vendas líquidas",
+        "metric": "VGV lÃ­quido â€” vendas lÃ­quidas",
         "indicator_id": "net_sales_vgv",
         "confidence": "high",
         "calculated": false,
@@ -1405,7 +1555,7 @@
             "ticker_found": "AVLL3",
             "company": "ALPHAVILLE S.A.",
             "indicator_id": "net_sales_vgv",
-            "indicator_name": "VGV líquido — vendas líquidas",
+            "indicator_name": "VGV lÃ­quido â€” vendas lÃ­quidas",
             "value": 116.0,
             "unit": "BRL_million",
             "currency": "BRL",
@@ -1441,11 +1591,17 @@
             "normalized_value": 116.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.869244+00:00",
+            "created_at": "2026-09-03T14:22:24.258053+00:00",
             "extractor_version": "construction_operational_v1",
             "validation_status": "valid",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       }
@@ -1502,11 +1658,17 @@
             "normalized_value": 557.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.908498+00:00",
+            "created_at": "2026-09-03T14:22:24.283866+00:00",
             "extractor_version": "construction_operational_v1",
             "validation_status": "valid",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
@@ -1561,11 +1723,17 @@
             "normalized_value": 620.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.908553+00:00",
+            "created_at": "2026-09-03T14:22:24.283941+00:00",
             "extractor_version": "construction_operational_v1",
             "validation_status": "valid",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
@@ -1620,11 +1788,17 @@
             "normalized_value": 469.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.908601+00:00",
+            "created_at": "2026-09-03T14:22:24.284010+00:00",
             "extractor_version": "construction_operational_v1",
             "validation_status": "valid",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
@@ -1674,6 +1848,7 @@
               "period_confirmed"
             ],
             "validation_flags": [
+              "ownership_basis_expected:company_share",
               "unknown_ownership_basis"
             ],
             "raw_value": "**1.580**",
@@ -1681,11 +1856,17 @@
             "normalized_value": 1580.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.910799+00:00",
+            "created_at": "2026-09-03T14:22:24.285530+00:00",
             "extractor_version": "construction_operational_v1",
-            "validation_status": "valid",
+            "validation_status": "quarantined",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
@@ -1735,6 +1916,7 @@
               "period_confirmed"
             ],
             "validation_flags": [
+              "ownership_basis_expected:company_share",
               "unknown_ownership_basis"
             ],
             "raw_value": "**1.411**",
@@ -1742,11 +1924,17 @@
             "normalized_value": 1411.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.910878+00:00",
+            "created_at": "2026-09-03T14:22:24.285606+00:00",
             "extractor_version": "construction_operational_v1",
-            "validation_status": "valid",
+            "validation_status": "quarantined",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       },
@@ -1796,6 +1984,7 @@
               "period_confirmed"
             ],
             "validation_flags": [
+              "ownership_basis_expected:company_share",
               "unknown_ownership_basis"
             ],
             "raw_value": "**1.534**",
@@ -1803,11 +1992,17 @@
             "normalized_value": 1534.0,
             "normalized_unit": "BRL_million",
             "scale_conversion_applied": false,
-            "created_at": "2026-09-03T12:50:27.910933+00:00",
+            "created_at": "2026-09-03T14:22:24.285680+00:00",
             "extractor_version": "construction_operational_v1",
-            "validation_status": "valid",
+            "validation_status": "quarantined",
             "validation_missing_fields": [],
-            "company_resolution_method": "metadata_or_content"
+            "company_resolution_method": "filename_ticker",
+            "company_resolution": {
+              "ticker": "AVLL3",
+              "method": "filename_ticker",
+              "matched_alias": "AVLL3",
+              "confidence": "high"
+            }
           }
         ]
       }
@@ -1851,6 +2046,7 @@
         "period_confirmed"
       ],
       "validation_flags": [
+        "ownership_basis_expected:company_share",
         "unknown_ownership_basis"
       ],
       "raw_value": "34",
@@ -1858,11 +2054,17 @@
       "normalized_value": 34.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.851116+00:00",
+      "created_at": "2026-09-03T14:22:24.246083+00:00",
       "extractor_version": "construction_operational_v1",
-      "validation_status": "valid",
+      "validation_status": "quarantined",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -1901,6 +2103,7 @@
         "period_confirmed"
       ],
       "validation_flags": [
+        "ownership_basis_expected:company_share",
         "unknown_ownership_basis"
       ],
       "raw_value": "35",
@@ -1908,11 +2111,17 @@
       "normalized_value": 35.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.851200+00:00",
+      "created_at": "2026-09-03T14:22:24.246192+00:00",
       "extractor_version": "construction_operational_v1",
-      "validation_status": "valid",
+      "validation_status": "quarantined",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -1951,6 +2160,7 @@
         "period_confirmed"
       ],
       "validation_flags": [
+        "ownership_basis_expected:company_share",
         "unknown_ownership_basis"
       ],
       "raw_value": "35",
@@ -1958,11 +2168,17 @@
       "normalized_value": 35.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.851259+00:00",
+      "created_at": "2026-09-03T14:22:24.246274+00:00",
       "extractor_version": "construction_operational_v1",
-      "validation_status": "valid",
+      "validation_status": "quarantined",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2006,11 +2222,17 @@
       "normalized_value": 19.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.852077+00:00",
+      "created_at": "2026-09-03T14:22:24.246828+00:00",
       "extractor_version": "construction_operational_v1",
       "validation_status": "valid",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2054,11 +2276,17 @@
       "normalized_value": 20.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.852143+00:00",
+      "created_at": "2026-09-03T14:22:24.246908+00:00",
       "extractor_version": "construction_operational_v1",
       "validation_status": "valid",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2102,11 +2330,17 @@
       "normalized_value": 19.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.852198+00:00",
+      "created_at": "2026-09-03T14:22:24.246982+00:00",
       "extractor_version": "construction_operational_v1",
       "validation_status": "valid",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2114,7 +2348,7 @@
       "ticker_found": "AVLL3",
       "company": "ALPHAVILLE S.A.",
       "indicator_id": "launches_vgv",
-      "indicator_name": "Lançamentos",
+      "indicator_name": "LanÃ§amentos",
       "value": 305.0,
       "unit": "BRL_million",
       "currency": "BRL",
@@ -2145,6 +2379,7 @@
         "period_confirmed"
       ],
       "validation_flags": [
+        "ownership_basis_expected:company_share",
         "unknown_ownership_basis"
       ],
       "raw_value": "305",
@@ -2152,11 +2387,17 @@
       "normalized_value": 305.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.854291+00:00",
+      "created_at": "2026-09-03T14:22:24.248308+00:00",
       "extractor_version": "construction_operational_v1",
-      "validation_status": "valid",
+      "validation_status": "quarantined",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2164,7 +2405,7 @@
       "ticker_found": "AVLL3",
       "company": "ALPHAVILLE S.A.",
       "indicator_id": "launches_vgv",
-      "indicator_name": "Lançamentos",
+      "indicator_name": "LanÃ§amentos",
       "value": 88.0,
       "unit": "BRL_million",
       "currency": "BRL",
@@ -2195,6 +2436,7 @@
         "period_confirmed"
       ],
       "validation_flags": [
+        "ownership_basis_expected:company_share",
         "unknown_ownership_basis"
       ],
       "raw_value": "88",
@@ -2202,11 +2444,17 @@
       "normalized_value": 88.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.854363+00:00",
+      "created_at": "2026-09-03T14:22:24.248397+00:00",
       "extractor_version": "construction_operational_v1",
-      "validation_status": "valid",
+      "validation_status": "quarantined",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2214,7 +2462,7 @@
       "ticker_found": "AVLL3",
       "company": "ALPHAVILLE S.A.",
       "indicator_id": "launches_vgv",
-      "indicator_name": "Lançamentos",
+      "indicator_name": "LanÃ§amentos",
       "value": 0.0,
       "unit": "BRL_million",
       "currency": "BRL",
@@ -2245,6 +2493,7 @@
         "period_confirmed"
       ],
       "validation_flags": [
+        "ownership_basis_expected:company_share",
         "unknown_ownership_basis"
       ],
       "raw_value": "0",
@@ -2252,13 +2501,19 @@
       "normalized_value": 0.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.854419+00:00",
+      "created_at": "2026-09-03T14:22:24.248496+00:00",
       "extractor_version": "construction_operational_v1",
-      "validation_status": "low_confidence",
+      "validation_status": "quarantined",
       "validation_missing_fields": [
         "value"
       ],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2266,7 +2521,7 @@
       "ticker_found": "AVLL3",
       "company": "ALPHAVILLE S.A.",
       "indicator_id": "launches_vgv",
-      "indicator_name": "Lançamentos",
+      "indicator_name": "LanÃ§amentos",
       "value": 187.0,
       "unit": "BRL_million",
       "currency": "BRL",
@@ -2302,11 +2557,17 @@
       "normalized_value": 187.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.855199+00:00",
+      "created_at": "2026-09-03T14:22:24.249001+00:00",
       "extractor_version": "construction_operational_v1",
       "validation_status": "valid",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2314,7 +2575,7 @@
       "ticker_found": "AVLL3",
       "company": "ALPHAVILLE S.A.",
       "indicator_id": "launches_vgv",
-      "indicator_name": "Lançamentos",
+      "indicator_name": "LanÃ§amentos",
       "value": 60.0,
       "unit": "BRL_million",
       "currency": "BRL",
@@ -2350,11 +2611,17 @@
       "normalized_value": 60.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.855256+00:00",
+      "created_at": "2026-09-03T14:22:24.249073+00:00",
       "extractor_version": "construction_operational_v1",
       "validation_status": "valid",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2362,7 +2629,7 @@
       "ticker_found": "AVLL3",
       "company": "ALPHAVILLE S.A.",
       "indicator_id": "launches_vgv",
-      "indicator_name": "Lançamentos",
+      "indicator_name": "LanÃ§amentos",
       "value": 0.0,
       "unit": "BRL_million",
       "currency": "BRL",
@@ -2398,13 +2665,19 @@
       "normalized_value": 0.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.855313+00:00",
+      "created_at": "2026-09-03T14:22:24.249143+00:00",
       "extractor_version": "construction_operational_v1",
       "validation_status": "low_confidence",
       "validation_missing_fields": [
         "value"
       ],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2450,11 +2723,17 @@
       "normalized_value": 273.0,
       "normalized_unit": "units",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.858447+00:00",
+      "created_at": "2026-09-03T14:22:24.251075+00:00",
       "extractor_version": "construction_operational_v1",
       "validation_status": "valid",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2500,11 +2779,17 @@
       "normalized_value": 210.0,
       "normalized_unit": "units",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.858499+00:00",
+      "created_at": "2026-09-03T14:22:24.251147+00:00",
       "extractor_version": "construction_operational_v1",
       "validation_status": "valid",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2550,11 +2835,17 @@
       "normalized_value": 423.0,
       "normalized_unit": "units",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.858542+00:00",
+      "created_at": "2026-09-03T14:22:24.251215+00:00",
       "extractor_version": "construction_operational_v1",
       "validation_status": "valid",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2592,17 +2883,25 @@
         "indicator_explicit",
         "period_confirmed"
       ],
-      "validation_flags": [],
+      "validation_flags": [
+        "unexpected_positive_sign"
+      ],
       "raw_value": "(5)",
       "raw_unit": "(R$ milhões) 1T26 1T25 Var (%) 4T25 Var (%)",
       "normalized_value": 5.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.868276+00:00",
+      "created_at": "2026-09-03T14:22:24.257268+00:00",
       "extractor_version": "construction_operational_v1",
-      "validation_status": "valid",
+      "validation_status": "quarantined",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2640,17 +2939,25 @@
         "indicator_explicit",
         "period_confirmed"
       ],
-      "validation_flags": [],
+      "validation_flags": [
+        "unexpected_positive_sign"
+      ],
       "raw_value": "(7)",
       "raw_unit": "(R$ milhões) 1T26 1T25 Var (%) 4T25 Var (%)",
       "normalized_value": 7.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.868334+00:00",
+      "created_at": "2026-09-03T14:22:24.257343+00:00",
       "extractor_version": "construction_operational_v1",
-      "validation_status": "valid",
+      "validation_status": "quarantined",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2688,17 +2995,25 @@
         "indicator_explicit",
         "period_confirmed"
       ],
-      "validation_flags": [],
+      "validation_flags": [
+        "unexpected_positive_sign"
+      ],
       "raw_value": "(12)",
       "raw_unit": "(R$ milhões) 1T26 1T25 Var (%) 4T25 Var (%)",
       "normalized_value": 12.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.868385+00:00",
+      "created_at": "2026-09-03T14:22:24.257412+00:00",
       "extractor_version": "construction_operational_v1",
-      "validation_status": "valid",
+      "validation_status": "quarantined",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2706,7 +3021,7 @@
       "ticker_found": "AVLL3",
       "company": "ALPHAVILLE S.A.",
       "indicator_id": "net_sales_vgv",
-      "indicator_name": "VGV líquido — vendas líquidas",
+      "indicator_name": "VGV lÃ­quido â€” vendas lÃ­quidas",
       "value": 100.0,
       "unit": "BRL_million",
       "currency": "BRL",
@@ -2742,11 +3057,17 @@
       "normalized_value": 100.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.869139+00:00",
+      "created_at": "2026-09-03T14:22:24.257907+00:00",
       "extractor_version": "construction_operational_v1",
       "validation_status": "valid",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2754,7 +3075,7 @@
       "ticker_found": "AVLL3",
       "company": "ALPHAVILLE S.A.",
       "indicator_id": "net_sales_vgv",
-      "indicator_name": "VGV líquido — vendas líquidas",
+      "indicator_name": "VGV lÃ­quido â€” vendas lÃ­quidas",
       "value": 49.0,
       "unit": "BRL_million",
       "currency": "BRL",
@@ -2790,11 +3111,17 @@
       "normalized_value": 49.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.869195+00:00",
+      "created_at": "2026-09-03T14:22:24.257980+00:00",
       "extractor_version": "construction_operational_v1",
       "validation_status": "valid",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2802,7 +3129,7 @@
       "ticker_found": "AVLL3",
       "company": "ALPHAVILLE S.A.",
       "indicator_id": "net_sales_vgv",
-      "indicator_name": "VGV líquido — vendas líquidas",
+      "indicator_name": "VGV lÃ­quido â€” vendas lÃ­quidas",
       "value": 116.0,
       "unit": "BRL_million",
       "currency": "BRL",
@@ -2838,11 +3165,17 @@
       "normalized_value": 116.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.869244+00:00",
+      "created_at": "2026-09-03T14:22:24.258053+00:00",
       "extractor_version": "construction_operational_v1",
       "validation_status": "valid",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2886,11 +3219,17 @@
       "normalized_value": 557.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.908498+00:00",
+      "created_at": "2026-09-03T14:22:24.283866+00:00",
       "extractor_version": "construction_operational_v1",
       "validation_status": "valid",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2934,11 +3273,17 @@
       "normalized_value": 620.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.908553+00:00",
+      "created_at": "2026-09-03T14:22:24.283941+00:00",
       "extractor_version": "construction_operational_v1",
       "validation_status": "valid",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -2982,11 +3327,17 @@
       "normalized_value": 469.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.908601+00:00",
+      "created_at": "2026-09-03T14:22:24.284010+00:00",
       "extractor_version": "construction_operational_v1",
       "validation_status": "valid",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -3025,6 +3376,7 @@
         "period_confirmed"
       ],
       "validation_flags": [
+        "ownership_basis_expected:company_share",
         "unknown_ownership_basis"
       ],
       "raw_value": "**1.580**",
@@ -3032,11 +3384,17 @@
       "normalized_value": 1580.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.910799+00:00",
+      "created_at": "2026-09-03T14:22:24.285530+00:00",
       "extractor_version": "construction_operational_v1",
-      "validation_status": "valid",
+      "validation_status": "quarantined",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -3075,6 +3433,7 @@
         "period_confirmed"
       ],
       "validation_flags": [
+        "ownership_basis_expected:company_share",
         "unknown_ownership_basis"
       ],
       "raw_value": "**1.411**",
@@ -3082,11 +3441,17 @@
       "normalized_value": 1411.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.910878+00:00",
+      "created_at": "2026-09-03T14:22:24.285606+00:00",
       "extractor_version": "construction_operational_v1",
-      "validation_status": "valid",
+      "validation_status": "quarantined",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -3125,6 +3490,7 @@
         "period_confirmed"
       ],
       "validation_flags": [
+        "ownership_basis_expected:company_share",
         "unknown_ownership_basis"
       ],
       "raw_value": "**1.534**",
@@ -3132,11 +3498,17 @@
       "normalized_value": 1534.0,
       "normalized_unit": "BRL_million",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.910933+00:00",
+      "created_at": "2026-09-03T14:22:24.285680+00:00",
       "extractor_version": "construction_operational_v1",
-      "validation_status": "valid",
+      "validation_status": "quarantined",
       "validation_missing_fields": [],
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -3165,7 +3537,7 @@
       "table_title": "**Indicadores Operacionais¹**",
       "row_label": "_Empreendimentos 2018-_",
       "column_label": "1T26",
-      "evidence_text": "|**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
+      "evidence_text": "AVLL3 |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
       "extraction_method": "contextual_table",
       "reported_or_derived": "reported",
       "confidence": "high",
@@ -3176,13 +3548,19 @@
       ],
       "validation_flags": [],
       "raw_value": "2",
-      "raw_unit": "_Empreendimentos 2018-_ **Indicadores Operacionais¹** |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
+      "raw_unit": "_Empreendimentos 2018-_ **Indicadores Operacionais¹** AVLL3 |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
       "normalized_value": 2.0,
       "normalized_unit": "units",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.977698+00:00",
+      "created_at": "2026-09-03T14:22:24.335042+00:00",
       "extractor_version": "construction_operational_v1",
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -3211,7 +3589,7 @@
       "table_title": "**Indicadores Operacionais¹**",
       "row_label": "_Empreendimentos 2018-_",
       "column_label": "1T25",
-      "evidence_text": "|**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
+      "evidence_text": "AVLL3 |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
       "extraction_method": "contextual_table",
       "reported_or_derived": "reported",
       "confidence": "high",
@@ -3222,13 +3600,19 @@
       ],
       "validation_flags": [],
       "raw_value": "2",
-      "raw_unit": "_Empreendimentos 2018-_ **Indicadores Operacionais¹** |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
+      "raw_unit": "_Empreendimentos 2018-_ **Indicadores Operacionais¹** AVLL3 |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
       "normalized_value": 2.0,
       "normalized_unit": "units",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.977759+00:00",
+      "created_at": "2026-09-03T14:22:24.335120+00:00",
       "extractor_version": "construction_operational_v1",
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     },
     {
       "sector": "construcao_civil",
@@ -3257,7 +3641,7 @@
       "table_title": "**Indicadores Operacionais¹**",
       "row_label": "_Empreendimentos 2018-_",
       "column_label": "4T25",
-      "evidence_text": "|**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
+      "evidence_text": "AVLL3 |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
       "extraction_method": "contextual_table",
       "reported_or_derived": "reported",
       "confidence": "high",
@@ -3268,28 +3652,75 @@
       ],
       "validation_flags": [],
       "raw_value": "3",
-      "raw_unit": "_Empreendimentos 2018-_ **Indicadores Operacionais¹** |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
+      "raw_unit": "_Empreendimentos 2018-_ **Indicadores Operacionais¹** AVLL3 |**_Vendas Brutas - VGV Total_**|92|79|_16%_|60|_53%_| |**_Vendas Brutas - VGV %AVLL_**|50|50|_1%_|98|_-48%_| |_Empreendimentos 2019+_|48|48|_1%_|95|_-49%_| |_Empreendimentos 2018-_|2|2|_3%_|3|_-27%_| |**_# Lotes Vendidos_**|185|188|_-2%_|142|_30%_| |**_VSO de Vendas (#Lotes) _**|12%|13%|_-1 p.p._|14%|_-2 p.p._| |**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|**Venda Líquida e Distrato**|",
       "normalized_value": 3.0,
       "normalized_unit": "units",
       "scale_conversion_applied": false,
-      "created_at": "2026-09-03T12:50:27.977842+00:00",
+      "created_at": "2026-09-03T14:22:24.335201+00:00",
       "extractor_version": "construction_operational_v1",
-      "company_resolution_method": "metadata_or_content"
+      "company_resolution_method": "filename_ticker",
+      "company_resolution": {
+        "ticker": "AVLL3",
+        "method": "filename_ticker",
+        "matched_alias": "AVLL3",
+        "confidence": "high"
+      }
     }
   ],
   "status": "found_new_data",
+  "coverage_status": "found",
+  "discovery": {
+    "source_policy": "official_ri_pdf_only",
+    "documents_processed": [
+      "Releases e relatórios/Saída/construcao_civil/AVLL3_1T26_DEMONSTRACOES_FINANCEIRAS/AVLL3_1T26_DEMONSTRACOES_FINANCEIRAS.md"
+    ]
+  },
   "calculation_metadata": {
     "roe": {
       "value": null,
-      "calculation_status": "missing_financial_dependencies"
+      "calculation_status": "missing_components"
     },
     "credit_loss_allowance_to_receivables": {
       "value": null,
-      "calculation_status": "missing_financial_dependencies"
+      "calculation_status": "missing_components"
     },
     "net_vso": {
-      "value": null,
-      "calculation_status": "missing_components"
+      "1T26": {
+        "indicator_id": "net_vso",
+        "net_sales_vgv": 100.0,
+        "beginning_inventory_vgv": 469.0,
+        "launches_vgv": 187.0,
+        "ending_inventory_vgv": null,
+        "reported_vso": null,
+        "missing_components": [],
+        "ownership_basis": "company_share",
+        "value": 0.1524390243902439,
+        "calculated_vso": 0.1524390243902439,
+        "unit": "percent",
+        "calculation_status": "derived",
+        "implicit_adjustments": null,
+        "reconciliation_status": "not_calculable",
+        "reported_calculated_difference": null,
+        "confidence": "high"
+      },
+      "4T25": {
+        "indicator_id": "net_vso",
+        "net_sales_vgv": 116.0,
+        "beginning_inventory_vgv": 620.0,
+        "launches_vgv": 0.0,
+        "ending_inventory_vgv": null,
+        "reported_vso": null,
+        "missing_components": [],
+        "ownership_basis": "company_share",
+        "value": 0.1870967741935484,
+        "calculated_vso": 0.1870967741935484,
+        "unit": "percent",
+        "calculation_status": "derived",
+        "implicit_adjustments": null,
+        "reconciliation_status": "not_calculable",
+        "reported_calculated_difference": null,
+        "confidence": "high"
+      }
     }
   },
   "warnings": [

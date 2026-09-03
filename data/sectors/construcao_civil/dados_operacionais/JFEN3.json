@@ -1,7 +1,7 @@
 {
   "schema_version": "construction_operational_v1",
   "sector": "construcao_civil",
-  "generated_at": "2026-09-03T12:50:29.948060+00:00",
+  "generated_at": "2026-09-03T14:22:28.092702+00:00",
   "extractor_version": "construction_operational_v1",
   "ticker": "JFEN3",
   "companhia": "JOAO FORTES ENGENHARIA S.A.",
@@ -10,14 +10,19 @@
   "metricas": {},
   "observations": [],
   "status": "not_found_no_previous_data",
+  "coverage_status": "not_found",
+  "discovery": {
+    "source_policy": "official_ri_pdf_only",
+    "documents_processed": []
+  },
   "calculation_metadata": {
     "roe": {
       "value": null,
-      "calculation_status": "missing_financial_dependencies"
+      "calculation_status": "missing_components"
     },
     "credit_loss_allowance_to_receivables": {
       "value": null,
-      "calculation_status": "missing_financial_dependencies"
+      "calculation_status": "missing_components"
     },
     "net_vso": {
       "value": null,
