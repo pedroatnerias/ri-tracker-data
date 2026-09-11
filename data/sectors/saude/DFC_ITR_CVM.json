@@ -1,6 +1,6 @@
 {
   "kind": "dfc_itr_cvm",
-  "generated_at": "2026-08-21T18:05:49",
+  "generated_at": "2026-09-11T14:16:11",
   "source": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/",
   "years": [
     2022,
@@ -31033,90 +31033,6 @@
       "datas_referencia": "2025-12-31",
       "versoes": "1",
       "status": "OK"
-    },
-    {
-      "ticker": "AALR3",
-      "ano_arquivo": 2026,
-      "cnpj": null,
-      "denominacao_cvm": null,
-      "escopo": "Consolidado",
-      "metodo_dfc": null,
-      "linhas": 0,
-      "datas_referencia": null,
-      "versoes": null,
-      "status": "DFC ausente no arquivo anual"
-    },
-    {
-      "ticker": "DASA3",
-      "ano_arquivo": 2026,
-      "cnpj": null,
-      "denominacao_cvm": null,
-      "escopo": "Consolidado",
-      "metodo_dfc": null,
-      "linhas": 0,
-      "datas_referencia": null,
-      "versoes": null,
-      "status": "DFC ausente no arquivo anual"
-    },
-    {
-      "ticker": "FLRY3",
-      "ano_arquivo": 2026,
-      "cnpj": null,
-      "denominacao_cvm": null,
-      "escopo": "Consolidado",
-      "metodo_dfc": null,
-      "linhas": 0,
-      "datas_referencia": null,
-      "versoes": null,
-      "status": "DFC ausente no arquivo anual"
-    },
-    {
-      "ticker": "HAPV3",
-      "ano_arquivo": 2026,
-      "cnpj": null,
-      "denominacao_cvm": null,
-      "escopo": "Consolidado",
-      "metodo_dfc": null,
-      "linhas": 0,
-      "datas_referencia": null,
-      "versoes": null,
-      "status": "DFC ausente no arquivo anual"
-    },
-    {
-      "ticker": "MATD3",
-      "ano_arquivo": 2026,
-      "cnpj": null,
-      "denominacao_cvm": null,
-      "escopo": "Consolidado",
-      "metodo_dfc": null,
-      "linhas": 0,
-      "datas_referencia": null,
-      "versoes": null,
-      "status": "DFC ausente no arquivo anual"
-    },
-    {
-      "ticker": "ONCO3",
-      "ano_arquivo": 2026,
-      "cnpj": null,
-      "denominacao_cvm": null,
-      "escopo": "Consolidado",
-      "metodo_dfc": null,
-      "linhas": 0,
-      "datas_referencia": null,
-      "versoes": null,
-      "status": "DFC ausente no arquivo anual"
-    },
-    {
-      "ticker": "RDOR3",
-      "ano_arquivo": 2026,
-      "cnpj": null,
-      "denominacao_cvm": null,
-      "escopo": "Individual",
-      "metodo_dfc": null,
-      "linhas": 0,
-      "datas_referencia": null,
-      "versoes": null,
-      "status": "DFC ausente no arquivo anual"
     }
   ],
   "methodology": [

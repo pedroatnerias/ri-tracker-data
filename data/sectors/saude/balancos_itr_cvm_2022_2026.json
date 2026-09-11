@@ -1,6 +1,6 @@
 {
   "kind": "balanco_patrimonial_itr_cvm",
-  "generated_at": "2026-08-21T18:02:48",
+  "generated_at": "2026-09-11T14:15:25",
   "source": "https://dados.cvm.gov.br/dataset/cia_aberta-doc-itr",
   "dfp_source": "https://dados.cvm.gov.br/dataset/cia_aberta-doc-dfp",
   "years": [
@@ -75,70 +75,63 @@
       "document": "DFP",
       "year": 2022,
       "zip_url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2022.zip",
-      "local_file": "resultados/downloads/dfp/dfp_cia_aberta_2022.zip",
+      "local_file": "resultados/saude/downloads/dfp/dfp_cia_aberta_2022.zip",
       "source_page": "https://dados.cvm.gov.br/dataset/cia_aberta-doc-dfp"
     },
     {
       "document": "ITR",
       "year": 2022,
       "zip_url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2022.zip",
-      "local_file": "resultados/downloads/itr/itr_cia_aberta_2022.zip",
+      "local_file": "resultados/saude/downloads/itr/itr_cia_aberta_2022.zip",
       "source_page": "https://dados.cvm.gov.br/dataset/cia_aberta-doc-itr"
     },
     {
       "document": "DFP",
       "year": 2023,
       "zip_url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip",
-      "local_file": "resultados/downloads/dfp/dfp_cia_aberta_2023.zip",
+      "local_file": "resultados/saude/downloads/dfp/dfp_cia_aberta_2023.zip",
       "source_page": "https://dados.cvm.gov.br/dataset/cia_aberta-doc-dfp"
     },
     {
       "document": "ITR",
       "year": 2023,
       "zip_url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2023.zip",
-      "local_file": "resultados/downloads/itr/itr_cia_aberta_2023.zip",
+      "local_file": "resultados/saude/downloads/itr/itr_cia_aberta_2023.zip",
       "source_page": "https://dados.cvm.gov.br/dataset/cia_aberta-doc-itr"
     },
     {
       "document": "DFP",
       "year": 2024,
       "zip_url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip",
-      "local_file": "resultados/downloads/dfp/dfp_cia_aberta_2024.zip",
+      "local_file": "resultados/saude/downloads/dfp/dfp_cia_aberta_2024.zip",
       "source_page": "https://dados.cvm.gov.br/dataset/cia_aberta-doc-dfp"
     },
     {
       "document": "ITR",
       "year": 2024,
       "zip_url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2024.zip",
-      "local_file": "resultados/downloads/itr/itr_cia_aberta_2024.zip",
+      "local_file": "resultados/saude/downloads/itr/itr_cia_aberta_2024.zip",
       "source_page": "https://dados.cvm.gov.br/dataset/cia_aberta-doc-itr"
     },
     {
       "document": "DFP",
       "year": 2025,
       "zip_url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip",
-      "local_file": "resultados/downloads/dfp/dfp_cia_aberta_2025.zip",
+      "local_file": "resultados/saude/downloads/dfp/dfp_cia_aberta_2025.zip",
       "source_page": "https://dados.cvm.gov.br/dataset/cia_aberta-doc-dfp"
     },
     {
       "document": "ITR",
       "year": 2025,
       "zip_url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip",
-      "local_file": "resultados/downloads/itr/itr_cia_aberta_2025.zip",
+      "local_file": "resultados/saude/downloads/itr/itr_cia_aberta_2025.zip",
       "source_page": "https://dados.cvm.gov.br/dataset/cia_aberta-doc-itr"
-    },
-    {
-      "document": "DFP",
-      "year": 2026,
-      "zip_url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2026.zip",
-      "local_file": "resultados/downloads/dfp/dfp_cia_aberta_2026.zip",
-      "source_page": "https://dados.cvm.gov.br/dataset/cia_aberta-doc-dfp"
     },
     {
       "document": "ITR",
       "year": 2026,
       "zip_url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip",
-      "local_file": "resultados/downloads/itr/itr_cia_aberta_2026.zip",
+      "local_file": "resultados/saude/downloads/itr/itr_cia_aberta_2026.zip",
       "source_page": "https://dados.cvm.gov.br/dataset/cia_aberta-doc-itr"
     }
   ],
