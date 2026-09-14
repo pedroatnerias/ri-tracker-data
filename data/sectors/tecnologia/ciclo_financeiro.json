@@ -1,0 +1,6117 @@
+{
+  "source_kind": "balanco_patrimonial_itr_cvm",
+  "unit": "Reais integrais",
+  "companies": {
+    "BMOB3": [
+      {
+        "periodo": {
+          "dre": "01/04/2022 a 30/06/2022",
+          "inicio": "2022-04-01",
+          "fim": "2022-06-30",
+          "bp_inicial": "2022-03-31",
+          "bp_final": "2022-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 37.8304,
+          "PME": 17.669,
+          "PMR": 49.9043,
+          "ciclo_financeiro": 29.7429
+        },
+        "bases_calculo": {
+          "receita_liquida": 375649000.0,
+          "CMV": 298311000.0,
+          "compras_estimadas": 300404000.0,
+          "contas_a_receber_medio": 206005500.0,
+          "estoque_medio": 57921500.0,
+          "fornecedores_medio": 124883500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2022 a 30/09/2022",
+          "inicio": "2022-07-01",
+          "fim": "2022-09-30",
+          "bp_inicial": "2022-06-30",
+          "bp_final": "2022-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 40.218,
+          "PME": 16.6091,
+          "PMR": 52.6288,
+          "ciclo_financeiro": 29.0199
+        },
+        "bases_calculo": {
+          "receita_liquida": 374937000.0,
+          "CMV": 292874000.0,
+          "compras_estimadas": 280685000.0,
+          "contas_a_receber_medio": 214483500.0,
+          "estoque_medio": 52873500.0,
+          "fornecedores_medio": 122702000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2022 a 31/12/2022",
+          "inicio": "2022-10-01",
+          "fim": "2022-12-31",
+          "bp_inicial": "2022-09-30",
+          "bp_final": "2022-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 41.3234,
+          "PME": 15.585,
+          "PMR": 56.5319,
+          "ciclo_financeiro": 30.7934
+        },
+        "bases_calculo": {
+          "receita_liquida": 346689000.0,
+          "CMV": 262580000.0,
+          "compras_estimadas": 257985000.0,
+          "contas_a_receber_medio": 213032500.0,
+          "estoque_medio": 44481500.0,
+          "fornecedores_medio": 115878500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/03/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-03-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 39.5774,
+          "PME": 16.3211,
+          "PMR": 57.3612,
+          "ciclo_financeiro": 34.1049
+        },
+        "bases_calculo": {
+          "receita_liquida": 315997000.0,
+          "CMV": 236959000.0,
+          "compras_estimadas": 238534000.0,
+          "contas_a_receber_medio": 201399500.0,
+          "estoque_medio": 42971500.0,
+          "fornecedores_medio": 104895000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/06/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 39.8892,
+          "PME": 13.354,
+          "PMR": 59.1034,
+          "ciclo_financeiro": 32.5683
+        },
+        "bases_calculo": {
+          "receita_liquida": 634855000.0,
+          "CMV": 480455000.0,
+          "compras_estimadas": 466982000.0,
+          "contas_a_receber_medio": 207304500.0,
+          "estoque_medio": 35447500.0,
+          "fornecedores_medio": 102914500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2023 a 30/06/2023",
+          "inicio": "2023-04-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2023-03-31",
+          "bp_final": "2023-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 38.6651,
+          "PME": 13.5418,
+          "PMR": 56.6292,
+          "ciclo_financeiro": 31.506
+        },
+        "bases_calculo": {
+          "receita_liquida": 318858000.0,
+          "CMV": 243496000.0,
+          "compras_estimadas": 228448000.0,
+          "contas_a_receber_medio": 198425000.0,
+          "estoque_medio": 36235000.0,
+          "fornecedores_medio": 97065500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/09/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-09-30",
+          "dias": 273
+        },
+        "indicadores_dias": {
+          "PMP": 40.4866,
+          "PME": 13.766,
+          "PMR": 62.5902,
+          "ciclo_financeiro": 35.8695
+        },
+        "bases_calculo": {
+          "receita_liquida": 960919000.0,
+          "CMV": 731197000.0,
+          "compras_estimadas": 720570000.0,
+          "contas_a_receber_medio": 220308000.0,
+          "estoque_medio": 36870500.0,
+          "fornecedores_medio": 106862500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2023 a 30/09/2023",
+          "inicio": "2023-07-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2023-06-30",
+          "bp_final": "2023-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 35.9285,
+          "PME": 11.0565,
+          "PMR": 61.3213,
+          "ciclo_financeiro": 36.4493
+        },
+        "bases_calculo": {
+          "receita_liquida": 326064000.0,
+          "CMV": 250742000.0,
+          "compras_estimadas": 253588000.0,
+          "contas_a_receber_medio": 217333500.0,
+          "estoque_medio": 30134000.0,
+          "fornecedores_medio": 99033000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/12/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-12-31",
+          "dias": 365
+        },
+        "indicadores_dias": {
+          "PMP": 44.6199,
+          "PME": 12.8768,
+          "PMR": 75.2747,
+          "ciclo_financeiro": 43.5316
+        },
+        "bases_calculo": {
+          "receita_liquida": 1307844000.0,
+          "CMV": 997409000.0,
+          "compras_estimadas": 983416000.0,
+          "contas_a_receber_medio": 269719500.0,
+          "estoque_medio": 35187500.0,
+          "fornecedores_medio": 120219000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2023 a 31/12/2023",
+          "inicio": "2023-10-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2023-09-30",
+          "bp_final": "2023-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 40.7199,
+          "PME": 10.3241,
+          "PMR": 74.1857,
+          "ciclo_financeiro": 43.7899
+        },
+        "bases_calculo": {
+          "receita_liquida": 346925000.0,
+          "CMV": 266212000.0,
+          "compras_estimadas": 262846000.0,
+          "contas_a_receber_medio": 279748500.0,
+          "estoque_medio": 29874000.0,
+          "fornecedores_medio": 116337500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/03/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-03-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-03-31",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 42.9562,
+          "PME": 7.8504,
+          "PMR": 83.7662,
+          "ciclo_financeiro": 48.6604
+        },
+        "bases_calculo": {
+          "receita_liquida": 352382000.0,
+          "CMV": 271706000.0,
+          "compras_estimadas": 262203000.0,
+          "contas_a_receber_medio": 324370500.0,
+          "estoque_medio": 23439500.0,
+          "fornecedores_medio": 123772000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/06/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-06-30",
+          "dias": 182
+        },
+        "indicadores_dias": {
+          "PMP": 42.3141,
+          "PME": 7.8383,
+          "PMR": 82.4943,
+          "ciclo_financeiro": 48.0184
+        },
+        "bases_calculo": {
+          "receita_liquida": 716895000.0,
+          "CMV": 552449000.0,
+          "compras_estimadas": 543652000.0,
+          "contas_a_receber_medio": 324943500.0,
+          "estoque_medio": 23792500.0,
+          "fornecedores_medio": 126396500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2024 a 30/06/2024",
+          "inicio": "2024-04-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2024-03-31",
+          "bp_final": "2024-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 38.9526,
+          "PME": 6.1719,
+          "PMR": 79.9259,
+          "ciclo_financeiro": 47.1452
+        },
+        "bases_calculo": {
+          "receita_liquida": 364513000.0,
+          "CMV": 280743000.0,
+          "compras_estimadas": 281449000.0,
+          "contas_a_receber_medio": 320154000.0,
+          "estoque_medio": 19041000.0,
+          "fornecedores_medio": 120474500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/09/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-09-30",
+          "dias": 274
+        },
+        "indicadores_dias": {
+          "PMP": 41.1176,
+          "PME": 7.4623,
+          "PMR": 80.8881,
+          "ciclo_financeiro": 47.2328
+        },
+        "bases_calculo": {
+          "receita_liquida": 1098232000.0,
+          "CMV": 848206000.0,
+          "compras_estimadas": 838025000.0,
+          "contas_a_receber_medio": 324211500.0,
+          "estoque_medio": 23100500.0,
+          "fornecedores_medio": 125757500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2024 a 30/09/2024",
+          "inicio": "2024-07-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2024-06-30",
+          "bp_final": "2024-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 38.2723,
+          "PME": 5.8176,
+          "PMR": 77.2008,
+          "ciclo_financeiro": 44.7461
+        },
+        "bases_calculo": {
+          "receita_liquida": 381337000.0,
+          "CMV": 295757000.0,
+          "compras_estimadas": 294373000.0,
+          "contas_a_receber_medio": 319995000.0,
+          "estoque_medio": 18702000.0,
+          "fornecedores_medio": 122460000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/12/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-12-31",
+          "dias": 366
+        },
+        "indicadores_dias": {
+          "PMP": 40.5031,
+          "PME": 6.9698,
+          "PMR": 89.0656,
+          "ciclo_financeiro": 55.5323
+        },
+        "bases_calculo": {
+          "receita_liquida": 1498065000.0,
+          "CMV": 1153457000.0,
+          "compras_estimadas": 1141006000.0,
+          "contas_a_receber_medio": 364552000.0,
+          "estoque_medio": 21965500.0,
+          "fornecedores_medio": 126268500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2024 a 31/12/2024",
+          "inicio": "2024-10-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2024-09-30",
+          "bp_final": "2024-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 37.146,
+          "PME": 5.086,
+          "PMR": 82.7434,
+          "ciclo_financeiro": 50.6833
+        },
+        "bases_calculo": {
+          "receita_liquida": 399833000.0,
+          "CMV": 305251000.0,
+          "compras_estimadas": 302981000.0,
+          "contas_a_receber_medio": 359603500.0,
+          "estoque_medio": 16875000.0,
+          "fornecedores_medio": 122332000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 31/03/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-03-31",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 30.8248,
+          "PME": 4.3868,
+          "PMR": 166.2267,
+          "ciclo_financeiro": 139.7887
+        },
+        "bases_calculo": {
+          "receita_liquida": 482959000.0,
+          "CMV": 352865000.0,
+          "compras_estimadas": 356186000.0,
+          "contas_a_receber_medio": 892007500.0,
+          "estoque_medio": 17199500.0,
+          "fornecedores_medio": 121993000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 30/06/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 33.6838,
+          "PME": 4.0321,
+          "PMR": 167.7676,
+          "ciclo_financeiro": 138.116
+        },
+        "bases_calculo": {
+          "receita_liquida": 980256000.0,
+          "CMV": 716589000.0,
+          "compras_estimadas": 717438000.0,
+          "contas_a_receber_medio": 908592500.0,
+          "estoque_medio": 15963500.0,
+          "fornecedores_medio": 133514000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2026 a 30/06/2026",
+          "inicio": "2026-04-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2026-03-31",
+          "bp_final": "2026-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 31.2053,
+          "PME": 4.4093,
+          "PMR": 181.6113,
+          "ciclo_financeiro": 154.8153
+        },
+        "bases_calculo": {
+          "receita_liquida": 497297000.0,
+          "CMV": 363724000.0,
+          "compras_estimadas": 361252000.0,
+          "contas_a_receber_medio": 992470000.0,
+          "estoque_medio": 17624000.0,
+          "fornecedores_medio": 123879000.0
+        }
+      }
+    ],
+    "BRQB3": [
+      {
+        "periodo": {
+          "dre": "01/04/2022 a 30/06/2022",
+          "inicio": "2022-04-01",
+          "fim": "2022-06-30",
+          "bp_inicial": "2022-03-31",
+          "bp_final": "2022-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 7.599,
+          "PME": 0.1269,
+          "PMR": 53.3703,
+          "ciclo_financeiro": 45.8983
+        },
+        "bases_calculo": {
+          "receita_liquida": 182010000.0,
+          "CMV": 120067000.0,
+          "compras_estimadas": 119998000.0,
+          "contas_a_receber_medio": 106746500.0,
+          "estoque_medio": 167500.0,
+          "fornecedores_medio": 10020500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2022 a 30/09/2022",
+          "inicio": "2022-07-01",
+          "fim": "2022-09-30",
+          "bp_inicial": "2022-06-30",
+          "bp_final": "2022-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 9.24,
+          "PME": 0.0748,
+          "PMR": 52.8602,
+          "ciclo_financeiro": 43.695
+        },
+        "bases_calculo": {
+          "receita_liquida": 200108000.0,
+          "CMV": 122350000.0,
+          "compras_estimadas": 122283000.0,
+          "contas_a_receber_medio": 114975500.0,
+          "estoque_medio": 99500.0,
+          "fornecedores_medio": 12281500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2022 a 31/12/2022",
+          "inicio": "2022-10-01",
+          "fim": "2022-12-31",
+          "bp_inicial": "2022-09-30",
+          "bp_final": "2022-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 10.0097,
+          "PME": 0.0323,
+          "PMR": 53.2172,
+          "ciclo_financeiro": 43.2399
+        },
+        "bases_calculo": {
+          "receita_liquida": 201547000.0,
+          "CMV": 122481000.0,
+          "compras_estimadas": 122435000.0,
+          "contas_a_receber_medio": 116584500.0,
+          "estoque_medio": 43000.0,
+          "fornecedores_medio": 13321000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/03/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-03-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 10.6827,
+          "PME": 0.01,
+          "PMR": 58.3357,
+          "ciclo_financeiro": 47.663
+        },
+        "bases_calculo": {
+          "receita_liquida": 181094000.0,
+          "CMV": 116963000.0,
+          "compras_estimadas": 116949000.0,
+          "contas_a_receber_medio": 117380500.0,
+          "estoque_medio": 13000.0,
+          "fornecedores_medio": 13881500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/06/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 8.036,
+          "PME": 0.0108,
+          "PMR": 58.4221,
+          "ciclo_financeiro": 50.397
+        },
+        "bases_calculo": {
+          "receita_liquida": 344470000.0,
+          "CMV": 225217000.0,
+          "compras_estimadas": 225204000.0,
+          "contas_a_receber_medio": 111186000.0,
+          "estoque_medio": 13500.0,
+          "fornecedores_medio": 9998500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2023 a 30/06/2023",
+          "inicio": "2023-04-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2023-03-31",
+          "bp_final": "2023-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 8.4683,
+          "PME": 0.0055,
+          "PMR": 63.8322,
+          "ciclo_financeiro": 55.3694
+        },
+        "bases_calculo": {
+          "receita_liquida": 163376000.0,
+          "CMV": 108254000.0,
+          "compras_estimadas": 108255000.0,
+          "contas_a_receber_medio": 114600500.0,
+          "estoque_medio": 6500.0,
+          "fornecedores_medio": 10074000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/09/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-09-30",
+          "dias": 273
+        },
+        "indicadores_dias": {
+          "PMP": 8.4632,
+          "PME": 0.0105,
+          "PMR": 61.8479,
+          "ciclo_financeiro": 53.3951
+        },
+        "bases_calculo": {
+          "receita_liquida": 503902000.0,
+          "CMV": 324990000.0,
+          "compras_estimadas": 324975000.0,
+          "contas_a_receber_medio": 114158500.0,
+          "estoque_medio": 12500.0,
+          "fornecedores_medio": 10074500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2023 a 30/09/2023",
+          "inicio": "2023-07-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2023-06-30",
+          "bp_final": "2023-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 5.7789,
+          "PME": 0.0055,
+          "PMR": 64.2708,
+          "ciclo_financeiro": 58.4975
+        },
+        "bases_calculo": {
+          "receita_liquida": 159432000.0,
+          "CMV": 99773000.0,
+          "compras_estimadas": 99771000.0,
+          "contas_a_receber_medio": 111378500.0,
+          "estoque_medio": 6000.0,
+          "fornecedores_medio": 6267000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/12/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-12-31",
+          "dias": 365
+        },
+        "indicadores_dias": {
+          "PMP": 8.2855,
+          "PME": 0.0099,
+          "PMR": 54.8122,
+          "ciclo_financeiro": 46.5366
+        },
+        "bases_calculo": {
+          "receita_liquida": 658339000.0,
+          "CMV": 423211000.0,
+          "compras_estimadas": 423194000.0,
+          "contas_a_receber_medio": 98863000.0,
+          "estoque_medio": 11500.0,
+          "fornecedores_medio": 9606500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2023 a 31/12/2023",
+          "inicio": "2023-10-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2023-09-30",
+          "bp_final": "2023-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 5.503,
+          "PME": 0.0037,
+          "PMR": 59.0086,
+          "ciclo_financeiro": 53.5093
+        },
+        "bases_calculo": {
+          "receita_liquida": 154437000.0,
+          "CMV": 98221000.0,
+          "compras_estimadas": 98219000.0,
+          "contas_a_receber_medio": 99055500.0,
+          "estoque_medio": 4000.0,
+          "fornecedores_medio": 5875000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/03/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-03-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-03-31",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 4.996,
+          "PME": 0.0024,
+          "PMR": 60.5811,
+          "ciclo_financeiro": 55.5874
+        },
+        "bases_calculo": {
+          "receita_liquida": 143321000.0,
+          "CMV": 95163000.0,
+          "compras_estimadas": 95162000.0,
+          "contas_a_receber_medio": 95412500.0,
+          "estoque_medio": 2500.0,
+          "fornecedores_medio": 5224500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/06/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-06-30",
+          "dias": 182
+        },
+        "indicadores_dias": {
+          "PMP": 5.3131,
+          "PME": 0.0015,
+          "PMR": 58.6047,
+          "ciclo_financeiro": 53.2931
+        },
+        "bases_calculo": {
+          "receita_liquida": 287925000.0,
+          "CMV": 187687000.0,
+          "compras_estimadas": 187684000.0,
+          "contas_a_receber_medio": 92713000.0,
+          "estoque_medio": 1500.0,
+          "fornecedores_medio": 5479000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2024 a 30/06/2024",
+          "inicio": "2024-04-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2024-03-31",
+          "bp_final": "2024-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 5.2094,
+          "PME": 0.001,
+          "PMR": 65.6777,
+          "ciclo_financeiro": 60.4693
+        },
+        "bases_calculo": {
+          "receita_liquida": 144604000.0,
+          "CMV": 92524000.0,
+          "compras_estimadas": 92522000.0,
+          "contas_a_receber_medio": 104365500.0,
+          "estoque_medio": 1000.0,
+          "fornecedores_medio": 5296500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/09/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-09-30",
+          "dias": 274
+        },
+        "indicadores_dias": {
+          "PMP": 5.2528,
+          "PME": 0.0015,
+          "PMR": 51.6668,
+          "ciclo_financeiro": 46.4155
+        },
+        "bases_calculo": {
+          "receita_liquida": 436470000.0,
+          "CMV": 280091000.0,
+          "compras_estimadas": 280088000.0,
+          "contas_a_receber_medio": 82303000.0,
+          "estoque_medio": 1500.0,
+          "fornecedores_medio": 5369500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2024 a 30/09/2024",
+          "inicio": "2024-07-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2024-06-30",
+          "bp_final": "2024-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 5.4177,
+          "PME": 0.0,
+          "PMR": 56.5186,
+          "ciclo_financeiro": 51.1009
+        },
+        "bases_calculo": {
+          "receita_liquida": 148545000.0,
+          "CMV": 92404000.0,
+          "compras_estimadas": 92404000.0,
+          "contas_a_receber_medio": 91256000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 5441500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/12/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-12-31",
+          "dias": 366
+        },
+        "indicadores_dias": {
+          "PMP": 5.8262,
+          "PME": 0.0015,
+          "PMR": 49.4308,
+          "ciclo_financeiro": 43.6061
+        },
+        "bases_calculo": {
+          "receita_liquida": 581866000.0,
+          "CMV": 370924000.0,
+          "compras_estimadas": 370921000.0,
+          "contas_a_receber_medio": 78585000.0,
+          "estoque_medio": 1500.0,
+          "fornecedores_medio": 5904500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2024 a 31/12/2024",
+          "inicio": "2024-10-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2024-09-30",
+          "bp_final": "2024-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 5.9424,
+          "PME": 0.0,
+          "PMR": 48.8031,
+          "ciclo_financeiro": 42.8607
+        },
+        "bases_calculo": {
+          "receita_liquida": 145396000.0,
+          "CMV": 90833000.0,
+          "compras_estimadas": 90833000.0,
+          "contas_a_receber_medio": 77128000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 5867000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 31/03/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-03-31",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 3.8977,
+          "PME": 0.0,
+          "PMR": 60.4712,
+          "ciclo_financeiro": 56.5735
+        },
+        "bases_calculo": {
+          "receita_liquida": 159233000.0,
+          "CMV": 104197000.0,
+          "compras_estimadas": 104197000.0,
+          "contas_a_receber_medio": 106989000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 4512500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 30/06/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 3.7315,
+          "PME": 0.0,
+          "PMR": 66.0108,
+          "ciclo_financeiro": 62.2793
+        },
+        "bases_calculo": {
+          "receita_liquida": 309599000.0,
+          "CMV": 203674000.0,
+          "compras_estimadas": 203674000.0,
+          "contas_a_receber_medio": 112911000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 4199000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2026 a 30/06/2026",
+          "inicio": "2026-04-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2026-03-31",
+          "bp_final": "2026-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 3.7996,
+          "PME": 0.0,
+          "PMR": 76.2721,
+          "ciclo_financeiro": 72.4725
+        },
+        "bases_calculo": {
+          "receita_liquida": 150366000.0,
+          "CMV": 99477000.0,
+          "compras_estimadas": 99477000.0,
+          "contas_a_receber_medio": 126030000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 4153500.0
+        }
+      }
+    ],
+    "CASH3": [
+      {
+        "periodo": {
+          "dre": "01/04/2022 a 30/06/2022",
+          "inicio": "2022-04-01",
+          "fim": "2022-06-30",
+          "bp_inicial": "2022-03-31",
+          "bp_final": "2022-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 7.0126,
+          "PME": 0.0,
+          "PMR": 71.9789,
+          "ciclo_financeiro": 64.9663
+        },
+        "bases_calculo": {
+          "receita_liquida": 79075000.0,
+          "CMV": 133912000.0,
+          "compras_estimadas": 133912000.0,
+          "contas_a_receber_medio": 62546500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 10319500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2022 a 30/09/2022",
+          "inicio": "2022-07-01",
+          "fim": "2022-09-30",
+          "bp_inicial": "2022-06-30",
+          "bp_final": "2022-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 10.0545,
+          "PME": 0.0,
+          "PMR": 40.2024,
+          "ciclo_financeiro": 30.1479
+        },
+        "bases_calculo": {
+          "receita_liquida": 97791000.0,
+          "CMV": 142769000.0,
+          "compras_estimadas": 142769000.0,
+          "contas_a_receber_medio": 42733000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 15603000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2022 a 31/12/2022",
+          "inicio": "2022-10-01",
+          "fim": "2022-12-31",
+          "bp_inicial": "2022-09-30",
+          "bp_final": "2022-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 12.9314,
+          "PME": 0.0,
+          "PMR": 31.4761,
+          "ciclo_financeiro": 18.5447
+        },
+        "bases_calculo": {
+          "receita_liquida": 101195000.0,
+          "CMV": 124048000.0,
+          "compras_estimadas": 124048000.0,
+          "contas_a_receber_medio": 34622000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 17436000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/03/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-03-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 11.6618,
+          "PME": 0.0,
+          "PMR": 25.2848,
+          "ciclo_financeiro": 13.6229
+        },
+        "bases_calculo": {
+          "receita_liquida": 98677000.0,
+          "CMV": 131641000.0,
+          "compras_estimadas": 131641000.0,
+          "contas_a_receber_medio": 27722500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 17057500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/06/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 11.8964,
+          "PME": 0.0,
+          "PMR": 37.0289,
+          "ciclo_financeiro": 25.1325
+        },
+        "bases_calculo": {
+          "receita_liquida": 155800000.0,
+          "CMV": 186935000.0,
+          "compras_estimadas": 186935000.0,
+          "contas_a_receber_medio": 31873500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 12286500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2023 a 30/06/2023",
+          "inicio": "2023-04-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2023-03-31",
+          "bp_final": "2023-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 10.9209,
+          "PME": 0.0,
+          "PMR": 35.839,
+          "ciclo_financeiro": 24.9181
+        },
+        "bases_calculo": {
+          "receita_liquida": 72152000.0,
+          "CMV": 88559000.0,
+          "compras_estimadas": 88559000.0,
+          "contas_a_receber_medio": 28416000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 10628000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/09/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-09-30",
+          "dias": 273
+        },
+        "indicadores_dias": {
+          "PMP": 13.6501,
+          "PME": 0.0,
+          "PMR": 30.5988,
+          "ciclo_financeiro": 16.9487
+        },
+        "bases_calculo": {
+          "receita_liquida": 226220000.0,
+          "CMV": 260979000.0,
+          "compras_estimadas": 260979000.0,
+          "contas_a_receber_medio": 25355500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 13049000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2023 a 30/09/2023",
+          "inicio": "2023-07-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2023-06-30",
+          "bp_final": "2023-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 8.2248,
+          "PME": 0.0,
+          "PMR": 34.0316,
+          "ciclo_financeiro": 25.8069
+        },
+        "bases_calculo": {
+          "receita_liquida": 70420000.0,
+          "CMV": 74044000.0,
+          "compras_estimadas": 74044000.0,
+          "contas_a_receber_medio": 26049000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 6619500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/12/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-12-31",
+          "dias": 365
+        },
+        "indicadores_dias": {
+          "PMP": 10.9319,
+          "PME": 0.0,
+          "PMR": 41.9015,
+          "ciclo_financeiro": 30.9697
+        },
+        "bases_calculo": {
+          "receita_liquida": 326589000.0,
+          "CMV": 397659000.0,
+          "compras_estimadas": 397659000.0,
+          "contas_a_receber_medio": 37492000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 11910000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2023 a 31/12/2023",
+          "inicio": "2023-10-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2023-09-30",
+          "bp_final": "2023-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 5.5539,
+          "PME": 0.0,
+          "PMR": 34.1389,
+          "ciclo_financeiro": 28.585
+        },
+        "bases_calculo": {
+          "receita_liquida": 85340000.0,
+          "CMV": 103415000.0,
+          "compras_estimadas": 103415000.0,
+          "contas_a_receber_medio": 31667500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 6243000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/03/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-03-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-03-31",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 6.5548,
+          "PME": 0.0,
+          "PMR": 35.7371,
+          "ciclo_financeiro": 29.1824
+        },
+        "bases_calculo": {
+          "receita_liquida": 82412000.0,
+          "CMV": 79480000.0,
+          "compras_estimadas": 79480000.0,
+          "contas_a_receber_medio": 32364500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 5725000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/06/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-06-30",
+          "dias": 182
+        },
+        "indicadores_dias": {
+          "PMP": 4.0819,
+          "PME": 0.0,
+          "PMR": 37.8051,
+          "ciclo_financeiro": 33.7233
+        },
+        "bases_calculo": {
+          "receita_liquida": 170053000.0,
+          "CMV": 236581000.0,
+          "compras_estimadas": 236581000.0,
+          "contas_a_receber_medio": 35323500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 5306000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2024 a 30/06/2024",
+          "inicio": "2024-04-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2024-03-31",
+          "bp_final": "2024-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 3.4332,
+          "PME": 0.0,
+          "PMR": 24.7994,
+          "ciclo_financeiro": 21.3662
+        },
+        "bases_calculo": {
+          "receita_liquida": 87641000.0,
+          "CMV": 157101000.0,
+          "compras_estimadas": 157101000.0,
+          "contas_a_receber_medio": 23884000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 5927000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/09/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-09-30",
+          "dias": 274
+        },
+        "indicadores_dias": {
+          "PMP": 5.748,
+          "PME": 0.0,
+          "PMR": 34.5814,
+          "ciclo_financeiro": 28.8334
+        },
+        "bases_calculo": {
+          "receita_liquida": 260341000.0,
+          "CMV": 322597000.0,
+          "compras_estimadas": 322597000.0,
+          "contas_a_receber_medio": 32857500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 6767500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2024 a 30/09/2024",
+          "inicio": "2024-07-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2024-06-30",
+          "bp_final": "2024-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 7.4544,
+          "PME": 0.0,
+          "PMR": 24.8392,
+          "ciclo_financeiro": 17.3849
+        },
+        "bases_calculo": {
+          "receita_liquida": 90288000.0,
+          "CMV": 86016000.0,
+          "compras_estimadas": 86016000.0,
+          "contas_a_receber_medio": 24377000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 6969500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/12/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-12-31",
+          "dias": 366
+        },
+        "indicadores_dias": {
+          "PMP": 7.3338,
+          "PME": 0.0,
+          "PMR": 42.0654,
+          "ciclo_financeiro": 34.7316
+        },
+        "bases_calculo": {
+          "receita_liquida": 365018000.0,
+          "CMV": 390192000.0,
+          "compras_estimadas": 390192000.0,
+          "contas_a_receber_medio": 41952500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 7818500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2024 a 31/12/2024",
+          "inicio": "2024-10-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2024-09-30",
+          "bp_final": "2024-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 12.9055,
+          "PME": 0.0,
+          "PMR": 27.251,
+          "ciclo_financeiro": 14.3455
+        },
+        "bases_calculo": {
+          "receita_liquida": 104677000.0,
+          "CMV": 67595000.0,
+          "compras_estimadas": 67595000.0,
+          "contas_a_receber_medio": 31006000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 9482000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 31/03/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-03-31",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 5.55,
+          "PME": 0.0,
+          "PMR": 63.2948,
+          "ciclo_financeiro": 57.7448
+        },
+        "bases_calculo": {
+          "receita_liquida": 118246000.0,
+          "CMV": 169070000.0,
+          "compras_estimadas": 169070000.0,
+          "contas_a_receber_medio": 83159500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 10426000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 30/06/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 5.3995,
+          "PME": 0.0,
+          "PMR": 64.3887,
+          "ciclo_financeiro": 58.9892
+        },
+        "bases_calculo": {
+          "receita_liquida": 233909000.0,
+          "CMV": 303790000.0,
+          "compras_estimadas": 303790000.0,
+          "contas_a_receber_medio": 83210500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 9062500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2026 a 30/06/2026",
+          "inicio": "2026-04-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2026-03-31",
+          "bp_final": "2026-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 4.959,
+          "PME": 0.0,
+          "PMR": 64.8997,
+          "ciclo_financeiro": 59.9407
+        },
+        "bases_calculo": {
+          "receita_liquida": 115663000.0,
+          "CMV": 134720000.0,
+          "compras_estimadas": 134720000.0,
+          "contas_a_receber_medio": 82489000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 7341500.0
+        }
+      }
+    ],
+    "ECOM3": [
+      {
+        "periodo": {
+          "dre": "01/04/2022 a 30/06/2022",
+          "inicio": "2022-04-01",
+          "fim": "2022-06-30",
+          "bp_inicial": "2022-03-31",
+          "bp_final": "2022-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 37.1257,
+          "PME": 0.0,
+          "PMR": 52.3333,
+          "ciclo_financeiro": 15.2076
+        },
+        "bases_calculo": {
+          "receita_liquida": 23791000.0,
+          "CMV": 9856000.0,
+          "compras_estimadas": 9856000.0,
+          "contas_a_receber_medio": 13682000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 4021000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2022 a 30/09/2022",
+          "inicio": "2022-07-01",
+          "fim": "2022-09-30",
+          "bp_inicial": "2022-06-30",
+          "bp_final": "2022-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 66.5637,
+          "ciclo_financeiro": 66.5637
+        },
+        "bases_calculo": {
+          "receita_liquida": 17314000.0,
+          "CMV": 10542000.0,
+          "compras_estimadas": 10542000.0,
+          "contas_a_receber_medio": 12527000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2022 a 31/12/2022",
+          "inicio": "2022-10-01",
+          "fim": "2022-12-31",
+          "bp_inicial": "2022-09-30",
+          "bp_final": "2022-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 61.6931,
+          "ciclo_financeiro": 61.6931
+        },
+        "bases_calculo": {
+          "receita_liquida": 15896000.0,
+          "CMV": 10751000.0,
+          "compras_estimadas": 10751000.0,
+          "contas_a_receber_medio": 10659500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/03/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-03-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 64.4426,
+          "ciclo_financeiro": 64.4426
+        },
+        "bases_calculo": {
+          "receita_liquida": 13526000.0,
+          "CMV": 10665000.0,
+          "compras_estimadas": 10665000.0,
+          "contas_a_receber_medio": 9685000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/06/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 64.0504,
+          "ciclo_financeiro": 64.0504
+        },
+        "bases_calculo": {
+          "receita_liquida": 28170000.0,
+          "CMV": 21529000.0,
+          "compras_estimadas": 21529000.0,
+          "contas_a_receber_medio": 9968500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2023 a 30/06/2023",
+          "inicio": "2023-04-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2023-03-31",
+          "bp_final": "2023-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 64.0896,
+          "ciclo_financeiro": 64.0896
+        },
+        "bases_calculo": {
+          "receita_liquida": 14644000.0,
+          "CMV": 10864000.0,
+          "compras_estimadas": 10864000.0,
+          "contas_a_receber_medio": 10313500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/09/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-09-30",
+          "dias": 273
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 65.7829,
+          "ciclo_financeiro": 65.7829
+        },
+        "bases_calculo": {
+          "receita_liquida": 40583000.0,
+          "CMV": 30916000.0,
+          "compras_estimadas": 30916000.0,
+          "contas_a_receber_medio": 9779000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2023 a 30/09/2023",
+          "inicio": "2023-07-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2023-06-30",
+          "bp_final": "2023-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 77.1361,
+          "ciclo_financeiro": 77.1361
+        },
+        "bases_calculo": {
+          "receita_liquida": 12413000.0,
+          "CMV": 9387000.0,
+          "compras_estimadas": 9387000.0,
+          "contas_a_receber_medio": 10407500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/12/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-12-31",
+          "dias": 365
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 71.6404,
+          "ciclo_financeiro": 71.6404
+        },
+        "bases_calculo": {
+          "receita_liquida": 53988000.0,
+          "CMV": 39888000.0,
+          "compras_estimadas": 39888000.0,
+          "contas_a_receber_medio": 10596500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2023 a 31/12/2023",
+          "inicio": "2023-10-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2023-09-30",
+          "bp_final": "2023-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 75.7379,
+          "ciclo_financeiro": 75.7379
+        },
+        "bases_calculo": {
+          "receita_liquida": 13405000.0,
+          "CMV": 8972000.0,
+          "compras_estimadas": 8972000.0,
+          "contas_a_receber_medio": 11035500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/03/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-03-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-03-31",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 92.4226,
+          "ciclo_financeiro": 92.4226
+        },
+        "bases_calculo": {
+          "receita_liquida": 11386000.0,
+          "CMV": 9148000.0,
+          "compras_estimadas": 9148000.0,
+          "contas_a_receber_medio": 11564000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/06/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-06-30",
+          "dias": 182
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 84.4176,
+          "ciclo_financeiro": 84.4176
+        },
+        "bases_calculo": {
+          "receita_liquida": 24456000.0,
+          "CMV": 17757000.0,
+          "compras_estimadas": 17757000.0,
+          "contas_a_receber_medio": 11343500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2024 a 30/06/2024",
+          "inicio": "2024-04-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2024-03-31",
+          "bp_final": "2024-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 76.9671,
+          "ciclo_financeiro": 76.9671
+        },
+        "bases_calculo": {
+          "receita_liquida": 13070000.0,
+          "CMV": 8609000.0,
+          "compras_estimadas": 8609000.0,
+          "contas_a_receber_medio": 11054500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/09/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-09-30",
+          "dias": 274
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 73.3251,
+          "ciclo_financeiro": 73.3251
+        },
+        "bases_calculo": {
+          "receita_liquida": 35193000.0,
+          "CMV": 24007000.0,
+          "compras_estimadas": 24007000.0,
+          "contas_a_receber_medio": 9418000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2024 a 30/09/2024",
+          "inicio": "2024-07-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2024-06-30",
+          "bp_final": "2024-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 76.3325,
+          "ciclo_financeiro": 76.3325
+        },
+        "bases_calculo": {
+          "receita_liquida": 10737000.0,
+          "CMV": 6250000.0,
+          "compras_estimadas": 6250000.0,
+          "contas_a_receber_medio": 8908500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/12/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-12-31",
+          "dias": 366
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 67.0175,
+          "ciclo_financeiro": 67.0175
+        },
+        "bases_calculo": {
+          "receita_liquida": 44015000.0,
+          "CMV": 30658000.0,
+          "compras_estimadas": 30658000.0,
+          "contas_a_receber_medio": 8059500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2024 a 31/12/2024",
+          "inicio": "2024-10-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2024-09-30",
+          "bp_final": "2024-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 58.655,
+          "ciclo_financeiro": 58.655
+        },
+        "bases_calculo": {
+          "receita_liquida": 8822000.0,
+          "CMV": 6651000.0,
+          "compras_estimadas": 6651000.0,
+          "contas_a_receber_medio": 5624500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 31/03/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-03-31",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 43.1554,
+          "ciclo_financeiro": 43.1554
+        },
+        "bases_calculo": {
+          "receita_liquida": 6977000.0,
+          "CMV": 4441000.0,
+          "compras_estimadas": 4441000.0,
+          "contas_a_receber_medio": 3345500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 30/06/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 37.0192,
+          "ciclo_financeiro": 37.0192
+        },
+        "bases_calculo": {
+          "receita_liquida": 15047000.0,
+          "CMV": 8504000.0,
+          "compras_estimadas": 8504000.0,
+          "contas_a_receber_medio": 3077500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2026 a 30/06/2026",
+          "inicio": "2026-04-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2026-03-31",
+          "bp_final": "2026-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 0.0,
+          "PME": 0.0,
+          "PMR": 34.7875,
+          "ciclo_financeiro": 34.7875
+        },
+        "bases_calculo": {
+          "receita_liquida": 8070000.0,
+          "CMV": 4063000.0,
+          "compras_estimadas": 4063000.0,
+          "contas_a_receber_medio": 3085000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 0.0
+        }
+      }
+    ],
+    "IFCM3": [
+      {
+        "periodo": {
+          "dre": "01/04/2022 a 30/06/2022",
+          "inicio": "2022-04-01",
+          "fim": "2022-06-30",
+          "bp_inicial": "2022-03-31",
+          "bp_final": "2022-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 361.8693,
+          "PME": 0.0,
+          "PMR": 175.5813,
+          "ciclo_financeiro": -186.288
+        },
+        "bases_calculo": {
+          "receita_liquida": 220379000.0,
+          "CMV": 128832000.0,
+          "compras_estimadas": 128832000.0,
+          "contas_a_receber_medio": 425213500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 512311500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2022 a 30/09/2022",
+          "inicio": "2022-07-01",
+          "fim": "2022-09-30",
+          "bp_inicial": "2022-06-30",
+          "bp_final": "2022-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 415.1753,
+          "PME": 0.0,
+          "PMR": 196.4829,
+          "ciclo_financeiro": -218.6924
+        },
+        "bases_calculo": {
+          "receita_liquida": 214573000.0,
+          "CMV": 126891000.0,
+          "compras_estimadas": 126891000.0,
+          "contas_a_receber_medio": 458260000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 572630500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2022 a 31/12/2022",
+          "inicio": "2022-10-01",
+          "fim": "2022-12-31",
+          "bp_inicial": "2022-09-30",
+          "bp_final": "2022-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 345.509,
+          "PME": 0.0,
+          "PMR": 160.2217,
+          "ciclo_financeiro": -185.2873
+        },
+        "bases_calculo": {
+          "receita_liquida": 261840000.0,
+          "CMV": 143864000.0,
+          "compras_estimadas": 143864000.0,
+          "contas_a_receber_medio": 456005000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 540286000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/03/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-03-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 313.336,
+          "PME": 0.0,
+          "PMR": 190.0428,
+          "ciclo_financeiro": -123.2932
+        },
+        "bases_calculo": {
+          "receita_liquida": 214157000.0,
+          "CMV": 123317000.0,
+          "compras_estimadas": 123317000.0,
+          "contas_a_receber_medio": 452211000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 429329500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/06/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 285.8309,
+          "PME": 0.0,
+          "PMR": 160.7543,
+          "ciclo_financeiro": -125.0765
+        },
+        "bases_calculo": {
+          "receita_liquida": 513940000.0,
+          "CMV": 293883000.0,
+          "compras_estimadas": 293883000.0,
+          "contas_a_receber_medio": 456453500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 464093000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2023 a 30/06/2023",
+          "inicio": "2023-04-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2023-03-31",
+          "bp_final": "2023-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 221.4251,
+          "PME": 0.0,
+          "PMR": 144.8592,
+          "ciclo_financeiro": -76.5659
+        },
+        "bases_calculo": {
+          "receita_liquida": 299783000.0,
+          "CMV": 170566000.0,
+          "compras_estimadas": 170566000.0,
+          "contas_a_receber_medio": 477212500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 415028500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/09/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-09-30",
+          "dias": 273
+        },
+        "indicadores_dias": {
+          "PMP": 269.752,
+          "PME": 0.0,
+          "PMR": 146.4168,
+          "ciclo_financeiro": -123.3352
+        },
+        "bases_calculo": {
+          "receita_liquida": 803958000.0,
+          "CMV": 459423000.0,
+          "compras_estimadas": 459423000.0,
+          "contas_a_receber_medio": 431183000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 453957000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2023 a 30/09/2023",
+          "inicio": "2023-07-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2023-06-30",
+          "bp_final": "2023-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 244.3419,
+          "PME": 0.0,
+          "PMR": 144.7116,
+          "ciclo_financeiro": -99.6302
+        },
+        "bases_calculo": {
+          "receita_liquida": 290018000.0,
+          "CMV": 165540000.0,
+          "compras_estimadas": 165540000.0,
+          "contas_a_receber_medio": 456184500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 439656000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/12/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-12-31",
+          "dias": 365
+        },
+        "indicadores_dias": {
+          "PMP": 313.1546,
+          "PME": 0.0,
+          "PMR": 157.8155,
+          "ciclo_financeiro": -155.339
+        },
+        "bases_calculo": {
+          "receita_liquida": 1072489000.0,
+          "CMV": 617267000.0,
+          "compras_estimadas": 617267000.0,
+          "contas_a_receber_medio": 463713500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 529589000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2023 a 31/12/2023",
+          "inicio": "2023-10-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2023-09-30",
+          "bp_final": "2023-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 294.4298,
+          "PME": 0.0,
+          "PMR": 158.7783,
+          "ciclo_financeiro": -135.6515
+        },
+        "bases_calculo": {
+          "receita_liquida": 268531000.0,
+          "CMV": 157844000.0,
+          "compras_estimadas": 157844000.0,
+          "contas_a_receber_medio": 463444500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 505152000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/03/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-03-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-03-31",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 281.8237,
+          "PME": 0.0,
+          "PMR": 207.8983,
+          "ciclo_financeiro": -73.9254
+        },
+        "bases_calculo": {
+          "receita_liquida": 218996000.0,
+          "CMV": 164164000.0,
+          "compras_estimadas": 164164000.0,
+          "contas_a_receber_medio": 500317500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 508410000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/06/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-06-30",
+          "dias": 182
+        },
+        "indicadores_dias": {
+          "PMP": 234.0526,
+          "PME": 0.0,
+          "PMR": 175.8683,
+          "ciclo_financeiro": -58.1843
+        },
+        "bases_calculo": {
+          "receita_liquida": 484081000.0,
+          "CMV": 363522000.0,
+          "compras_estimadas": 363522000.0,
+          "contas_a_receber_medio": 467772000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 467490500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2024 a 30/06/2024",
+          "inicio": "2024-04-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2024-03-31",
+          "bp_final": "2024-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 180.357,
+          "PME": 0.0,
+          "PMR": 162.0704,
+          "ciclo_financeiro": -18.2866
+        },
+        "bases_calculo": {
+          "receita_liquida": 265085000.0,
+          "CMV": 199358000.0,
+          "compras_estimadas": 199358000.0,
+          "contas_a_receber_medio": 472114500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 395116500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/09/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-09-30",
+          "dias": 274
+        },
+        "indicadores_dias": {
+          "PMP": 215.1187,
+          "PME": 0.0,
+          "PMR": 160.7975,
+          "ciclo_financeiro": -54.3212
+        },
+        "bases_calculo": {
+          "receita_liquida": 734156000.0,
+          "CMV": 551955000.0,
+          "compras_estimadas": 551955000.0,
+          "contas_a_receber_medio": 430841000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 433342500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2024 a 30/09/2024",
+          "inicio": "2024-07-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2024-06-30",
+          "bp_final": "2024-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 156.2598,
+          "PME": 0.0,
+          "PMR": 148.1263,
+          "ciclo_financeiro": -8.1335
+        },
+        "bases_calculo": {
+          "receita_liquida": 250075000.0,
+          "CMV": 188433000.0,
+          "compras_estimadas": 188433000.0,
+          "contas_a_receber_medio": 402638000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 320049000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/12/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-12-31",
+          "dias": 366
+        },
+        "indicadores_dias": {
+          "PMP": 227.8804,
+          "PME": 0.0,
+          "PMR": 162.5342,
+          "ciclo_financeiro": -65.3462
+        },
+        "bases_calculo": {
+          "receita_liquida": 1065320000.0,
+          "CMV": 756279000.0,
+          "compras_estimadas": 756279000.0,
+          "contas_a_receber_medio": 473090000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 470877500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2024 a 31/12/2024",
+          "inicio": "2024-10-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2024-09-30",
+          "bp_final": "2024-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 145.632,
+          "PME": 0.0,
+          "PMR": 113.3334,
+          "ciclo_financeiro": -32.2986
+        },
+        "bases_calculo": {
+          "receita_liquida": 331164000.0,
+          "CMV": 204324000.0,
+          "compras_estimadas": 204324000.0,
+          "contas_a_receber_medio": 407956000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 323436000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 31/03/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-03-31",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 172.9909,
+          "PME": 0.0,
+          "PMR": 188.0969,
+          "ciclo_financeiro": 15.1059
+        },
+        "bases_calculo": {
+          "receita_liquida": 137820000.0,
+          "CMV": 116643000.0,
+          "compras_estimadas": 116643000.0,
+          "contas_a_receber_medio": 288039000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 224202000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 30/06/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 168.8751,
+          "PME": 0.0,
+          "PMR": 183.4157,
+          "ciclo_financeiro": 14.5406
+        },
+        "bases_calculo": {
+          "receita_liquida": 287452000.0,
+          "CMV": 238004000.0,
+          "compras_estimadas": 238004000.0,
+          "contas_a_receber_medio": 291288500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 222060500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2026 a 30/06/2026",
+          "inicio": "2026-04-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2026-03-31",
+          "bp_final": "2026-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 152.7833,
+          "PME": 0.0,
+          "PMR": 152.5186,
+          "ciclo_financeiro": -0.2647
+        },
+        "bases_calculo": {
+          "receita_liquida": 149632000.0,
+          "CMV": 121361000.0,
+          "compras_estimadas": 121361000.0,
+          "contas_a_receber_medio": 250787500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 203757500.0
+        }
+      }
+    ],
+    "INTB3": [
+      {
+        "periodo": {
+          "dre": "01/04/2022 a 30/06/2022",
+          "inicio": "2022-04-01",
+          "fim": "2022-06-30",
+          "bp_inicial": "2022-03-31",
+          "bp_final": "2022-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 79.8153,
+          "PME": 164.101,
+          "PMR": 58.2,
+          "ciclo_financeiro": 142.4857
+        },
+        "bases_calculo": {
+          "receita_liquida": 1015835000.0,
+          "CMV": 735372000.0,
+          "compras_estimadas": 757302000.0,
+          "contas_a_receber_medio": 649687500.0,
+          "estoque_medio": 1326102000.0,
+          "fornecedores_medio": 664223000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2022 a 30/09/2022",
+          "inicio": "2022-07-01",
+          "fim": "2022-09-30",
+          "bp_inicial": "2022-06-30",
+          "bp_final": "2022-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 84.1209,
+          "PME": 153.5757,
+          "PMR": 56.6859,
+          "ciclo_financeiro": 126.1406
+        },
+        "bases_calculo": {
+          "receita_liquida": 1132759000.0,
+          "CMV": 810133000.0,
+          "compras_estimadas": 840710000.0,
+          "contas_a_receber_medio": 697950500.0,
+          "estoque_medio": 1352355500.0,
+          "fornecedores_medio": 768709500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2022 a 31/12/2022",
+          "inicio": "2022-10-01",
+          "fim": "2022-12-31",
+          "bp_inicial": "2022-09-30",
+          "bp_final": "2022-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 102.6053,
+          "PME": 142.314,
+          "PMR": 58.2254,
+          "ciclo_financeiro": 97.9341
+        },
+        "bases_calculo": {
+          "receita_liquida": 1217831000.0,
+          "CMV": 873014000.0,
+          "compras_estimadas": 838641000.0,
+          "contas_a_receber_medio": 770747000.0,
+          "estoque_medio": 1350457500.0,
+          "fornecedores_medio": 935315000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/03/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-03-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 125.6568,
+          "PME": 169.4197,
+          "PMR": 70.0737,
+          "ciclo_financeiro": 113.8366
+        },
+        "bases_calculo": {
+          "receita_liquida": 1036773000.0,
+          "CMV": 709247000.0,
+          "compras_estimadas": 712937000.0,
+          "contas_a_receber_medio": 807228500.0,
+          "estoque_medio": 1335116000.0,
+          "fornecedores_medio": 995393500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/06/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 129.8023,
+          "PME": 174.395,
+          "PMR": 73.4744,
+          "ciclo_financeiro": 118.067
+        },
+        "bases_calculo": {
+          "receita_liquida": 2007602000.0,
+          "CMV": 1345997000.0,
+          "compras_estimadas": 1273213000.0,
+          "contas_a_receber_medio": 814957500.0,
+          "estoque_medio": 1296879000.0,
+          "fornecedores_medio": 913072000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2023 a 30/06/2023",
+          "inicio": "2023-04-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2023-03-31",
+          "bp_final": "2023-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 147.1107,
+          "PME": 185.6048,
+          "PMR": 76.2076,
+          "ciclo_financeiro": 114.7018
+        },
+        "bases_calculo": {
+          "receita_liquida": 970829000.0,
+          "CMV": 636750000.0,
+          "compras_estimadas": 560276000.0,
+          "contas_a_receber_medio": 813017000.0,
+          "estoque_medio": 1298724000.0,
+          "fornecedores_medio": 905742500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/09/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-09-30",
+          "dias": 273
+        },
+        "indicadores_dias": {
+          "PMP": 129.5507,
+          "PME": 179.313,
+          "PMR": 75.453,
+          "ciclo_financeiro": 125.2154
+        },
+        "bases_calculo": {
+          "receita_liquida": 2941255000.0,
+          "CMV": 1977469000.0,
+          "compras_estimadas": 1908626000.0,
+          "contas_a_receber_medio": 812918000.0,
+          "estoque_medio": 1298849500.0,
+          "fornecedores_medio": 905728000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2023 a 30/09/2023",
+          "inicio": "2023-07-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2023-06-30",
+          "bp_final": "2023-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 118.1579,
+          "PME": 183.9291,
+          "PMR": 80.6734,
+          "ciclo_financeiro": 146.4446
+        },
+        "bases_calculo": {
+          "receita_liquida": 933653000.0,
+          "CMV": 631472000.0,
+          "compras_estimadas": 635413000.0,
+          "contas_a_receber_medio": 818706500.0,
+          "estoque_medio": 1262457500.0,
+          "fornecedores_medio": 816077000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/12/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-12-31",
+          "dias": 365
+        },
+        "indicadores_dias": {
+          "PMP": 128.9284,
+          "PME": 161.4622,
+          "PMR": 78.2787,
+          "ciclo_financeiro": 110.8125
+        },
+        "bases_calculo": {
+          "receita_liquida": 4103676000.0,
+          "CMV": 2826669000.0,
+          "compras_estimadas": 2660950000.0,
+          "contas_a_receber_medio": 880083500.0,
+          "estoque_medio": 1250411500.0,
+          "fornecedores_medio": 939923500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2023 a 31/12/2023",
+          "inicio": "2023-10-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2023-09-30",
+          "bp_final": "2023-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 103.0798,
+          "PME": 131.737,
+          "PMR": 69.9511,
+          "ciclo_financeiro": 98.6083
+        },
+        "bases_calculo": {
+          "receita_liquida": 1162421000.0,
+          "CMV": 849200000.0,
+          "compras_estimadas": 752324000.0,
+          "contas_a_receber_medio": 883832500.0,
+          "estoque_medio": 1215990000.0,
+          "fornecedores_medio": 842928500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/03/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-03-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-03-31",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 104.3746,
+          "PME": 165.4908,
+          "PMR": 82.28,
+          "ciclo_financeiro": 143.3962
+        },
+        "bases_calculo": {
+          "receita_liquida": 1039031000.0,
+          "CMV": 687132000.0,
+          "compras_estimadas": 851238000.0,
+          "contas_a_receber_medio": 939466500.0,
+          "estoque_medio": 1249605000.0,
+          "fornecedores_medio": 976348000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/06/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-06-30",
+          "dias": 182
+        },
+        "indicadores_dias": {
+          "PMP": 104.8447,
+          "PME": 168.6272,
+          "PMR": 83.1149,
+          "ciclo_financeiro": 146.8975
+        },
+        "bases_calculo": {
+          "receita_liquida": 2224590000.0,
+          "CMV": 1499796000.0,
+          "compras_estimadas": 1943884000.0,
+          "contas_a_receber_medio": 1015915500.0,
+          "estoque_medio": 1389596000.0,
+          "fornecedores_medio": 1119812500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2024 a 30/06/2024",
+          "inicio": "2024-04-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2024-03-31",
+          "bp_final": "2024-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 101.5263,
+          "PME": 164.7914,
+          "PMR": 77.0935,
+          "ciclo_financeiro": 140.3587
+        },
+        "bases_calculo": {
+          "receita_liquida": 1185559000.0,
+          "CMV": 812664000.0,
+          "compras_estimadas": 1092646000.0,
+          "contas_a_receber_medio": 1004384000.0,
+          "estoque_medio": 1471649000.0,
+          "fornecedores_medio": 1219036500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/09/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-09-30",
+          "dias": 274
+        },
+        "indicadores_dias": {
+          "PMP": 107.2066,
+          "PME": 183.3221,
+          "PMR": 84.4894,
+          "ciclo_financeiro": 160.6049
+        },
+        "bases_calculo": {
+          "receita_liquida": 3468470000.0,
+          "CMV": 2379194000.0,
+          "compras_estimadas": 3227731000.0,
+          "contas_a_receber_medio": 1069521500.0,
+          "estoque_medio": 1591820500.0,
+          "fornecedores_medio": 1262898000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2024 a 30/09/2024",
+          "inicio": "2024-07-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2024-06-30",
+          "bp_final": "2024-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 107.8898,
+          "PME": 189.7611,
+          "PMR": 83.9055,
+          "ciclo_financeiro": 165.7768
+        },
+        "bases_calculo": {
+          "receita_liquida": 1243880000.0,
+          "CMV": 879398000.0,
+          "compras_estimadas": 1283847000.0,
+          "contas_a_receber_medio": 1134439000.0,
+          "estoque_medio": 1813864500.0,
+          "fornecedores_medio": 1505586500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/12/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-12-31",
+          "dias": 366
+        },
+        "indicadores_dias": {
+          "PMP": 98.4182,
+          "PME": 163.3725,
+          "PMR": 83.2763,
+          "ciclo_financeiro": 148.2306
+        },
+        "bases_calculo": {
+          "receita_liquida": 4756146000.0,
+          "CMV": 3293517000.0,
+          "compras_estimadas": 3898687000.0,
+          "contas_a_receber_medio": 1082169500.0,
+          "estoque_medio": 1470137000.0,
+          "fornecedores_medio": 1048365000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2024 a 31/12/2024",
+          "inicio": "2024-10-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2024-09-30",
+          "bp_final": "2024-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 196.646,
+          "PME": 190.6168,
+          "PMR": 85.7854,
+          "ciclo_financeiro": 79.7562
+        },
+        "bases_calculo": {
+          "receita_liquida": 1287676000.0,
+          "CMV": 914323000.0,
+          "compras_estimadas": 670956000.0,
+          "contas_a_receber_medio": 1200693000.0,
+          "estoque_medio": 1894405500.0,
+          "fornecedores_medio": 1434139000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 31/03/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-03-31",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 146.8141,
+          "PME": 162.1089,
+          "PMR": 94.3667,
+          "ciclo_financeiro": 109.6615
+        },
+        "bases_calculo": {
+          "receita_liquida": 1110638000.0,
+          "CMV": 769603000.0,
+          "compras_estimadas": 594160000.0,
+          "contas_a_receber_medio": 1164525000.0,
+          "estoque_medio": 1386216500.0,
+          "fornecedores_medio": 969234000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 30/06/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 141.8028,
+          "PME": 159.0407,
+          "PMR": 96.5144,
+          "ciclo_financeiro": 113.7522
+        },
+        "bases_calculo": {
+          "receita_liquida": 2259672000.0,
+          "CMV": 1538411000.0,
+          "compras_estimadas": 1294070000.0,
+          "contas_a_receber_medio": 1204921500.0,
+          "estoque_medio": 1351767500.0,
+          "fornecedores_medio": 1013827500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2026 a 30/06/2026",
+          "inicio": "2026-04-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2026-03-31",
+          "bp_final": "2026-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 121.4564,
+          "PME": 149.6189,
+          "PMR": 96.6384,
+          "ciclo_financeiro": 124.8009
+        },
+        "bases_calculo": {
+          "receita_liquida": 1149034000.0,
+          "CMV": 768808000.0,
+          "compras_estimadas": 699910000.0,
+          "contas_a_receber_medio": 1220228500.0,
+          "estoque_medio": 1264046000.0,
+          "fornecedores_medio": 934159500.0
+        }
+      }
+    ],
+    "LWSA3": [
+      {
+        "periodo": {
+          "dre": "01/04/2022 a 30/06/2022",
+          "inicio": "2022-04-01",
+          "fim": "2022-06-30",
+          "bp_inicial": "2022-03-31",
+          "bp_final": "2022-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 28.9404,
+          "PME": 0.0,
+          "PMR": 190.4422,
+          "ciclo_financeiro": 161.5018
+        },
+        "bases_calculo": {
+          "receita_liquida": 282505000.0,
+          "CMV": 151118000.0,
+          "compras_estimadas": 151118000.0,
+          "contas_a_receber_medio": 591218500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 48059500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2022 a 30/09/2022",
+          "inicio": "2022-07-01",
+          "fim": "2022-09-30",
+          "bp_inicial": "2022-06-30",
+          "bp_final": "2022-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 30.1396,
+          "PME": 0.0,
+          "PMR": 183.2749,
+          "ciclo_financeiro": 153.1354
+        },
+        "bases_calculo": {
+          "receita_liquida": 304270000.0,
+          "CMV": 164708000.0,
+          "compras_estimadas": 164708000.0,
+          "contas_a_receber_medio": 606142000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 53959000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2022 a 31/12/2022",
+          "inicio": "2022-10-01",
+          "fim": "2022-12-31",
+          "bp_inicial": "2022-09-30",
+          "bp_final": "2022-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 28.3941,
+          "PME": 0.0,
+          "PMR": 194.6555,
+          "ciclo_financeiro": 166.2615
+        },
+        "bases_calculo": {
+          "receita_liquida": 302881000.0,
+          "CMV": 168455000.0,
+          "compras_estimadas": 168455000.0,
+          "contas_a_receber_medio": 640842000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 51990500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/03/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-03-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 28.1194,
+          "PME": 0.0,
+          "PMR": 198.5198,
+          "ciclo_financeiro": 170.4004
+        },
+        "bases_calculo": {
+          "receita_liquida": 302847000.0,
+          "CMV": 159259000.0,
+          "compras_estimadas": 159259000.0,
+          "contas_a_receber_medio": 668012500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 49758500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/06/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 23.5471,
+          "PME": 0.0,
+          "PMR": 201.1155,
+          "ciclo_financeiro": 177.5685
+        },
+        "bases_calculo": {
+          "receita_liquida": 616747000.0,
+          "CMV": 328235000.0,
+          "compras_estimadas": 328235000.0,
+          "contas_a_receber_medio": 685289500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 42701500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2023 a 30/06/2023",
+          "inicio": "2023-04-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2023-03-31",
+          "bp_final": "2023-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 22.1641,
+          "PME": 0.0,
+          "PMR": 197.6605,
+          "ciclo_financeiro": 175.4964
+        },
+        "bases_calculo": {
+          "receita_liquida": 313900000.0,
+          "CMV": 168976000.0,
+          "compras_estimadas": 168976000.0,
+          "contas_a_receber_medio": 681820000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 41156000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/09/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-09-30",
+          "dias": 273
+        },
+        "indicadores_dias": {
+          "PMP": 21.827,
+          "PME": 0.0,
+          "PMR": 203.7616,
+          "ciclo_financeiro": 181.9346
+        },
+        "bases_calculo": {
+          "receita_liquida": 945452000.0,
+          "CMV": 513317000.0,
+          "compras_estimadas": 513317000.0,
+          "contas_a_receber_medio": 705666000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 41041000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2023 a 30/09/2023",
+          "inicio": "2023-07-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2023-06-30",
+          "bp_final": "2023-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 16.1244,
+          "PME": 0.0,
+          "PMR": 200.5258,
+          "ciclo_financeiro": 184.4014
+        },
+        "bases_calculo": {
+          "receita_liquida": 330090000.0,
+          "CMV": 185082000.0,
+          "compras_estimadas": 185082000.0,
+          "contas_a_receber_medio": 719473500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 32438500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/12/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-12-31",
+          "dias": 365
+        },
+        "indicadores_dias": {
+          "PMP": 25.4451,
+          "PME": 0.0,
+          "PMR": 194.6805,
+          "ciclo_financeiro": 169.2355
+        },
+        "bases_calculo": {
+          "receita_liquida": 1292756000.0,
+          "CMV": 694846000.0,
+          "compras_estimadas": 694846000.0,
+          "contas_a_receber_medio": 689519000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 48439500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2023 a 31/12/2023",
+          "inicio": "2023-10-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2023-09-30",
+          "bp_final": "2023-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 19.3481,
+          "PME": 0.0,
+          "PMR": 192.4748,
+          "ciclo_financeiro": 173.1267
+        },
+        "bases_calculo": {
+          "receita_liquida": 345919000.0,
+          "CMV": 181529000.0,
+          "compras_estimadas": 181529000.0,
+          "contas_a_receber_medio": 723703000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 38176500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/03/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-03-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-03-31",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 21.5715,
+          "PME": 0.0,
+          "PMR": 214.3092,
+          "ciclo_financeiro": 192.7377
+        },
+        "bases_calculo": {
+          "receita_liquida": 320612000.0,
+          "CMV": 168077000.0,
+          "compras_estimadas": 168077000.0,
+          "contas_a_receber_medio": 755056000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 39842500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/06/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-06-30",
+          "dias": 182
+        },
+        "indicadores_dias": {
+          "PMP": 19.6285,
+          "PME": 0.0,
+          "PMR": 205.032,
+          "ciclo_financeiro": 185.4035
+        },
+        "bases_calculo": {
+          "receita_liquida": 656566000.0,
+          "CMV": 343996000.0,
+          "compras_estimadas": 343996000.0,
+          "contas_a_receber_medio": 739654000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 37099500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2024 a 30/06/2024",
+          "inicio": "2024-04-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2024-03-31",
+          "bp_final": "2024-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 16.2256,
+          "PME": 0.0,
+          "PMR": 213.2167,
+          "ciclo_financeiro": 196.9911
+        },
+        "bases_calculo": {
+          "receita_liquida": 335954000.0,
+          "CMV": 175919000.0,
+          "compras_estimadas": 175919000.0,
+          "contas_a_receber_medio": 787154000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 31367000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/09/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-09-30",
+          "dias": 274
+        },
+        "indicadores_dias": {
+          "PMP": 21.5039,
+          "PME": 0.0,
+          "PMR": 201.4665,
+          "ciclo_financeiro": 179.9625
+        },
+        "bases_calculo": {
+          "receita_liquida": 1005914000.0,
+          "CMV": 518880000.0,
+          "compras_estimadas": 518880000.0,
+          "contas_a_receber_medio": 739627500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 40722500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2024 a 30/09/2024",
+          "inicio": "2024-07-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2024-06-30",
+          "bp_final": "2024-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 16.964,
+          "PME": 0.0,
+          "PMR": 203.2322,
+          "ciclo_financeiro": 186.2682
+        },
+        "bases_calculo": {
+          "receita_liquida": 349348000.0,
+          "CMV": 174884000.0,
+          "compras_estimadas": 174884000.0,
+          "contas_a_receber_medio": 771725500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 32247000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/12/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-12-31",
+          "dias": 366
+        },
+        "indicadores_dias": {
+          "PMP": 22.0254,
+          "PME": 0.0,
+          "PMR": 189.6712,
+          "ciclo_financeiro": 167.6458
+        },
+        "bases_calculo": {
+          "receita_liquida": 1370032000.0,
+          "CMV": 715020000.0,
+          "compras_estimadas": 715020000.0,
+          "contas_a_receber_medio": 709988000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 43029000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2024 a 31/12/2024",
+          "inicio": "2024-10-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2024-09-30",
+          "bp_final": "2024-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 17.9068,
+          "PME": 0.0,
+          "PMR": 187.4927,
+          "ciclo_financeiro": 169.5859
+        },
+        "bases_calculo": {
+          "receita_liquida": 364118000.0,
+          "CMV": 196140000.0,
+          "compras_estimadas": 196140000.0,
+          "contas_a_receber_medio": 742059500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 38176500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 31/03/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-03-31",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 19.5047,
+          "PME": 0.0,
+          "PMR": 199.5164,
+          "ciclo_financeiro": 180.0117
+        },
+        "bases_calculo": {
+          "receita_liquida": 362780000.0,
+          "CMV": 187254000.0,
+          "compras_estimadas": 187254000.0,
+          "contas_a_receber_medio": 804228500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 40581500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 30/06/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 20.8333,
+          "PME": 0.0,
+          "PMR": 196.5099,
+          "ciclo_financeiro": 175.6766
+        },
+        "bases_calculo": {
+          "receita_liquida": 737983000.0,
+          "CMV": 397246000.0,
+          "compras_estimadas": 397246000.0,
+          "contas_a_receber_medio": 801221000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 45723500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2026 a 30/06/2026",
+          "inicio": "2026-04-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2026-03-31",
+          "bp_final": "2026-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 19.6086,
+          "PME": 0.0,
+          "PMR": 195.9255,
+          "ciclo_financeiro": 176.3169
+        },
+        "bases_calculo": {
+          "receita_liquida": 375203000.0,
+          "CMV": 209992000.0,
+          "compras_estimadas": 209992000.0,
+          "contas_a_receber_medio": 807822500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 45249000.0
+        }
+      }
+    ],
+    "MLAS3": [
+      {
+        "periodo": {
+          "dre": "01/04/2022 a 30/06/2022",
+          "inicio": "2022-04-01",
+          "fim": "2022-06-30",
+          "bp_inicial": "2022-03-31",
+          "bp_final": "2022-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 78.932,
+          "PME": 290.7129,
+          "PMR": 107.3396,
+          "ciclo_financeiro": 319.1205
+        },
+        "bases_calculo": {
+          "receita_liquida": 1173165000.0,
+          "CMV": 855459000.0,
+          "compras_estimadas": 808786000.0,
+          "contas_a_receber_medio": 1383814000.0,
+          "estoque_medio": 2732889500.0,
+          "fornecedores_medio": 701528500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2022 a 30/09/2022",
+          "inicio": "2022-07-01",
+          "fim": "2022-09-30",
+          "bp_inicial": "2022-06-30",
+          "bp_final": "2022-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 60.2391,
+          "PME": 343.0391,
+          "PMR": 113.9081,
+          "ciclo_financeiro": 396.708
+        },
+        "bases_calculo": {
+          "receita_liquida": 1123431000.0,
+          "CMV": 782046000.0,
+          "compras_estimadas": 1194947000.0,
+          "contas_a_receber_medio": 1390955000.0,
+          "estoque_medio": 2916003500.0,
+          "fornecedores_medio": 782419000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2022 a 31/12/2022",
+          "inicio": "2022-10-01",
+          "fim": "2022-12-31",
+          "bp_inicial": "2022-09-30",
+          "bp_final": "2022-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 108.4414,
+          "PME": 305.4973,
+          "PMR": 115.4045,
+          "ciclo_financeiro": 312.4604
+        },
+        "bases_calculo": {
+          "receita_liquida": 1111750000.0,
+          "CMV": 910761000.0,
+          "compras_estimadas": 714440000.0,
+          "contas_a_receber_medio": 1394575000.0,
+          "estoque_medio": 3024293500.0,
+          "fornecedores_medio": 842118000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/03/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-03-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 115.5858,
+          "PME": 301.7381,
+          "PMR": 145.4127,
+          "ciclo_financeiro": 331.565
+        },
+        "bases_calculo": {
+          "receita_liquida": 784648000.0,
+          "CMV": 837084000.0,
+          "compras_estimadas": 597709000.0,
+          "contas_a_receber_medio": 1267753000.0,
+          "estoque_medio": 2806445500.0,
+          "fornecedores_medio": 767629500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/06/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 118.3713,
+          "PME": 314.1802,
+          "PMR": 134.1876,
+          "ciclo_financeiro": 329.9964
+        },
+        "bases_calculo": {
+          "receita_liquida": 1774495000.0,
+          "CMV": 1563083000.0,
+          "compras_estimadas": 1137222000.0,
+          "contas_a_receber_medio": 1315554000.0,
+          "estoque_medio": 2713202500.0,
+          "fornecedores_medio": 743726500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2023 a 30/06/2023",
+          "inicio": "2023-04-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2023-03-31",
+          "bp_final": "2023-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 118.1118,
+          "PME": 325.0829,
+          "PMR": 107.0396,
+          "ciclo_financeiro": 314.0107
+        },
+        "bases_calculo": {
+          "receita_liquida": 989847000.0,
+          "CMV": 725999000.0,
+          "compras_estimadas": 539513000.0,
+          "contas_a_receber_medio": 1164317000.0,
+          "estoque_medio": 2593515000.0,
+          "fornecedores_medio": 700251000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/09/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-09-30",
+          "dias": 273
+        },
+        "indicadores_dias": {
+          "PMP": 121.3247,
+          "PME": 283.2568,
+          "PMR": 125.9909,
+          "ciclo_financeiro": 287.923
+        },
+        "bases_calculo": {
+          "receita_liquida": 2658284000.0,
+          "CMV": 2388012000.0,
+          "compras_estimadas": 1491209000.0,
+          "contas_a_receber_medio": 1226812000.0,
+          "estoque_medio": 2477731500.0,
+          "fornecedores_medio": 662712500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2023 a 30/09/2023",
+          "inicio": "2023-07-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2023-06-30",
+          "bp_final": "2023-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 154.7253,
+          "PME": 252.5814,
+          "PMR": 116.9405,
+          "ciclo_financeiro": 214.7966
+        },
+        "bases_calculo": {
+          "receita_liquida": 883788000.0,
+          "CMV": 824929000.0,
+          "compras_estimadas": 353987000.0,
+          "contas_a_receber_medio": 1123376000.0,
+          "estoque_medio": 2264801000.0,
+          "fornecedores_medio": 595334000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/12/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-12-31",
+          "dias": 365
+        },
+        "indicadores_dias": {
+          "PMP": 133.0822,
+          "PME": 245.3633,
+          "PMR": 127.8533,
+          "ciclo_financeiro": 240.1343
+        },
+        "bases_calculo": {
+          "receita_liquida": 3499079000.0,
+          "CMV": 3308081000.0,
+          "compras_estimadas": 1903385000.0,
+          "contas_a_receber_medio": 1225667500.0,
+          "estoque_medio": 2223785000.0,
+          "fornecedores_medio": 693991000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2023 a 31/12/2023",
+          "inicio": "2023-10-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2023-09-30",
+          "bp_final": "2023-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 121.7807,
+          "PME": 177.525,
+          "PMR": 113.0845,
+          "ciclo_financeiro": 168.8289
+        },
+        "bases_calculo": {
+          "receita_liquida": 840796000.0,
+          "CMV": 920069000.0,
+          "compras_estimadas": 412176000.0,
+          "contas_a_receber_medio": 1033489500.0,
+          "estoque_medio": 1775383500.0,
+          "fornecedores_medio": 545598500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/03/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-03-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-03-31",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 104.49,
+          "PME": 241.1138,
+          "PMR": 123.7235,
+          "ciclo_financeiro": 260.3473
+        },
+        "bases_calculo": {
+          "receita_liquida": 730776000.0,
+          "CMV": 565810000.0,
+          "compras_estimadas": 521279000.0,
+          "contas_a_receber_medio": 993562500.0,
+          "estoque_medio": 1499171500.0,
+          "fornecedores_medio": 598554500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/06/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-06-30",
+          "dias": 182
+        },
+        "indicadores_dias": {
+          "PMP": 109.9746,
+          "PME": 206.0972,
+          "PMR": 114.1374,
+          "ciclo_financeiro": 210.26
+        },
+        "bases_calculo": {
+          "receita_liquida": 1615692000.0,
+          "CMV": 1256461000.0,
+          "compras_estimadas": 1059225000.0,
+          "contas_a_receber_medio": 1013246500.0,
+          "estoque_medio": 1422819000.0,
+          "fornecedores_medio": 640043000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2024 a 30/06/2024",
+          "inicio": "2024-04-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2024-03-31",
+          "bp_final": "2024-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 111.9377,
+          "PME": 184.5363,
+          "PMR": 100.2087,
+          "ciclo_financeiro": 172.8073
+        },
+        "bases_calculo": {
+          "receita_liquida": 884915000.0,
+          "CMV": 690652000.0,
+          "compras_estimadas": 537947000.0,
+          "contas_a_receber_medio": 974464000.0,
+          "estoque_medio": 1400553500.0,
+          "fornecedores_medio": 661720500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/09/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-09-30",
+          "dias": 274
+        },
+        "indicadores_dias": {
+          "PMP": 105.5291,
+          "PME": 220.7147,
+          "PMR": 117.5558,
+          "ciclo_financeiro": 232.7414
+        },
+        "bases_calculo": {
+          "receita_liquida": 2425601000.0,
+          "CMV": 1867094000.0,
+          "compras_estimadas": 1832214000.0,
+          "contas_a_receber_medio": 1040669500.0,
+          "estoque_medio": 1503997000.0,
+          "fornecedores_medio": 705664000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2024 a 30/09/2024",
+          "inicio": "2024-07-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2024-06-30",
+          "bp_final": "2024-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 91.505,
+          "PME": 211.7391,
+          "PMR": 116.0433,
+          "ciclo_financeiro": 236.2774
+        },
+        "bases_calculo": {
+          "receita_liquida": 809909000.0,
+          "CMV": 610633000.0,
+          "compras_estimadas": 772989000.0,
+          "contas_a_receber_medio": 1021571000.0,
+          "estoque_medio": 1405379000.0,
+          "fornecedores_medio": 768830000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/12/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-12-31",
+          "dias": 366
+        },
+        "indicadores_dias": {
+          "PMP": 120.1716,
+          "PME": 212.2913,
+          "PMR": 116.6212,
+          "ciclo_financeiro": 208.741
+        },
+        "bases_calculo": {
+          "receita_liquida": 3388498000.0,
+          "CMV": 2602218000.0,
+          "compras_estimadas": 2578078000.0,
+          "contas_a_receber_medio": 1079701500.0,
+          "estoque_medio": 1509367000.0,
+          "fornecedores_medio": 846480000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2024 a 31/12/2024",
+          "inicio": "2024-10-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2024-09-30",
+          "bp_final": "2024-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 120.2963,
+          "PME": 186.7134,
+          "PMR": 103.9553,
+          "ciclo_financeiro": 170.3724
+        },
+        "bases_calculo": {
+          "receita_liquida": 962898000.0,
+          "CMV": 735123000.0,
+          "compras_estimadas": 745863000.0,
+          "contas_a_receber_medio": 1088026000.0,
+          "estoque_medio": 1491927000.0,
+          "fornecedores_medio": 975267000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 31/03/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-03-31",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 156.5111,
+          "PME": 206.0969,
+          "PMR": 135.6358,
+          "ciclo_financeiro": 185.2215
+        },
+        "bases_calculo": {
+          "receita_liquida": 872743000.0,
+          "CMV": 607756000.0,
+          "compras_estimadas": 712280000.0,
+          "contas_a_receber_medio": 1315279500.0,
+          "estoque_medio": 1391740000.0,
+          "fornecedores_medio": 1238664000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 30/06/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 165.7082,
+          "PME": 203.6993,
+          "PMR": 128.3942,
+          "ciclo_financeiro": 166.3852
+        },
+        "bases_calculo": {
+          "receita_liquida": 1832537000.0,
+          "CMV": 1238264000.0,
+          "compras_estimadas": 1346418000.0,
+          "contas_a_receber_medio": 1299929000.0,
+          "estoque_medio": 1393555000.0,
+          "fornecedores_medio": 1232666000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2026 a 30/06/2026",
+          "inicio": "2026-04-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2026-03-31",
+          "bp_final": "2026-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 179.261,
+          "PME": 208.672,
+          "PMR": 119.4139,
+          "ciclo_financeiro": 148.8249
+        },
+        "bases_calculo": {
+          "receita_liquida": 959794000.0,
+          "CMV": 630508000.0,
+          "compras_estimadas": 634138000.0,
+          "contas_a_receber_medio": 1259480500.0,
+          "estoque_medio": 1445817000.0,
+          "fornecedores_medio": 1249189000.0
+        }
+      }
+    ],
+    "PDTC3": [
+      {
+        "periodo": {
+          "dre": "01/04/2022 a 30/06/2022",
+          "inicio": "2022-04-01",
+          "fim": "2022-06-30",
+          "bp_inicial": "2022-03-31",
+          "bp_final": "2022-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 90.8777,
+          "PME": 171.6907,
+          "PMR": 78.1377,
+          "ciclo_financeiro": 158.9507
+        },
+        "bases_calculo": {
+          "receita_liquida": 84892000.0,
+          "CMV": 56740000.0,
+          "compras_estimadas": 72172000.0,
+          "contas_a_receber_medio": 72893000.0,
+          "estoque_medio": 107052000.0,
+          "fornecedores_medio": 72075000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2022 a 30/09/2022",
+          "inicio": "2022-07-01",
+          "fim": "2022-09-30",
+          "bp_inicial": "2022-06-30",
+          "bp_final": "2022-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 111.142,
+          "PME": 143.6902,
+          "PMR": 78.0674,
+          "ciclo_financeiro": 110.6156
+        },
+        "bases_calculo": {
+          "receita_liquida": 103096000.0,
+          "CMV": 69806000.0,
+          "compras_estimadas": 58323000.0,
+          "contas_a_receber_medio": 87483000.0,
+          "estoque_medio": 109026500.0,
+          "fornecedores_medio": 70458000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2022 a 31/12/2022",
+          "inicio": "2022-10-01",
+          "fim": "2022-12-31",
+          "bp_inicial": "2022-09-30",
+          "bp_final": "2022-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 97.8499,
+          "PME": 128.8736,
+          "PMR": 106.3495,
+          "ciclo_financeiro": 137.3732
+        },
+        "bases_calculo": {
+          "receita_liquida": 104980000.0,
+          "CMV": 70217000.0,
+          "compras_estimadas": 60367000.0,
+          "contas_a_receber_medio": 121354000.0,
+          "estoque_medio": 98360000.0,
+          "fornecedores_medio": 64205500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/03/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-03-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 93.7308,
+          "PME": 179.3606,
+          "PMR": 138.7983,
+          "ciclo_financeiro": 224.4282
+        },
+        "bases_calculo": {
+          "receita_liquida": 79164000.0,
+          "CMV": 50675000.0,
+          "compras_estimadas": 65785000.0,
+          "contas_a_receber_medio": 122087000.0,
+          "estoque_medio": 100990000.0,
+          "fornecedores_medio": 68512000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/06/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 93.2331,
+          "PME": 170.8719,
+          "PMR": 127.4896,
+          "ciclo_financeiro": 205.1284
+        },
+        "bases_calculo": {
+          "receita_liquida": 176067000.0,
+          "CMV": 112686000.0,
+          "compras_estimadas": 138577000.0,
+          "contas_a_receber_medio": 124015000.0,
+          "estoque_medio": 106380500.0,
+          "fornecedores_medio": 71381000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2023 a 30/06/2023",
+          "inicio": "2023-04-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2023-03-31",
+          "bp_final": "2023-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 89.5973,
+          "PME": 167.1982,
+          "PMR": 104.335,
+          "ciclo_financeiro": 181.9359
+        },
+        "bases_calculo": {
+          "receita_liquida": 96903000.0,
+          "CMV": 62011000.0,
+          "compras_estimadas": 72792000.0,
+          "contas_a_receber_medio": 111103000.0,
+          "estoque_medio": 113935500.0,
+          "fornecedores_medio": 71670000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/09/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-09-30",
+          "dias": 273
+        },
+        "indicadores_dias": {
+          "PMP": 95.4449,
+          "PME": 159.1414,
+          "PMR": 126.1175,
+          "ciclo_financeiro": 189.814
+        },
+        "bases_calculo": {
+          "receita_liquida": 279599000.0,
+          "CMV": 177023000.0,
+          "compras_estimadas": 196539000.0,
+          "contas_a_receber_medio": 129166000.0,
+          "estoque_medio": 103193000.0,
+          "fornecedores_medio": 68713000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2023 a 30/09/2023",
+          "inicio": "2023-07-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2023-06-30",
+          "bp_final": "2023-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 114.077,
+          "PME": 166.0746,
+          "PMR": 105.0182,
+          "ciclo_financeiro": 157.0158
+        },
+        "bases_calculo": {
+          "receita_liquida": 103532000.0,
+          "CMV": 64337000.0,
+          "compras_estimadas": 57962000.0,
+          "contas_a_receber_medio": 118182000.0,
+          "estoque_medio": 116138500.0,
+          "fornecedores_medio": 71871000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/12/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-12-31",
+          "dias": 365
+        },
+        "indicadores_dias": {
+          "PMP": 93.1256,
+          "PME": 150.3808,
+          "PMR": 129.0999,
+          "ciclo_financeiro": 186.3551
+        },
+        "bases_calculo": {
+          "receita_liquida": 368687000.0,
+          "CMV": 237415000.0,
+          "compras_estimadas": 246176000.0,
+          "contas_a_receber_medio": 130404000.0,
+          "estoque_medio": 97815500.0,
+          "fornecedores_medio": 62809000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2023 a 31/12/2023",
+          "inicio": "2023-10-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2023-09-30",
+          "bp_final": "2023-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 117.3219,
+          "PME": 163.8754,
+          "PMR": 128.6428,
+          "ciclo_financeiro": 175.1963
+        },
+        "bases_calculo": {
+          "receita_liquida": 89088000.0,
+          "CMV": 60392000.0,
+          "compras_estimadas": 49637000.0,
+          "contas_a_receber_medio": 124571000.0,
+          "estoque_medio": 107573500.0,
+          "fornecedores_medio": 63299000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/03/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-03-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-03-31",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 87.4274,
+          "PME": 236.0637,
+          "PMR": 207.2529,
+          "ciclo_financeiro": 355.8892
+        },
+        "bases_calculo": {
+          "receita_liquida": 58381000.0,
+          "CMV": 43509000.0,
+          "compras_estimadas": 64851000.0,
+          "contas_a_receber_medio": 132963000.0,
+          "estoque_medio": 112867000.0,
+          "fornecedores_medio": 62305000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/06/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-06-30",
+          "dias": 182
+        },
+        "indicadores_dias": {
+          "PMP": 88.7083,
+          "PME": 231.4305,
+          "PMR": 185.6828,
+          "ciclo_financeiro": 328.4051
+        },
+        "bases_calculo": {
+          "receita_liquida": 126882000.0,
+          "CMV": 90421000.0,
+          "compras_estimadas": 115987000.0,
+          "contas_a_receber_medio": 129449500.0,
+          "estoque_medio": 114979000.0,
+          "fornecedores_medio": 56533000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2024 a 30/06/2024",
+          "inicio": "2024-04-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2024-03-31",
+          "bp_final": "2024-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 109.342,
+          "PME": 243.7361,
+          "PMR": 181.4706,
+          "ciclo_financeiro": 315.8647
+        },
+        "bases_calculo": {
+          "receita_liquida": 68501000.0,
+          "CMV": 46912000.0,
+          "compras_estimadas": 51136000.0,
+          "contas_a_receber_medio": 136603500.0,
+          "estoque_medio": 125650000.0,
+          "fornecedores_medio": 61443000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/09/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-09-30",
+          "dias": 274
+        },
+        "indicadores_dias": {
+          "PMP": 98.3358,
+          "PME": 226.4948,
+          "PMR": 189.4725,
+          "ciclo_financeiro": 317.6314
+        },
+        "bases_calculo": {
+          "receita_liquida": 202801000.0,
+          "CMV": 142000000.0,
+          "compras_estimadas": 172369000.0,
+          "contas_a_receber_medio": 140238000.0,
+          "estoque_medio": 117380500.0,
+          "fornecedores_medio": 61861500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2024 a 30/09/2024",
+          "inicio": "2024-07-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2024-06-30",
+          "bp_final": "2024-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 99.5345,
+          "PME": 232.1689,
+          "PMR": 174.3545,
+          "ciclo_financeiro": 306.989
+        },
+        "bases_calculo": {
+          "receita_liquida": 75919000.0,
+          "CMV": 51579000.0,
+          "compras_estimadas": 56382000.0,
+          "contas_a_receber_medio": 143878500.0,
+          "estoque_medio": 130163500.0,
+          "fornecedores_medio": 60999500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 31/03/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-03-31",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 18.1212,
+          "PME": 91.6464,
+          "PMR": 88.0919,
+          "ciclo_financeiro": 161.617
+        },
+        "bases_calculo": {
+          "receita_liquida": 69309000.0,
+          "CMV": 41899000.0,
+          "compras_estimadas": 127064041.0,
+          "contas_a_receber_medio": 67839540.5,
+          "estoque_medio": 42665479.5,
+          "fornecedores_medio": 25583971.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 30/06/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 24.922,
+          "PME": 100.8944,
+          "PMR": 86.7238,
+          "ciclo_financeiro": 162.6961
+        },
+        "bases_calculo": {
+          "receita_liquida": 132408000.0,
+          "CMV": 81903000.0,
+          "compras_estimadas": 173047041.0,
+          "contas_a_receber_medio": 63441540.5,
+          "estoque_medio": 45654979.5,
+          "fornecedores_medio": 23826971.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2026 a 30/06/2026",
+          "inicio": "2026-04-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2026-03-31",
+          "bp_final": "2026-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 97.689,
+          "PME": 200.7202,
+          "PMR": 189.1532,
+          "ciclo_financeiro": 292.1845
+        },
+        "bases_calculo": {
+          "receita_liquida": 63099000.0,
+          "CMV": 40004000.0,
+          "compras_estimadas": 45983000.0,
+          "contas_a_receber_medio": 131158000.0,
+          "estoque_medio": 88237500.0,
+          "fornecedores_medio": 49363000.0
+        }
+      }
+    ],
+    "POSI3": [
+      {
+        "periodo": {
+          "dre": "01/04/2022 a 30/06/2022",
+          "inicio": "2022-04-01",
+          "fim": "2022-06-30",
+          "bp_inicial": "2022-03-31",
+          "bp_final": "2022-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 90.606,
+          "PME": 125.0091,
+          "PMR": 46.114,
+          "ciclo_financeiro": 80.5171
+        },
+        "bases_calculo": {
+          "receita_liquida": 1630811000.0,
+          "CMV": 1304696000.0,
+          "compras_estimadas": 1039200000.0,
+          "contas_a_receber_medio": 826409500.0,
+          "estoque_medio": 1792295000.0,
+          "fornecedores_medio": 1034700500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2022 a 30/09/2022",
+          "inicio": "2022-07-01",
+          "fim": "2022-09-30",
+          "bp_inicial": "2022-06-30",
+          "bp_final": "2022-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 101.8942,
+          "PME": 183.0722,
+          "PMR": 85.9926,
+          "ciclo_financeiro": 167.1706
+        },
+        "bases_calculo": {
+          "receita_liquida": 1064496000.0,
+          "CMV": 839816000.0,
+          "compras_estimadas": 863048000.0,
+          "contas_a_receber_medio": 994986500.0,
+          "estoque_medio": 1671163000.0,
+          "fornecedores_medio": 955865500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2022 a 31/12/2022",
+          "inicio": "2022-10-01",
+          "fim": "2022-12-31",
+          "bp_inicial": "2022-09-30",
+          "bp_final": "2022-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 128.9363,
+          "PME": 171.2764,
+          "PMR": 74.1433,
+          "ciclo_financeiro": 116.4834
+        },
+        "bases_calculo": {
+          "receita_liquida": 1266625000.0,
+          "CMV": 825456000.0,
+          "compras_estimadas": 533400000.0,
+          "contas_a_receber_medio": 1020780000.0,
+          "estoque_medio": 1536751000.0,
+          "fornecedores_medio": 747550000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/03/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-03-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 107.7722,
+          "PME": 226.2986,
+          "PMR": 122.6046,
+          "ciclo_financeiro": 241.131
+        },
+        "bases_calculo": {
+          "receita_liquida": 702908000.0,
+          "CMV": 530730000.0,
+          "compras_estimadas": 418250000.0,
+          "contas_a_receber_medio": 957553000.0,
+          "estoque_medio": 1334483000.0,
+          "fornecedores_medio": 500841500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/06/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 95.06,
+          "PME": 237.3027,
+          "PMR": 121.7243,
+          "ciclo_financeiro": 263.967
+        },
+        "bases_calculo": {
+          "receita_liquida": 1457414000.0,
+          "CMV": 1054902000.0,
+          "compras_estimadas": 1039545000.0,
+          "contas_a_receber_medio": 980125500.0,
+          "estoque_medio": 1383044500.0,
+          "fornecedores_medio": 545962000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2023 a 30/06/2023",
+          "inicio": "2023-04-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2023-03-31",
+          "bp_final": "2023-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 66.2855,
+          "PME": 230.3427,
+          "PMR": 97.1135,
+          "ciclo_financeiro": 261.1707
+        },
+        "bases_calculo": {
+          "receita_liquida": 754507000.0,
+          "CMV": 524172000.0,
+          "compras_estimadas": 621295000.0,
+          "contas_a_receber_medio": 805195500.0,
+          "estoque_medio": 1326804500.0,
+          "fornecedores_medio": 452558500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/09/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-09-30",
+          "dias": 273
+        },
+        "indicadores_dias": {
+          "PMP": 99.6325,
+          "PME": 252.26,
+          "PMR": 112.4295,
+          "ciclo_financeiro": 265.057
+        },
+        "bases_calculo": {
+          "receita_liquida": 2306436000.0,
+          "CMV": 1674696000.0,
+          "compras_estimadas": 1988186000.0,
+          "contas_a_receber_medio": 949858500.0,
+          "estoque_medio": 1547468000.0,
+          "fornecedores_medio": 725596500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2023 a 30/09/2023",
+          "inicio": "2023-07-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2023-06-30",
+          "bp_final": "2023-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 65.6864,
+          "PME": 228.5608,
+          "PMR": 86.4172,
+          "ciclo_financeiro": 249.2916
+        },
+        "bases_calculo": {
+          "receita_liquida": 849022000.0,
+          "CMV": 619794000.0,
+          "compras_estimadas": 948641000.0,
+          "contas_a_receber_medio": 797501000.0,
+          "estoque_medio": 1539789500.0,
+          "fornecedores_medio": 677313500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/12/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-12-31",
+          "dias": 365
+        },
+        "indicadores_dias": {
+          "PMP": 94.7554,
+          "PME": 168.6794,
+          "PMR": 114.2809,
+          "ciclo_financeiro": 188.2049
+        },
+        "bases_calculo": {
+          "receita_liquida": 3926631000.0,
+          "CMV": 2864102000.0,
+          "compras_estimadas": 2729862000.0,
+          "contas_a_receber_medio": 1229421500.0,
+          "estoque_medio": 1323603000.0,
+          "fornecedores_medio": 708683000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2023 a 31/12/2023",
+          "inicio": "2023-10-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2023-09-30",
+          "bp_final": "2023-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 104.2007,
+          "PME": 114.5042,
+          "PMR": 59.4406,
+          "ciclo_financeiro": 69.7441
+        },
+        "bases_calculo": {
+          "receita_liquida": 1620194000.0,
+          "CMV": 1189406000.0,
+          "compras_estimadas": 741676000.0,
+          "contas_a_receber_medio": 1046797000.0,
+          "estoque_medio": 1480348000.0,
+          "fornecedores_medio": 840034500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/03/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-03-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-03-31",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 113.811,
+          "PME": 140.185,
+          "PMR": 120.1106,
+          "ciclo_financeiro": 146.4846
+        },
+        "bases_calculo": {
+          "receita_liquida": 994667000.0,
+          "CMV": 756453000.0,
+          "compras_estimadas": 574110000.0,
+          "contas_a_receber_medio": 1312858000.0,
+          "estoque_medio": 1165311500.0,
+          "fornecedores_medio": 718022500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/06/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-06-30",
+          "dias": 182
+        },
+        "indicadores_dias": {
+          "PMP": 103.345,
+          "PME": 166.3923,
+          "PMR": 108.1949,
+          "ciclo_financeiro": 171.2421
+        },
+        "bases_calculo": {
+          "receita_liquida": 1822656000.0,
+          "CMV": 1367238000.0,
+          "compras_estimadas": 1354248000.0,
+          "contas_a_receber_medio": 1083527500.0,
+          "estoque_medio": 1249988000.0,
+          "fornecedores_medio": 768982500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2024 a 30/06/2024",
+          "inicio": "2024-04-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2024-03-31",
+          "bp_final": "2024-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 77.4394,
+          "PME": 172.6504,
+          "PMR": 119.758,
+          "ciclo_financeiro": 214.969
+        },
+        "bases_calculo": {
+          "receita_liquida": 813076000.0,
+          "CMV": 610785000.0,
+          "compras_estimadas": 780138000.0,
+          "contas_a_receber_medio": 1070025500.0,
+          "estoque_medio": 1158816500.0,
+          "fornecedores_medio": 663884000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/09/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-09-30",
+          "dias": 274
+        },
+        "indicadores_dias": {
+          "PMP": 99.8768,
+          "PME": 171.7197,
+          "PMR": 111.0673,
+          "ciclo_financeiro": 182.9102
+        },
+        "bases_calculo": {
+          "receita_liquida": 2642225000.0,
+          "CMV": 1988757000.0,
+          "compras_estimadas": 1968556000.0,
+          "contas_a_receber_medio": 1071039500.0,
+          "estoque_medio": 1246382500.0,
+          "fornecedores_medio": 717566000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2024 a 30/09/2024",
+          "inicio": "2024-07-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2024-06-30",
+          "bp_final": "2024-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 99.3562,
+          "PME": 183.5336,
+          "PMR": 92.9697,
+          "ciclo_financeiro": 177.1471
+        },
+        "bases_calculo": {
+          "receita_liquida": 819569000.0,
+          "CMV": 621519000.0,
+          "compras_estimadas": 614308000.0,
+          "contas_a_receber_medio": 828207000.0,
+          "estoque_medio": 1239887500.0,
+          "fornecedores_medio": 663427500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/12/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-12-31",
+          "dias": 366
+        },
+        "indicadores_dias": {
+          "PMP": 104.1033,
+          "PME": 155.7541,
+          "PMR": 108.5249,
+          "ciclo_financeiro": 160.1758
+        },
+        "bases_calculo": {
+          "receita_liquida": 3688326000.0,
+          "CMV": 2764289000.0,
+          "compras_estimadas": 2604052000.0,
+          "contas_a_receber_medio": 1093648500.0,
+          "estoque_medio": 1176364500.0,
+          "fornecedores_medio": 740684000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2024 a 31/12/2024",
+          "inicio": "2024-10-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2024-09-30",
+          "bp_final": "2024-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 91.9469,
+          "PME": 138.3519,
+          "PMR": 72.691,
+          "ciclo_financeiro": 119.096
+        },
+        "bases_calculo": {
+          "receita_liquida": 1061014000.0,
+          "CMV": 775532000.0,
+          "compras_estimadas": 635496000.0,
+          "contas_a_receber_medio": 838328000.0,
+          "estoque_medio": 1166264000.0,
+          "fornecedores_medio": 635129000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 31/03/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-03-31",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 77.4743,
+          "PME": 194.1029,
+          "PMR": 76.6958,
+          "ciclo_financeiro": 193.3244
+        },
+        "bases_calculo": {
+          "receita_liquida": 741387000.0,
+          "CMV": 572388000.0,
+          "compras_estimadas": 766141000.0,
+          "contas_a_receber_medio": 631792000.0,
+          "estoque_medio": 1234468500.0,
+          "fornecedores_medio": 659513500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 30/06/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 74.6848,
+          "PME": 179.0777,
+          "PMR": 67.2807,
+          "ciclo_financeiro": 171.6736
+        },
+        "bases_calculo": {
+          "receita_liquida": 1680123000.0,
+          "CMV": 1278443000.0,
+          "compras_estimadas": 1532990000.0,
+          "contas_a_receber_medio": 624529500.0,
+          "estoque_medio": 1264865500.0,
+          "fornecedores_medio": 632547500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2026 a 30/06/2026",
+          "inicio": "2026-04-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2026-03-31",
+          "bp_final": "2026-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 71.1747,
+          "PME": 175.5083,
+          "PMR": 49.9259,
+          "ciclo_financeiro": 154.2595
+        },
+        "bases_calculo": {
+          "receita_liquida": 938736000.0,
+          "CMV": 706055000.0,
+          "compras_estimadas": 766849000.0,
+          "contas_a_receber_medio": 515024500.0,
+          "estoque_medio": 1361742000.0,
+          "fornecedores_medio": 599783000.0
+        }
+      }
+    ],
+    "QUSW3": [
+      {
+        "periodo": {
+          "dre": "01/04/2022 a 30/06/2022",
+          "inicio": "2022-04-01",
+          "fim": "2022-06-30",
+          "bp_inicial": "2022-03-31",
+          "bp_final": "2022-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 16.764,
+          "PME": 0.0,
+          "PMR": 84.4063,
+          "ciclo_financeiro": 67.6423
+        },
+        "bases_calculo": {
+          "receita_liquida": 54344878.0,
+          "CMV": 39090975.0,
+          "compras_estimadas": 39090975.0,
+          "contas_a_receber_medio": 50407169.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 7201336.5
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2022 a 30/09/2022",
+          "inicio": "2022-07-01",
+          "fim": "2022-09-30",
+          "bp_inicial": "2022-06-30",
+          "bp_final": "2022-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 22.171,
+          "PME": 0.0,
+          "PMR": 82.2911,
+          "ciclo_financeiro": 60.12
+        },
+        "bases_calculo": {
+          "receita_liquida": 59311053.0,
+          "CMV": 40973543.0,
+          "compras_estimadas": 40973543.0,
+          "contas_a_receber_medio": 53051841.5,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 9874197.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/03/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-03-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 21.6499,
+          "PME": 0.0,
+          "PMR": 86.8248,
+          "ciclo_financeiro": 65.175
+        },
+        "bases_calculo": {
+          "receita_liquida": 57763182.0,
+          "CMV": 41473167.0,
+          "compras_estimadas": 41473167.0,
+          "contas_a_receber_medio": 55725325.5,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 9976538.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/06/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 18.4077,
+          "PME": 0.0,
+          "PMR": 84.363,
+          "ciclo_financeiro": 65.9553
+        },
+        "bases_calculo": {
+          "receita_liquida": 117373958.0,
+          "CMV": 82165340.0,
+          "compras_estimadas": 82165340.0,
+          "contas_a_receber_medio": 54707301.5,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 8356203.5
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2023 a 30/06/2023",
+          "inicio": "2023-04-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2023-03-31",
+          "bp_final": "2023-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 19.4664,
+          "PME": 0.0,
+          "PMR": 87.7158,
+          "ciclo_financeiro": 68.2494
+        },
+        "bases_calculo": {
+          "receita_liquida": 59610775.0,
+          "CMV": 40692174.0,
+          "compras_estimadas": 40692174.0,
+          "contas_a_receber_medio": 57459440.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 8704724.5
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/09/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-09-30",
+          "dias": 273
+        },
+        "indicadores_dias": {
+          "PMP": 18.5298,
+          "PME": 0.0,
+          "PMR": 88.3837,
+          "ciclo_financeiro": 69.8539
+        },
+        "bases_calculo": {
+          "receita_liquida": 174990958.0,
+          "CMV": 123434776.0,
+          "compras_estimadas": 123434776.0,
+          "contas_a_receber_medio": 56653280.5,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 8378107.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2023 a 30/09/2023",
+          "inicio": "2023-07-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2023-06-30",
+          "bp_final": "2023-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 15.8417,
+          "PME": 0.0,
+          "PMR": 93.2301,
+          "ciclo_financeiro": 77.3884
+        },
+        "bases_calculo": {
+          "receita_liquida": 57617001.0,
+          "CMV": 41269436.0,
+          "compras_estimadas": 41269436.0,
+          "contas_a_receber_medio": 58387395.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 7106293.5
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/03/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-03-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-03-31",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 15.0896,
+          "PME": 0.0,
+          "PMR": 92.0557,
+          "ciclo_financeiro": 76.9661
+        },
+        "bases_calculo": {
+          "receita_liquida": 66380655.0,
+          "CMV": 47809187.0,
+          "compras_estimadas": 47809187.0,
+          "contas_a_receber_medio": 67150722.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 7927713.5
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/06/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-06-30",
+          "dias": 182
+        },
+        "indicadores_dias": {
+          "PMP": 17.2712,
+          "PME": 0.0,
+          "PMR": 94.1509,
+          "ciclo_financeiro": 76.8798
+        },
+        "bases_calculo": {
+          "receita_liquida": 130667566.0,
+          "CMV": 95803701.0,
+          "compras_estimadas": 95803701.0,
+          "contas_a_receber_medio": 67596013.5,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 9091438.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2024 a 30/06/2024",
+          "inicio": "2024-04-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2024-03-31",
+          "bp_final": "2024-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 18.8957,
+          "PME": 0.0,
+          "PMR": 104.5191,
+          "ciclo_financeiro": 85.6234
+        },
+        "bases_calculo": {
+          "receita_liquida": 64286911.0,
+          "CMV": 47994514.0,
+          "compras_estimadas": 47994514.0,
+          "contas_a_receber_medio": 73837494.5,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 9965847.5
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/09/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-09-30",
+          "dias": 274
+        },
+        "indicadores_dias": {
+          "PMP": 12.386,
+          "PME": 0.0,
+          "PMR": 92.1539,
+          "ciclo_financeiro": 79.7679
+        },
+        "bases_calculo": {
+          "receita_liquida": 193529977.0,
+          "CMV": 144110427.0,
+          "compras_estimadas": 144110427.0,
+          "contas_a_receber_medio": 65089550.5,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 6514417.5
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2024 a 30/09/2024",
+          "inicio": "2024-07-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2024-06-30",
+          "bp_final": "2024-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 16.2883,
+          "PME": 0.0,
+          "PMR": 105.0456,
+          "ciclo_financeiro": 88.7573
+        },
+        "bases_calculo": {
+          "receita_liquida": 62862411.0,
+          "CMV": 48306726.0,
+          "compras_estimadas": 48306726.0,
+          "contas_a_receber_medio": 71776323.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 8552551.5
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 31/03/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-03-31",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 13.8518,
+          "PME": 0.0,
+          "PMR": 101.9101,
+          "ciclo_financeiro": 88.0583
+        },
+        "bases_calculo": {
+          "receita_liquida": 59859345.0,
+          "CMV": 49022696.0,
+          "compras_estimadas": 49022696.0,
+          "contas_a_receber_medio": 67780802.5,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 7545012.5
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 30/06/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 14.0782,
+          "PME": 0.0,
+          "PMR": 98.1146,
+          "ciclo_financeiro": 84.0364
+        },
+        "bases_calculo": {
+          "receita_liquida": 122908584.0,
+          "CMV": 98967270.0,
+          "compras_estimadas": 98967270.0,
+          "contas_a_receber_medio": 66625017.5,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 7697689.5
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2026 a 30/06/2026",
+          "inicio": "2026-04-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2026-03-31",
+          "bp_final": "2026-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 12.7876,
+          "PME": 0.0,
+          "PMR": 91.5613,
+          "ciclo_financeiro": 78.7737
+        },
+        "bases_calculo": {
+          "receita_liquida": 63049239.0,
+          "CMV": 49944604.0,
+          "compras_estimadas": 49944604.0,
+          "contas_a_receber_medio": 63438163.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 7018396.0
+        }
+      }
+    ],
+    "TOTS3": [
+      {
+        "periodo": {
+          "dre": "01/04/2022 a 30/06/2022",
+          "inicio": "2022-04-01",
+          "fim": "2022-06-30",
+          "bp_inicial": "2022-03-31",
+          "bp_final": "2022-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 34.4952,
+          "PME": 0.0,
+          "PMR": 139.6783,
+          "ciclo_financeiro": 105.1832
+        },
+        "bases_calculo": {
+          "receita_liquida": 914571000.0,
+          "CMV": 277486000.0,
+          "compras_estimadas": 277486000.0,
+          "contas_a_receber_medio": 1403799500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 105186000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2022 a 30/09/2022",
+          "inicio": "2022-07-01",
+          "fim": "2022-09-30",
+          "bp_inicial": "2022-06-30",
+          "bp_final": "2022-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 34.2972,
+          "PME": 0.0,
+          "PMR": 49.3943,
+          "ciclo_financeiro": 15.0971
+        },
+        "bases_calculo": {
+          "receita_liquida": 974791000.0,
+          "CMV": 295089000.0,
+          "compras_estimadas": 295089000.0,
+          "contas_a_receber_medio": 523360500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 110008000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2022 a 31/12/2022",
+          "inicio": "2022-10-01",
+          "fim": "2022-12-31",
+          "bp_inicial": "2022-09-30",
+          "bp_final": "2022-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 43.3247,
+          "PME": 0.0,
+          "PMR": 50.377,
+          "ciclo_financeiro": 7.0523
+        },
+        "bases_calculo": {
+          "receita_liquida": 922431000.0,
+          "CMV": 261884000.0,
+          "compras_estimadas": 261884000.0,
+          "contas_a_receber_medio": 505101000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 123326500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/03/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-03-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 35.0326,
+          "PME": 0.0,
+          "PMR": 41.5214,
+          "ciclo_financeiro": 6.4888
+        },
+        "bases_calculo": {
+          "receita_liquida": 1064142000.0,
+          "CMV": 309122000.0,
+          "compras_estimadas": 309122000.0,
+          "contas_a_receber_medio": 490941000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 120326000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/06/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 46.5335,
+          "PME": 0.0,
+          "PMR": 42.2809,
+          "ciclo_financeiro": -4.2526
+        },
+        "bases_calculo": {
+          "receita_liquida": 2152057000.0,
+          "CMV": 639639000.0,
+          "compras_estimadas": 639639000.0,
+          "contas_a_receber_medio": 502712500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 164445500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2023 a 30/06/2023",
+          "inicio": "2023-04-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2023-03-31",
+          "bp_final": "2023-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 42.9852,
+          "PME": 0.0,
+          "PMR": 43.3292,
+          "ciclo_financeiro": 0.344
+        },
+        "bases_calculo": {
+          "receita_liquida": 1087915000.0,
+          "CMV": 330517000.0,
+          "compras_estimadas": 330517000.0,
+          "contas_a_receber_medio": 518005500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 156124500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/09/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-09-30",
+          "dias": 273
+        },
+        "indicadores_dias": {
+          "PMP": 36.0408,
+          "PME": 0.0,
+          "PMR": 42.6452,
+          "ciclo_financeiro": 6.6045
+        },
+        "bases_calculo": {
+          "receita_liquida": 3305454000.0,
+          "CMV": 991399000.0,
+          "compras_estimadas": 991399000.0,
+          "contas_a_receber_medio": 516344000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 130882000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2023 a 30/09/2023",
+          "inicio": "2023-07-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2023-06-30",
+          "bp_final": "2023-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 43.5939,
+          "PME": 0.0,
+          "PMR": 43.3446,
+          "ciclo_financeiro": -0.2493
+        },
+        "bases_calculo": {
+          "receita_liquida": 1153397000.0,
+          "CMV": 351760000.0,
+          "compras_estimadas": 351760000.0,
+          "contas_a_receber_medio": 543408500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 166680500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/12/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-12-31",
+          "dias": 365
+        },
+        "indicadores_dias": {
+          "PMP": 38.0697,
+          "PME": 0.0,
+          "PMR": 41.1577,
+          "ciclo_financeiro": 3.088
+        },
+        "bases_calculo": {
+          "receita_liquida": 4497028000.0,
+          "CMV": 1361034000.0,
+          "compras_estimadas": 1361034000.0,
+          "contas_a_receber_medio": 507088000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 141956500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2023 a 31/12/2023",
+          "inicio": "2023-10-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2023-09-30",
+          "bp_final": "2023-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 35.8884,
+          "PME": 0.0,
+          "PMR": 42.2937,
+          "ciclo_financeiro": 6.4053
+        },
+        "bases_calculo": {
+          "receita_liquida": 1191574000.0,
+          "CMV": 369635000.0,
+          "compras_estimadas": 369635000.0,
+          "contas_a_receber_medio": 547784000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 144191500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/03/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-03-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-03-31",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 39.0672,
+          "PME": 0.0,
+          "PMR": 40.8155,
+          "ciclo_financeiro": 1.7483
+        },
+        "bases_calculo": {
+          "receita_liquida": 1247637000.0,
+          "CMV": 380493000.0,
+          "compras_estimadas": 380493000.0,
+          "contas_a_receber_medio": 559592500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 163349500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/06/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-06-30",
+          "dias": 182
+        },
+        "indicadores_dias": {
+          "PMP": 40.3655,
+          "PME": 0.0,
+          "PMR": 40.1806,
+          "ciclo_financeiro": -0.1849
+        },
+        "bases_calculo": {
+          "receita_liquida": 2542772000.0,
+          "CMV": 788770000.0,
+          "compras_estimadas": 788770000.0,
+          "contas_a_receber_medio": 561374500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 174940000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2024 a 30/06/2024",
+          "inicio": "2024-04-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2024-03-31",
+          "bp_final": "2024-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 40.7937,
+          "PME": 0.0,
+          "PMR": 40.9239,
+          "ciclo_financeiro": 0.1302
+        },
+        "bases_calculo": {
+          "receita_liquida": 1295135000.0,
+          "CMV": 408277000.0,
+          "compras_estimadas": 408277000.0,
+          "contas_a_receber_medio": 582439000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 183023500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/09/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-09-30",
+          "dias": 274
+        },
+        "indicadores_dias": {
+          "PMP": 38.2237,
+          "PME": 0.0,
+          "PMR": 39.9729,
+          "ciclo_financeiro": 1.7492
+        },
+        "bases_calculo": {
+          "receita_liquida": 3840155000.0,
+          "CMV": 1167399000.0,
+          "compras_estimadas": 1167399000.0,
+          "contas_a_receber_medio": 560226500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 162855000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2024 a 30/09/2024",
+          "inicio": "2024-07-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2024-06-30",
+          "bp_final": "2024-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 40.8537,
+          "PME": 0.0,
+          "PMR": 40.339,
+          "ciclo_financeiro": -0.5147
+        },
+        "bases_calculo": {
+          "receita_liquida": 1329798000.0,
+          "CMV": 411044000.0,
+          "compras_estimadas": 411044000.0,
+          "contas_a_receber_medio": 583073000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 182529000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/12/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-12-31",
+          "dias": 366
+        },
+        "indicadores_dias": {
+          "PMP": 42.1569,
+          "PME": 0.0,
+          "PMR": 38.5987,
+          "ciclo_financeiro": -3.5582
+        },
+        "bases_calculo": {
+          "receita_liquida": 5224007000.0,
+          "CMV": 1594149000.0,
+          "compras_estimadas": 1594149000.0,
+          "contas_a_receber_medio": 550928000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 183618500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2024 a 31/12/2024",
+          "inicio": "2024-10-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2024-09-30",
+          "bp_final": "2024-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 44.6095,
+          "PME": 0.0,
+          "PMR": 38.9819,
+          "ciclo_financeiro": -5.6276
+        },
+        "bases_calculo": {
+          "receita_liquida": 1351437000.0,
+          "CMV": 394335000.0,
+          "compras_estimadas": 394335000.0,
+          "contas_a_receber_medio": 572626500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 191207500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 31/03/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-03-31",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 49.9664,
+          "PME": 0.0,
+          "PMR": 38.9334,
+          "ciclo_financeiro": -11.0331
+        },
+        "bases_calculo": {
+          "receita_liquida": 1697046000.0,
+          "CMV": 480080000.0,
+          "compras_estimadas": 480080000.0,
+          "contas_a_receber_medio": 734130000.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 266532000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 30/06/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 51.5563,
+          "PME": 0.0,
+          "PMR": 37.9914,
+          "ciclo_financeiro": -13.565
+        },
+        "bases_calculo": {
+          "receita_liquida": 3616769000.0,
+          "CMV": 1036941000.0,
+          "compras_estimadas": 1036941000.0,
+          "contas_a_receber_medio": 759149500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 295364000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2026 a 30/06/2026",
+          "inicio": "2026-04-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2026-03-31",
+          "bp_final": "2026-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 55.7469,
+          "PME": 0.0,
+          "PMR": 40.4887,
+          "ciclo_financeiro": -15.2582
+        },
+        "bases_calculo": {
+          "receita_liquida": 1919723000.0,
+          "CMV": 556861000.0,
+          "compras_estimadas": 556861000.0,
+          "contas_a_receber_medio": 854143500.0,
+          "estoque_medio": 0.0,
+          "fornecedores_medio": 341135000.0
+        }
+      }
+    ],
+    "WDCN3": [
+      {
+        "periodo": {
+          "dre": "01/04/2022 a 30/06/2022",
+          "inicio": "2022-04-01",
+          "fim": "2022-06-30",
+          "bp_inicial": "2022-03-31",
+          "bp_final": "2022-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 40.6232,
+          "PME": 124.7079,
+          "PMR": 45.9049,
+          "ciclo_financeiro": 129.9896
+        },
+        "bases_calculo": {
+          "receita_liquida": 284321000.0,
+          "CMV": 214761000.0,
+          "compras_estimadas": 231065000.0,
+          "contas_a_receber_medio": 143425500.0,
+          "estoque_medio": 294312000.0,
+          "fornecedores_medio": 103149500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2022 a 30/09/2022",
+          "inicio": "2022-07-01",
+          "fim": "2022-09-30",
+          "bp_inicial": "2022-06-30",
+          "bp_final": "2022-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 54.3944,
+          "PME": 122.1323,
+          "PMR": 51.6753,
+          "ciclo_financeiro": 119.4132
+        },
+        "bases_calculo": {
+          "receita_liquida": 267904000.0,
+          "CMV": 208508000.0,
+          "compras_estimadas": 157179000.0,
+          "contas_a_receber_medio": 150478500.0,
+          "estoque_medio": 276799500.0,
+          "fornecedores_medio": 92931000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2022 a 31/12/2022",
+          "inicio": "2022-10-01",
+          "fim": "2022-12-31",
+          "bp_inicial": "2022-09-30",
+          "bp_final": "2022-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 38.5796,
+          "PME": 117.981,
+          "PMR": 56.1831,
+          "ciclo_financeiro": 135.5846
+        },
+        "bases_calculo": {
+          "receita_liquida": 277487000.0,
+          "CMV": 218796000.0,
+          "compras_estimadas": 277695000.0,
+          "contas_a_receber_medio": 169457500.0,
+          "estoque_medio": 280584500.0,
+          "fornecedores_medio": 116449500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/03/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-03-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 59.1079,
+          "PME": 139.0454,
+          "PMR": 74.9786,
+          "ciclo_financeiro": 154.9161
+        },
+        "bases_calculo": {
+          "receita_liquida": 244260000.0,
+          "CMV": 194142000.0,
+          "compras_estimadas": 173953000.0,
+          "contas_a_receber_medio": 203492000.0,
+          "estoque_medio": 299939500.0,
+          "fornecedores_medio": 114244500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/06/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 59.5731,
+          "PME": 148.5829,
+          "PMR": 79.0877,
+          "ciclo_financeiro": 168.0975
+        },
+        "bases_calculo": {
+          "receita_liquida": 463993000.0,
+          "CMV": 362214000.0,
+          "compras_estimadas": 336829000.0,
+          "contas_a_receber_medio": 202741000.0,
+          "estoque_medio": 297341500.0,
+          "fornecedores_medio": 110861500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2023 a 30/06/2023",
+          "inicio": "2023-04-01",
+          "fim": "2023-06-30",
+          "bp_inicial": "2023-03-31",
+          "bp_final": "2023-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 46.3693,
+          "PME": 155.5255,
+          "PMR": 87.0889,
+          "ciclo_financeiro": 196.245
+        },
+        "bases_calculo": {
+          "receita_liquida": 219733000.0,
+          "CMV": 168072000.0,
+          "compras_estimadas": 162876000.0,
+          "contas_a_receber_medio": 210289000.0,
+          "estoque_medio": 287247000.0,
+          "fornecedores_medio": 82994000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 30/09/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-09-30",
+          "dias": 273
+        },
+        "indicadores_dias": {
+          "PMP": 63.7864,
+          "PME": 138.202,
+          "PMR": 84.2212,
+          "ciclo_financeiro": 158.6368
+        },
+        "bases_calculo": {
+          "receita_liquida": 681816000.0,
+          "CMV": 532216000.0,
+          "compras_estimadas": 451000000.0,
+          "contas_a_receber_medio": 210342000.0,
+          "estoque_medio": 269426000.0,
+          "fornecedores_medio": 105376000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2023 a 30/09/2023",
+          "inicio": "2023-07-01",
+          "fim": "2023-09-30",
+          "bp_inicial": "2023-06-30",
+          "bp_final": "2023-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 59.731,
+          "PME": 138.9365,
+          "PMR": 91.7111,
+          "ciclo_financeiro": 170.9166
+        },
+        "bases_calculo": {
+          "receita_liquida": 217823000.0,
+          "CMV": 170002000.0,
+          "compras_estimadas": 114171000.0,
+          "contas_a_receber_medio": 217139000.0,
+          "estoque_medio": 256733500.0,
+          "fornecedores_medio": 74125500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2023 a 31/12/2023",
+          "inicio": "2023-01-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2022-12-31",
+          "bp_final": "2023-12-31",
+          "dias": 365
+        },
+        "indicadores_dias": {
+          "PMP": 74.7161,
+          "PME": 125.3789,
+          "PMR": 84.3081,
+          "ciclo_financeiro": 134.9708
+        },
+        "bases_calculo": {
+          "receita_liquida": 900717000.0,
+          "CMV": 712455000.0,
+          "compras_estimadas": 581849000.0,
+          "contas_a_receber_medio": 208048500.0,
+          "estoque_medio": 244731000.0,
+          "fornecedores_medio": 119105500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2023 a 31/12/2023",
+          "inicio": "2023-10-01",
+          "fim": "2023-12-31",
+          "bp_inicial": "2023-09-30",
+          "bp_final": "2023-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 57.914,
+          "PME": 104.1912,
+          "PMR": 93.4901,
+          "ciclo_financeiro": 139.7673
+        },
+        "bases_calculo": {
+          "receita_liquida": 218901000.0,
+          "CMV": 180239000.0,
+          "compras_estimadas": 130849000.0,
+          "contas_a_receber_medio": 222446500.0,
+          "estoque_medio": 204123000.0,
+          "fornecedores_medio": 82369500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/03/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-03-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-03-31",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 55.288,
+          "PME": 113.4637,
+          "PMR": 99.2865,
+          "ciclo_financeiro": 157.4622
+        },
+        "bases_calculo": {
+          "receita_liquida": 209541000.0,
+          "CMV": 155410000.0,
+          "compras_estimadas": 184101000.0,
+          "contas_a_receber_medio": 228622000.0,
+          "estoque_medio": 193773500.0,
+          "fornecedores_medio": 111852500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/06/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-06-30",
+          "dias": 182
+        },
+        "indicadores_dias": {
+          "PMP": 59.7193,
+          "PME": 120.0178,
+          "PMR": 106.4029,
+          "ciclo_financeiro": 166.7013
+        },
+        "bases_calculo": {
+          "receita_liquida": 402659000.0,
+          "CMV": 293032000.0,
+          "compras_estimadas": 320649000.0,
+          "contas_a_receber_medio": 235407000.0,
+          "estoque_medio": 193236500.0,
+          "fornecedores_medio": 105214000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2024 a 30/06/2024",
+          "inicio": "2024-04-01",
+          "fim": "2024-06-30",
+          "bp_inicial": "2024-03-31",
+          "bp_final": "2024-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 80.6172,
+          "PME": 137.2608,
+          "PMR": 114.9179,
+          "ciclo_financeiro": 171.5614
+        },
+        "bases_calculo": {
+          "receita_liquida": 193118000.0,
+          "CMV": 137621000.0,
+          "compras_estimadas": 136547000.0,
+          "contas_a_receber_medio": 243876000.0,
+          "estoque_medio": 207582000.0,
+          "fornecedores_medio": 120967500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 30/09/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-09-30",
+          "dias": 274
+        },
+        "indicadores_dias": {
+          "PMP": 58.033,
+          "PME": 116.1995,
+          "PMR": 95.7064,
+          "ciclo_financeiro": 153.8728
+        },
+        "bases_calculo": {
+          "receita_liquida": 614930000.0,
+          "CMV": 450297000.0,
+          "compras_estimadas": 473370000.0,
+          "contas_a_receber_medio": 214791000.0,
+          "estoque_medio": 190964500.0,
+          "fornecedores_medio": 100259500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/07/2024 a 30/09/2024",
+          "inicio": "2024-07-01",
+          "fim": "2024-09-30",
+          "bp_inicial": "2024-06-30",
+          "bp_final": "2024-09-30",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 65.8878,
+          "PME": 119.7922,
+          "PMR": 99.7034,
+          "ciclo_financeiro": 153.6077
+        },
+        "bases_calculo": {
+          "receita_liquida": 212271000.0,
+          "CMV": 157265000.0,
+          "compras_estimadas": 152721000.0,
+          "contas_a_receber_medio": 230045000.0,
+          "estoque_medio": 204773000.0,
+          "fornecedores_medio": 109374500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2024 a 31/12/2024",
+          "inicio": "2024-01-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2023-12-31",
+          "bp_final": "2024-12-31",
+          "dias": 366
+        },
+        "indicadores_dias": {
+          "PMP": 61.2792,
+          "PME": 102.7411,
+          "PMR": 117.4813,
+          "ciclo_financeiro": 158.9433
+        },
+        "bases_calculo": {
+          "receita_liquida": 837881000.0,
+          "CMV": 621682000.0,
+          "compras_estimadas": 611855000.0,
+          "contas_a_receber_medio": 268949000.0,
+          "estoque_medio": 174514500.0,
+          "fornecedores_medio": 102442500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/10/2024 a 31/12/2024",
+          "inicio": "2024-10-01",
+          "fim": "2024-12-31",
+          "bp_inicial": "2024-09-30",
+          "bp_final": "2024-12-31",
+          "dias": 92
+        },
+        "indicadores_dias": {
+          "PMP": 70.8193,
+          "PME": 99.8722,
+          "PMR": 108.7683,
+          "ciclo_financeiro": 137.8212
+        },
+        "bases_calculo": {
+          "receita_liquida": 222951000.0,
+          "CMV": 171386000.0,
+          "compras_estimadas": 138486000.0,
+          "contas_a_receber_medio": 263587000.0,
+          "estoque_medio": 186051000.0,
+          "fornecedores_medio": 106603000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 31/03/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-03-31",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-03-31",
+          "dias": 90
+        },
+        "indicadores_dias": {
+          "PMP": 32.7564,
+          "PME": 95.494,
+          "PMR": 113.6909,
+          "ciclo_financeiro": 176.4286
+        },
+        "bases_calculo": {
+          "receita_liquida": 191500000.0,
+          "CMV": 141995000.0,
+          "compras_estimadas": 148963000.0,
+          "contas_a_receber_medio": 241909000.0,
+          "estoque_medio": 150663000.0,
+          "fornecedores_medio": 54216500.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/01/2026 a 30/06/2026",
+          "inicio": "2026-01-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2025-12-31",
+          "bp_final": "2026-06-30",
+          "dias": 181
+        },
+        "indicadores_dias": {
+          "PMP": 44.129,
+          "PME": 97.007,
+          "PMR": 115.1185,
+          "ciclo_financeiro": 167.9965
+        },
+        "bases_calculo": {
+          "receita_liquida": 389824000.0,
+          "CMV": 295422000.0,
+          "compras_estimadas": 317727000.0,
+          "contas_a_receber_medio": 247933500.0,
+          "estoque_medio": 158331500.0,
+          "fornecedores_medio": 77464000.0
+        }
+      },
+      {
+        "periodo": {
+          "dre": "01/04/2026 a 30/06/2026",
+          "inicio": "2026-04-01",
+          "fim": "2026-06-30",
+          "bp_inicial": "2026-03-31",
+          "bp_final": "2026-06-30",
+          "dias": 91
+        },
+        "indicadores_dias": {
+          "PMP": 39.5295,
+          "PME": 95.9754,
+          "PMR": 115.9623,
+          "ciclo_financeiro": 172.4081
+        },
+        "bases_calculo": {
+          "receita_liquida": 198324000.0,
+          "CMV": 153427000.0,
+          "compras_estimadas": 168764000.0,
+          "contas_a_receber_medio": 252726500.0,
+          "estoque_medio": 161815500.0,
+          "fornecedores_medio": 73309500.0
+        }
+      }
+    ]
+  },
+  "errors": {
+    "PDTC3": {
+      "01/01/2024 a 31/12/2024": "PMP: denominador deve ser positivo; recebido -101875127.0.",
+      "01/10/2024 a 31/12/2024": "PMR: denominador deve ser positivo; recebido -202502241.0."
+    },
+    "QUSW3": {
+      "01/10/2022 a 31/12/2022": "PMR: denominador deve ser positivo; recebido -101579117.0.",
+      "01/01/2023 a 31/12/2023": "PME: denominador deve ser positivo; recebido 0.0.",
+      "01/10/2023 a 31/12/2023": "PMR: denominador deve ser positivo; recebido -107263824.0.",
+      "01/01/2024 a 31/12/2024": "PME: denominador deve ser positivo; recebido 0.0.",
+      "01/10/2024 a 31/12/2024": "PMR: denominador deve ser positivo; recebido -125758655.0."
+    }
+  }
+}
