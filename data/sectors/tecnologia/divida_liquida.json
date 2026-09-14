@@ -859,6 +859,219 @@
       },
       {
         "company": "BMOB3",
+        "date": "2025-03-31",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -520439000,
+        "divida_bruta": 0,
+        "caixa_equivalentes": 338700000,
+        "aplicacoes_financeiras_identificadas": 181739000,
+        "aplicacoes_financeiras_deduzidas": 181739000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -520439000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 0,
+          "long_term_debt": 0,
+          "leases_included": 0,
+          "gross_debt": 0,
+          "cash_and_cash_equivalents": 338700000,
+          "financial_investments_identified": 181739000,
+          "financial_investments_deducted": 181739000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 0
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 0
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 338700000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 181739000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "BMOB3",
+        "date": "2025-06-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -473434000,
+        "divida_bruta": 19002000,
+        "caixa_equivalentes": 302792000,
+        "aplicacoes_financeiras_identificadas": 189644000,
+        "aplicacoes_financeiras_deduzidas": 189644000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -473434000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 0,
+          "long_term_debt": 19002000,
+          "leases_included": 0,
+          "gross_debt": 19002000,
+          "cash_and_cash_equivalents": 302792000,
+          "financial_investments_identified": 189644000,
+          "financial_investments_deducted": 189644000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 0
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 19002000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 302792000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 189644000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "BMOB3",
+        "date": "2025-09-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -456013000,
+        "divida_bruta": 19170000,
+        "caixa_equivalentes": 300522000,
+        "aplicacoes_financeiras_identificadas": 174661000,
+        "aplicacoes_financeiras_deduzidas": 174661000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -456013000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 442000,
+          "long_term_debt": 18728000,
+          "leases_included": 0,
+          "gross_debt": 19170000,
+          "cash_and_cash_equivalents": 300522000,
+          "financial_investments_identified": 174661000,
+          "financial_investments_deducted": 174661000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 442000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 18728000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 300522000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 174661000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "BMOB3",
         "date": "2025-12-31",
         "unit": "Reais integrais",
         "metric": "divida_liquida_padronizada",
@@ -1919,6 +2132,219 @@
               "cd_conta": "1.01.02",
               "ds_conta": "Aplicações Financeiras",
               "vl_conta": 144616000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "BRQB3",
+        "date": "2025-03-31",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -138433000,
+        "divida_bruta": 4236000,
+        "caixa_equivalentes": 21446000,
+        "aplicacoes_financeiras_identificadas": 121223000,
+        "aplicacoes_financeiras_deduzidas": 121223000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -138433000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 1385000,
+          "long_term_debt": 2851000,
+          "leases_included": 0,
+          "gross_debt": 4236000,
+          "cash_and_cash_equivalents": 21446000,
+          "financial_investments_identified": 121223000,
+          "financial_investments_deducted": 121223000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 1385000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 2851000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 21446000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 121223000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "BRQB3",
+        "date": "2025-06-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -125938000,
+        "divida_bruta": 4441000,
+        "caixa_equivalentes": 20618000,
+        "aplicacoes_financeiras_identificadas": 109761000,
+        "aplicacoes_financeiras_deduzidas": 109761000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -125938000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 1508000,
+          "long_term_debt": 2933000,
+          "leases_included": 0,
+          "gross_debt": 4441000,
+          "cash_and_cash_equivalents": 20618000,
+          "financial_investments_identified": 109761000,
+          "financial_investments_deducted": 109761000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 1508000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 2933000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 20618000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 109761000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "BRQB3",
+        "date": "2025-09-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -106447000,
+        "divida_bruta": 36206000,
+        "caixa_equivalentes": 23137000,
+        "aplicacoes_financeiras_identificadas": 119516000,
+        "aplicacoes_financeiras_deduzidas": 119516000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -106447000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 3795000,
+          "long_term_debt": 32411000,
+          "leases_included": 0,
+          "gross_debt": 36206000,
+          "cash_and_cash_equivalents": 23137000,
+          "financial_investments_identified": 119516000,
+          "financial_investments_deducted": 119516000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 3795000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 32411000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 23137000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 119516000
             }
           ],
           "leases": []
@@ -2993,6 +3419,219 @@
       },
       {
         "company": "CASH3",
+        "date": "2025-03-31",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -230608000,
+        "divida_bruta": 182000,
+        "caixa_equivalentes": 70022000,
+        "aplicacoes_financeiras_identificadas": 160768000,
+        "aplicacoes_financeiras_deduzidas": 160768000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -230608000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 165000,
+          "long_term_debt": 17000,
+          "leases_included": 0,
+          "gross_debt": 182000,
+          "cash_and_cash_equivalents": 70022000,
+          "financial_investments_identified": 160768000,
+          "financial_investments_deducted": 160768000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 165000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 17000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 70022000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 160768000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "CASH3",
+        "date": "2025-06-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -71325000,
+        "divida_bruta": 144000,
+        "caixa_equivalentes": 71469000,
+        "aplicacoes_financeiras_identificadas": 0,
+        "aplicacoes_financeiras_deduzidas": 0,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -71325000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 141000,
+          "long_term_debt": 3000,
+          "leases_included": 0,
+          "gross_debt": 144000,
+          "cash_and_cash_equivalents": 71469000,
+          "financial_investments_identified": 0,
+          "financial_investments_deducted": 0
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 141000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 3000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 71469000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 0
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "CASH3",
+        "date": "2025-09-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -67202000,
+        "divida_bruta": 99000,
+        "caixa_equivalentes": 67301000,
+        "aplicacoes_financeiras_identificadas": 0,
+        "aplicacoes_financeiras_deduzidas": 0,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -67202000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 96000,
+          "long_term_debt": 3000,
+          "leases_included": 0,
+          "gross_debt": 99000,
+          "cash_and_cash_equivalents": 67301000,
+          "financial_investments_identified": 0,
+          "financial_investments_deducted": 0
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 96000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 3000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 67301000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 0
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "CASH3",
         "date": "2025-12-31",
         "unit": "Reais integrais",
         "metric": "divida_liquida_padronizada",
@@ -4053,6 +4692,219 @@
               "cd_conta": "1.01.02",
               "ds_conta": "Aplicações Financeiras",
               "vl_conta": 1144000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "ECOM3",
+        "date": "2025-03-31",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -25855000,
+        "divida_bruta": 2423000,
+        "caixa_equivalentes": 27106000,
+        "aplicacoes_financeiras_identificadas": 1172000,
+        "aplicacoes_financeiras_deduzidas": 1172000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -25855000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 781000,
+          "long_term_debt": 1642000,
+          "leases_included": 0,
+          "gross_debt": 2423000,
+          "cash_and_cash_equivalents": 27106000,
+          "financial_investments_identified": 1172000,
+          "financial_investments_deducted": 1172000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 781000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 1642000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 27106000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 1172000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "ECOM3",
+        "date": "2025-06-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -23947000,
+        "divida_bruta": 27000,
+        "caixa_equivalentes": 23852000,
+        "aplicacoes_financeiras_identificadas": 122000,
+        "aplicacoes_financeiras_deduzidas": 122000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -23947000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 27000,
+          "long_term_debt": 0,
+          "leases_included": 0,
+          "gross_debt": 27000,
+          "cash_and_cash_equivalents": 23852000,
+          "financial_investments_identified": 122000,
+          "financial_investments_deducted": 122000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 27000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 0
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 23852000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 122000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "ECOM3",
+        "date": "2025-09-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -25413000,
+        "divida_bruta": 7000,
+        "caixa_equivalentes": 25420000,
+        "aplicacoes_financeiras_identificadas": 0,
+        "aplicacoes_financeiras_deduzidas": 0,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -25413000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 7000,
+          "long_term_debt": 0,
+          "leases_included": 0,
+          "gross_debt": 7000,
+          "cash_and_cash_equivalents": 25420000,
+          "financial_investments_identified": 0,
+          "financial_investments_deducted": 0
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 7000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 0
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 25420000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 0
             }
           ],
           "leases": []
@@ -5127,6 +5979,219 @@
       },
       {
         "company": "IFCM3",
+        "date": "2025-03-31",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": 743883000,
+        "divida_bruta": 831065000,
+        "caixa_equivalentes": 71582000,
+        "aplicacoes_financeiras_identificadas": 15600000,
+        "aplicacoes_financeiras_deduzidas": 15600000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": 743883000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 541607000,
+          "long_term_debt": 289458000,
+          "leases_included": 0,
+          "gross_debt": 831065000,
+          "cash_and_cash_equivalents": 71582000,
+          "financial_investments_identified": 15600000,
+          "financial_investments_deducted": 15600000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 541607000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 289458000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 71582000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 15600000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "IFCM3",
+        "date": "2025-06-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": 869941000,
+        "divida_bruta": 971265000,
+        "caixa_equivalentes": 81524000,
+        "aplicacoes_financeiras_identificadas": 19800000,
+        "aplicacoes_financeiras_deduzidas": 19800000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": 869941000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 70005000,
+          "long_term_debt": 901260000,
+          "leases_included": 0,
+          "gross_debt": 971265000,
+          "cash_and_cash_equivalents": 81524000,
+          "financial_investments_identified": 19800000,
+          "financial_investments_deducted": 19800000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 70005000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 901260000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 81524000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 19800000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "IFCM3",
+        "date": "2025-09-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": 340571000,
+        "divida_bruta": 418173000,
+        "caixa_equivalentes": 69006000,
+        "aplicacoes_financeiras_identificadas": 8596000,
+        "aplicacoes_financeiras_deduzidas": 8596000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": 340571000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 52842000,
+          "long_term_debt": 365331000,
+          "leases_included": 0,
+          "gross_debt": 418173000,
+          "cash_and_cash_equivalents": 69006000,
+          "financial_investments_identified": 8596000,
+          "financial_investments_deducted": 8596000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 52842000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 365331000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 69006000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 8596000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "IFCM3",
         "date": "2025-12-31",
         "unit": "Reais integrais",
         "metric": "divida_liquida_padronizada",
@@ -6187,6 +7252,219 @@
               "cd_conta": "1.01.02",
               "ds_conta": "Aplicações Financeiras",
               "vl_conta": 140000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "INTB3",
+        "date": "2025-03-31",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": 330565000,
+        "divida_bruta": 978537000,
+        "caixa_equivalentes": 647928000,
+        "aplicacoes_financeiras_identificadas": 44000,
+        "aplicacoes_financeiras_deduzidas": 44000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": 330565000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 240234000,
+          "long_term_debt": 738303000,
+          "leases_included": 0,
+          "gross_debt": 978537000,
+          "cash_and_cash_equivalents": 647928000,
+          "financial_investments_identified": 44000,
+          "financial_investments_deducted": 44000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 240234000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 738303000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 647928000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 44000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "INTB3",
+        "date": "2025-06-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": 147713000,
+        "divida_bruta": 985348000,
+        "caixa_equivalentes": 825649000,
+        "aplicacoes_financeiras_identificadas": 11986000,
+        "aplicacoes_financeiras_deduzidas": 11986000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": 147713000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 299439000,
+          "long_term_debt": 685909000,
+          "leases_included": 0,
+          "gross_debt": 985348000,
+          "cash_and_cash_equivalents": 825649000,
+          "financial_investments_identified": 11986000,
+          "financial_investments_deducted": 11986000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 299439000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 685909000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 825649000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 11986000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "INTB3",
+        "date": "2025-09-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -207216000,
+        "divida_bruta": 1047917000,
+        "caixa_equivalentes": 1239723000,
+        "aplicacoes_financeiras_identificadas": 15410000,
+        "aplicacoes_financeiras_deduzidas": 15410000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -207216000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 343600000,
+          "long_term_debt": 704317000,
+          "leases_included": 0,
+          "gross_debt": 1047917000,
+          "cash_and_cash_equivalents": 1239723000,
+          "financial_investments_identified": 15410000,
+          "financial_investments_deducted": 15410000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 343600000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 704317000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 1239723000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 15410000
             }
           ],
           "leases": []
@@ -7261,6 +8539,219 @@
       },
       {
         "company": "LWSA3",
+        "date": "2025-03-31",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -395538000,
+        "divida_bruta": 78246000,
+        "caixa_equivalentes": 399269000,
+        "aplicacoes_financeiras_identificadas": 74515000,
+        "aplicacoes_financeiras_deduzidas": 74515000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -395538000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 16378000,
+          "long_term_debt": 61868000,
+          "leases_included": 0,
+          "gross_debt": 78246000,
+          "cash_and_cash_equivalents": 399269000,
+          "financial_investments_identified": 74515000,
+          "financial_investments_deducted": 74515000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 16378000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 61868000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 399269000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 74515000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "LWSA3",
+        "date": "2025-06-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -263765000,
+        "divida_bruta": 81473000,
+        "caixa_equivalentes": 277287000,
+        "aplicacoes_financeiras_identificadas": 67951000,
+        "aplicacoes_financeiras_deduzidas": 67951000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -263765000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 18251000,
+          "long_term_debt": 63222000,
+          "leases_included": 0,
+          "gross_debt": 81473000,
+          "cash_and_cash_equivalents": 277287000,
+          "financial_investments_identified": 67951000,
+          "financial_investments_deducted": 67951000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 18251000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 63222000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 277287000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 67951000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "LWSA3",
+        "date": "2025-09-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -301730000,
+        "divida_bruta": 79117000,
+        "caixa_equivalentes": 309310000,
+        "aplicacoes_financeiras_identificadas": 71537000,
+        "aplicacoes_financeiras_deduzidas": 71537000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -301730000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 18512000,
+          "long_term_debt": 60605000,
+          "leases_included": 0,
+          "gross_debt": 79117000,
+          "cash_and_cash_equivalents": 309310000,
+          "financial_investments_identified": 71537000,
+          "financial_investments_deducted": 71537000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 18512000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 60605000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 309310000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 71537000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "LWSA3",
         "date": "2025-12-31",
         "unit": "Reais integrais",
         "metric": "divida_liquida_padronizada",
@@ -8314,6 +9805,219 @@
               "cd_conta": "1.01.01",
               "ds_conta": "Caixa e Equivalentes de Caixa",
               "vl_conta": 744553000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 0
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "MLAS3",
+        "date": "2025-03-31",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": 216286000,
+        "divida_bruta": 689174000,
+        "caixa_equivalentes": 472888000,
+        "aplicacoes_financeiras_identificadas": 0,
+        "aplicacoes_financeiras_deduzidas": 0,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": 216286000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 448516000,
+          "long_term_debt": 240658000,
+          "leases_included": 0,
+          "gross_debt": 689174000,
+          "cash_and_cash_equivalents": 472888000,
+          "financial_investments_identified": 0,
+          "financial_investments_deducted": 0
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 448516000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 240658000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 472888000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 0
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "MLAS3",
+        "date": "2025-06-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": 157887000,
+        "divida_bruta": 656760000,
+        "caixa_equivalentes": 498873000,
+        "aplicacoes_financeiras_identificadas": 0,
+        "aplicacoes_financeiras_deduzidas": 0,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": 157887000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 439649000,
+          "long_term_debt": 217111000,
+          "leases_included": 0,
+          "gross_debt": 656760000,
+          "cash_and_cash_equivalents": 498873000,
+          "financial_investments_identified": 0,
+          "financial_investments_deducted": 0
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 439649000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 217111000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 498873000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 0
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "MLAS3",
+        "date": "2025-09-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": 30842000,
+        "divida_bruta": 501179000,
+        "caixa_equivalentes": 470337000,
+        "aplicacoes_financeiras_identificadas": 0,
+        "aplicacoes_financeiras_deduzidas": 0,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": 30842000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 342612000,
+          "long_term_debt": 158567000,
+          "leases_included": 0,
+          "gross_debt": 501179000,
+          "cash_and_cash_equivalents": 470337000,
+          "financial_investments_identified": 0,
+          "financial_investments_deducted": 0
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 342612000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 158567000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 470337000
             }
           ],
           "financial_investments": [
@@ -9395,6 +11099,219 @@
       },
       {
         "company": "PDTC3",
+        "date": "2025-03-31",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": 197913000,
+        "divida_bruta": 335360000,
+        "caixa_equivalentes": 116099000,
+        "aplicacoes_financeiras_identificadas": 21348000,
+        "aplicacoes_financeiras_deduzidas": 21348000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": 197913000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 79422000,
+          "long_term_debt": 255938000,
+          "leases_included": 0,
+          "gross_debt": 335360000,
+          "cash_and_cash_equivalents": 116099000,
+          "financial_investments_identified": 21348000,
+          "financial_investments_deducted": 21348000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 79422000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 255938000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 116099000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 21348000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "PDTC3",
+        "date": "2025-06-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": 239174000,
+        "divida_bruta": 305679000,
+        "caixa_equivalentes": 54308000,
+        "aplicacoes_financeiras_identificadas": 12197000,
+        "aplicacoes_financeiras_deduzidas": 12197000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": 239174000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 26738000,
+          "long_term_debt": 278941000,
+          "leases_included": 0,
+          "gross_debt": 305679000,
+          "cash_and_cash_equivalents": 54308000,
+          "financial_investments_identified": 12197000,
+          "financial_investments_deducted": 12197000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 26738000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 278941000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 54308000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 12197000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "PDTC3",
+        "date": "2025-09-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": 248253000,
+        "divida_bruta": 296293000,
+        "caixa_equivalentes": 28228000,
+        "aplicacoes_financeiras_identificadas": 19812000,
+        "aplicacoes_financeiras_deduzidas": 19812000,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": 248253000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 25989000,
+          "long_term_debt": 270304000,
+          "leases_included": 0,
+          "gross_debt": 296293000,
+          "cash_and_cash_equivalents": 28228000,
+          "financial_investments_identified": 19812000,
+          "financial_investments_deducted": 19812000
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 25989000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 270304000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 28228000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 19812000
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "PDTC3",
         "date": "2025-12-31",
         "unit": "Reais integrais",
         "metric": "divida_liquida_padronizada",
@@ -10448,6 +12365,219 @@
               "cd_conta": "1.01.01",
               "ds_conta": "Caixa e Equivalentes de Caixa",
               "vl_conta": 566929000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 0
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "POSI3",
+        "date": "2025-03-31",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": 772990000,
+        "divida_bruta": 1238391000,
+        "caixa_equivalentes": 465401000,
+        "aplicacoes_financeiras_identificadas": 0,
+        "aplicacoes_financeiras_deduzidas": 0,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": 772990000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 385235000,
+          "long_term_debt": 853156000,
+          "leases_included": 0,
+          "gross_debt": 1238391000,
+          "cash_and_cash_equivalents": 465401000,
+          "financial_investments_identified": 0,
+          "financial_investments_deducted": 0
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 385235000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 853156000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 465401000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 0
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "POSI3",
+        "date": "2025-06-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": 613348000,
+        "divida_bruta": 1289224000,
+        "caixa_equivalentes": 675876000,
+        "aplicacoes_financeiras_identificadas": 0,
+        "aplicacoes_financeiras_deduzidas": 0,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": 613348000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 525068000,
+          "long_term_debt": 764156000,
+          "leases_included": 0,
+          "gross_debt": 1289224000,
+          "cash_and_cash_equivalents": 675876000,
+          "financial_investments_identified": 0,
+          "financial_investments_deducted": 0
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 525068000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 764156000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 675876000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 0
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "POSI3",
+        "date": "2025-09-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": 539086000,
+        "divida_bruta": 1344625000,
+        "caixa_equivalentes": 805539000,
+        "aplicacoes_financeiras_identificadas": 0,
+        "aplicacoes_financeiras_deduzidas": 0,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": 539086000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 642156000,
+          "long_term_debt": 702469000,
+          "leases_included": 0,
+          "gross_debt": 1344625000,
+          "cash_and_cash_equivalents": 805539000,
+          "financial_investments_identified": 0,
+          "financial_investments_deducted": 0
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 642156000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 702469000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 805539000
             }
           ],
           "financial_investments": [
@@ -11529,6 +13659,219 @@
       },
       {
         "company": "QUSW3",
+        "date": "2025-03-31",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": 45583188,
+        "divida_bruta": 76623008,
+        "caixa_equivalentes": 31039820,
+        "aplicacoes_financeiras_identificadas": 0,
+        "aplicacoes_financeiras_deduzidas": 0,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": 45583188,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 30138186,
+          "long_term_debt": 46484822,
+          "leases_included": 0,
+          "gross_debt": 76623008,
+          "cash_and_cash_equivalents": 31039820,
+          "financial_investments_identified": 0,
+          "financial_investments_deducted": 0
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 30138186
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 46484822
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 31039820
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 0
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "QUSW3",
+        "date": "2025-06-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": 52170342,
+        "divida_bruta": 81261863,
+        "caixa_equivalentes": 29091521,
+        "aplicacoes_financeiras_identificadas": 0,
+        "aplicacoes_financeiras_deduzidas": 0,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": 52170342,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 33700272,
+          "long_term_debt": 47561591,
+          "leases_included": 0,
+          "gross_debt": 81261863,
+          "cash_and_cash_equivalents": 29091521,
+          "financial_investments_identified": 0,
+          "financial_investments_deducted": 0
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 33700272
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 47561591
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 29091521
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 0
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "QUSW3",
+        "date": "2025-09-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": 45689258,
+        "divida_bruta": 75514935,
+        "caixa_equivalentes": 29825677,
+        "aplicacoes_financeiras_identificadas": 0,
+        "aplicacoes_financeiras_deduzidas": 0,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": 45689258,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 30821378,
+          "long_term_debt": 44693557,
+          "leases_included": 0,
+          "gross_debt": 75514935,
+          "cash_and_cash_equivalents": 29825677,
+          "financial_investments_identified": 0,
+          "financial_investments_deducted": 0
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 30821378
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 44693557
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 29825677
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 0
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "QUSW3",
         "date": "2025-12-31",
         "unit": "Reais integrais",
         "metric": "divida_liquida_padronizada",
@@ -12596,6 +14939,219 @@
       },
       {
         "company": "TOTS3",
+        "date": "2025-03-31",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -313722000,
+        "divida_bruta": 1629318000,
+        "caixa_equivalentes": 1943040000,
+        "aplicacoes_financeiras_identificadas": 0,
+        "aplicacoes_financeiras_deduzidas": 0,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -313722000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 93483000,
+          "long_term_debt": 1535835000,
+          "leases_included": 0,
+          "gross_debt": 1629318000,
+          "cash_and_cash_equivalents": 1943040000,
+          "financial_investments_identified": 0,
+          "financial_investments_deducted": 0
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 93483000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 1535835000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 1943040000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 0
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "TOTS3",
+        "date": "2025-06-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -401540000,
+        "divida_bruta": 1692700000,
+        "caixa_equivalentes": 2094240000,
+        "aplicacoes_financeiras_identificadas": 0,
+        "aplicacoes_financeiras_deduzidas": 0,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -401540000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 155497000,
+          "long_term_debt": 1537203000,
+          "leases_included": 0,
+          "gross_debt": 1692700000,
+          "cash_and_cash_equivalents": 2094240000,
+          "financial_investments_identified": 0,
+          "financial_investments_deducted": 0
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 155497000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 1537203000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 2094240000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 0
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "TOTS3",
+        "date": "2025-09-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -325994000,
+        "divida_bruta": 1679735000,
+        "caixa_equivalentes": 2005729000,
+        "aplicacoes_financeiras_identificadas": 0,
+        "aplicacoes_financeiras_deduzidas": 0,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -325994000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 111346000,
+          "long_term_debt": 1568389000,
+          "leases_included": 0,
+          "gross_debt": 1679735000,
+          "cash_and_cash_equivalents": 2005729000,
+          "financial_investments_identified": 0,
+          "financial_investments_deducted": 0
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 111346000
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 1568389000
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 2005729000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 0
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "TOTS3",
         "date": "2025-12-31",
         "unit": "Reais integrais",
         "metric": "divida_liquida_padronizada",
@@ -13649,6 +16205,219 @@
               "cd_conta": "1.01.01",
               "ds_conta": "Caixa e Equivalentes de Caixa",
               "vl_conta": 102030000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 0
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "WDCN3",
+        "date": "2025-03-31",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -144607000,
+        "divida_bruta": 0,
+        "caixa_equivalentes": 144607000,
+        "aplicacoes_financeiras_identificadas": 0,
+        "aplicacoes_financeiras_deduzidas": 0,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -144607000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 0,
+          "long_term_debt": 0,
+          "leases_included": 0,
+          "gross_debt": 0,
+          "cash_and_cash_equivalents": 144607000,
+          "financial_investments_identified": 0,
+          "financial_investments_deducted": 0
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 0
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 0
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 144607000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 0
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "WDCN3",
+        "date": "2025-06-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -131969000,
+        "divida_bruta": 0,
+        "caixa_equivalentes": 131969000,
+        "aplicacoes_financeiras_identificadas": 0,
+        "aplicacoes_financeiras_deduzidas": 0,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -131969000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 0,
+          "long_term_debt": 0,
+          "leases_included": 0,
+          "gross_debt": 0,
+          "cash_and_cash_equivalents": 131969000,
+          "financial_investments_identified": 0,
+          "financial_investments_deducted": 0
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 0
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 0
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 131969000
+            }
+          ],
+          "financial_investments": [
+            {
+              "cd_conta": "1.01.02",
+              "ds_conta": "Aplicações Financeiras",
+              "vl_conta": 0
+            }
+          ],
+          "leases": []
+        }
+      },
+      {
+        "company": "WDCN3",
+        "date": "2025-09-30",
+        "unit": "Reais integrais",
+        "metric": "divida_liquida_padronizada",
+        "value": -205248000,
+        "divida_bruta": 0,
+        "caixa_equivalentes": 205248000,
+        "aplicacoes_financeiras_identificadas": 0,
+        "aplicacoes_financeiras_deduzidas": 0,
+        "arrendamentos_incluidos": 0,
+        "divida_liquida_padronizada": -205248000,
+        "divida_liquida_divulgada": null,
+        "diferenca": null,
+        "metodologia": {
+          "methodology_version": "2.0",
+          "formula": "divida_bruta - caixa_equivalentes - aplicacoes_financeiras_deduzidas",
+          "net_debt_include_leases": false,
+          "deduct_financial_investments": true,
+          "fonte": "Balanço Patrimonial CVM"
+        },
+        "quality": {
+          "status": "validated",
+          "warnings": []
+        },
+        "components": {
+          "short_term_debt": 0,
+          "long_term_debt": 0,
+          "leases_included": 0,
+          "gross_debt": 0,
+          "cash_and_cash_equivalents": 205248000,
+          "financial_investments_identified": 0,
+          "financial_investments_deducted": 0
+        },
+        "formula": "gross_debt - cash_and_cash_equivalents - financial_investments_deducted",
+        "options_applied": {
+          "deduct_financial_investments": true,
+          "include_leases": false
+        },
+        "audit": {
+          "short_term_debt": [
+            {
+              "cd_conta": "2.01.04",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 0
+            }
+          ],
+          "long_term_debt": [
+            {
+              "cd_conta": "2.02.01",
+              "ds_conta": "Empréstimos e Financiamentos",
+              "vl_conta": 0
+            }
+          ],
+          "cash": [
+            {
+              "cd_conta": "1.01.01",
+              "ds_conta": "Caixa e Equivalentes de Caixa",
+              "vl_conta": 205248000
             }
           ],
           "financial_investments": [
