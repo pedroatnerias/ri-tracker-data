@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-09-14T14:12:49.832794+00:00",
+  "updated_at_utc": "2026-09-14T14:20:00.925758+00:00",
   "last_update": "2026-08-24T16:38:37.848741+00:00",
   "source_commit": "e3c89ddc99ff89bec02431b205d8dd9932b31655",
-  "workflow_run_id": "34853166623",
+  "workflow_run_id": "34854577100",
   "scope": "operational",
   "mode": "incremental",
   "status": "success",
@@ -206,8 +206,8 @@
     "tecnologia": {
       "components": {
         "financial": {
-          "last_update": "2026-09-14T14:12:49.832794+00:00",
-          "mode": "full",
+          "last_update": "2026-09-14T14:20:00.925758+00:00",
+          "mode": "",
           "status": "success",
           "updated": true
         },
