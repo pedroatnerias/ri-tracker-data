@@ -203,13 +203,10 @@
       "margem_ebitda": "charts/comparison/margem_ebitda.png",
       "margem_liquida": "charts/comparison/margem_liquida.png",
       "margem_operacional": "charts/comparison/margem_operacional.png",
-      "market_cap_share": "charts/comparison/market_cap_share.png",
-      "retorno_preco_setorial_30d": "charts/comparison/retorno_preco_setorial_30d.png",
-      "retorno_preco_setorial_360d": "charts/comparison/retorno_preco_setorial_360d.png",
-      "retorno_preco_setorial_90d": "charts/comparison/retorno_preco_setorial_90d.png"
+      "market_cap_share": "charts/comparison/market_cap_share.png"
     }
   },
-  "data_version": "e3c89ddc99ff89bec02431b205d8dd9932b31655",
+  "data_version": "98686e4425b31821ebcf6a97f8bbb4ebb22e6ec4",
   "tracking": {
     "run_id": "34849602351",
     "sector": "tecnologia",

@@ -10008,12 +10008,12 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 5831751.764884,
+          "market_cap_historico": 5831751764.884,
           "divida_liquida": 8149000000.0,
           "divida_liquida_padronizada": 8149000000.0,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 8154831751.764884,
-          "ev": 8154831751.764884,
+          "enterprise_value": 13980751764.883999,
+          "ev": 13980751764.883999,
           "ev_ebitda": null,
           "ev_ebitda_ltm": null,
           "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
@@ -10057,7 +10057,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 8154831751.764884,
+                "enterprise_value": 13980751764.883999,
                 "ebitda_contabil_ltm": null
               }
             }
@@ -10123,12 +10123,12 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 2685123.90823,
+          "market_cap_historico": 2685123908.23,
           "divida_liquida": 7633000000.0,
           "divida_liquida_padronizada": 7633000000.0,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 7635685123.90823,
-          "ev": 7635685123.90823,
+          "enterprise_value": 10318123908.23,
+          "ev": 10318123908.23,
           "ev_ebitda": null,
           "ev_ebitda_ltm": null,
           "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
@@ -10172,7 +10172,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 7635685123.90823,
+                "enterprise_value": 10318123908.23,
                 "ebitda_contabil_ltm": null
               }
             }
@@ -10238,12 +10238,12 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 2685123.90823,
+          "market_cap_historico": 2685123908.23,
           "divida_liquida": 7633000000.0,
           "divida_liquida_padronizada": 7633000000.0,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 7635685123.90823,
-          "ev": 7635685123.90823,
+          "enterprise_value": 10318123908.23,
+          "ev": 10318123908.23,
           "ev_ebitda": null,
           "ev_ebitda_ltm": null,
           "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
@@ -10287,7 +10287,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 7635685123.90823,
+                "enterprise_value": 10318123908.23,
                 "ebitda_contabil_ltm": null
               }
             }
@@ -10353,12 +10353,12 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 4461235.306879,
+          "market_cap_historico": 4461235306.879,
           "divida_liquida": 8084000000.0,
           "divida_liquida_padronizada": 8084000000.0,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 8088461235.306879,
-          "ev": 8088461235.306879,
+          "enterprise_value": 12545235306.879,
+          "ev": 12545235306.879,
           "ev_ebitda": null,
           "ev_ebitda_ltm": null,
           "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
@@ -10402,7 +10402,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 8088461235.306879,
+                "enterprise_value": 12545235306.879,
                 "ebitda_contabil_ltm": null
               }
             }
@@ -10468,12 +10468,12 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 4461235.306879,
+          "market_cap_historico": 4461235306.879,
           "divida_liquida": 8084000000.0,
           "divida_liquida_padronizada": 8084000000.0,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 8088461235.306879,
-          "ev": 8088461235.306879,
+          "enterprise_value": 12545235306.879,
+          "ev": 12545235306.879,
           "ev_ebitda": null,
           "ev_ebitda_ltm": null,
           "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
@@ -10517,7 +10517,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 8088461235.306879,
+                "enterprise_value": 12545235306.879,
                 "ebitda_contabil_ltm": null
               }
             }
@@ -10583,14 +10583,14 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 3356414.185558,
+          "market_cap_historico": 3356414185.558,
           "divida_liquida": 7359000000.0,
           "divida_liquida_padronizada": 7359000000.0,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 7362356414.185558,
-          "ev": 7362356414.185558,
-          "ev_ebitda": 6.13018852138681,
-          "ev_ebitda_ltm": 6.13018852138681,
+          "enterprise_value": 10715414185.558,
+          "ev": 10715414185.558,
+          "ev_ebitda": 8.922076757333889,
+          "ev_ebitda_ltm": 8.922076757333889,
           "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
           "lucro_liquido": -342000000.0,
           "margens_percentual": {
@@ -10632,7 +10632,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 7362356414.185558,
+                "enterprise_value": 10715414185.558,
                 "ebitda_contabil_ltm": 1201000000.0
               }
             }
@@ -10689,14 +10689,14 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 3356414.185558,
+          "market_cap_historico": 3356414185.558,
           "divida_liquida": 7359000000.0,
           "divida_liquida_padronizada": 7359000000.0,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 7362356414.185558,
-          "ev": 7362356414.185558,
-          "ev_ebitda": 6.13018852138681,
-          "ev_ebitda_ltm": 6.13018852138681,
+          "enterprise_value": 10715414185.558,
+          "ev": 10715414185.558,
+          "ev_ebitda": 8.922076757333889,
+          "ev_ebitda_ltm": 8.922076757333889,
           "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
           "lucro_liquido": -163000000.0,
           "margens_percentual": {
@@ -10738,7 +10738,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 7362356414.185558,
+                "enterprise_value": 10715414185.558,
                 "ebitda_contabil_ltm": 1201000000.0
               }
             }
@@ -10794,14 +10794,14 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 2629192.017798,
+          "market_cap_historico": 2629192017.798,
           "divida_liquida": 8178000000.0,
           "divida_liquida_padronizada": 8178000000.0,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 8180629192.017798,
-          "ev": 8180629192.017798,
-          "ev_ebitda": 7.457273648147492,
-          "ev_ebitda_ltm": 7.457273648147492,
+          "enterprise_value": 10807192017.798,
+          "ev": 10807192017.798,
+          "ev_ebitda": 9.851587983407475,
+          "ev_ebitda_ltm": 9.851587983407475,
           "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
           "lucro_liquido": -297000000.0,
           "margens_percentual": {
@@ -10843,7 +10843,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 8180629192.017798,
+                "enterprise_value": 10807192017.798,
                 "ebitda_contabil_ltm": 1097000000.0
               }
             }
@@ -10899,14 +10899,14 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 3006787.774497,
+          "market_cap_historico": 3006787774.4969997,
           "divida_liquida": 7817000000.0,
           "divida_liquida_padronizada": 7817000000.0,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 7820006787.774497,
-          "ev": 7820006787.774497,
-          "ev_ebitda": 12.777788868912577,
-          "ev_ebitda_ltm": 12.777788868912577,
+          "enterprise_value": 10823787774.497,
+          "ev": 10823787774.497,
+          "ev_ebitda": 17.68592773610621,
+          "ev_ebitda_ltm": 17.68592773610621,
           "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
           "lucro_liquido": -789000000.0,
           "margens_percentual": {
@@ -10948,7 +10948,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 7820006787.774497,
+                "enterprise_value": 10823787774.497,
                 "ebitda_contabil_ltm": 612000000.0
               }
             }
@@ -11004,14 +11004,14 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 3006787.774497,
+          "market_cap_historico": 3006787774.4969997,
           "divida_liquida": 7817000000.0,
           "divida_liquida_padronizada": 7817000000.0,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 7820006787.774497,
-          "ev": 7820006787.774497,
-          "ev_ebitda": 12.777788868912577,
-          "ev_ebitda_ltm": 12.777788868912577,
+          "enterprise_value": 10823787774.497,
+          "ev": 10823787774.497,
+          "ev_ebitda": 17.68592773610621,
+          "ev_ebitda_ltm": 17.68592773610621,
           "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
           "lucro_liquido": -492000000.0,
           "margens_percentual": {
@@ -11053,7 +11053,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 7820006787.774497,
+                "enterprise_value": 10823787774.497,
                 "ebitda_contabil_ltm": 612000000.0
               }
             }
@@ -39970,15 +39970,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 632673.0635,
-          "divida_liquida": -27723000.0,
-          "divida_liquida_padronizada": -27723000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": -27090326.9365,
-          "ev": -27090326.9365,
+          "enterprise_value": null,
+          "ev": null,
           "ev_ebitda": null,
           "ev_ebitda_ltm": null,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -25915000.0,
           "margens_percentual": {
             "margem_bruta": 39.099386599353906,
@@ -40019,7 +40019,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": -27090326.9365,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": null
               }
             }
@@ -40085,15 +40085,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 246098.17702,
-          "divida_liquida": -23090000.0,
-          "divida_liquida_padronizada": -23090000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": -22843901.82298,
-          "ev": -22843901.82298,
+          "enterprise_value": null,
+          "ev": null,
           "ev_ebitda": null,
           "ev_ebitda_ltm": null,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -53760000.0,
           "margens_percentual": {
             "margem_bruta": 38.53474680774892,
@@ -40134,7 +40134,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": -22843901.82298,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": null
               }
             }
@@ -40200,15 +40200,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 246098.17702,
-          "divida_liquida": -23090000.0,
-          "divida_liquida_padronizada": -23090000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": -22843901.82298,
-          "ev": -22843901.82298,
+          "enterprise_value": null,
+          "ev": null,
           "ev_ebitda": null,
           "ev_ebitda_ltm": null,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -27840000.0,
           "margens_percentual": {
             "margem_bruta": 37.95511993116059,
@@ -40249,7 +40249,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": -22843901.82298,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": null
               }
             }
@@ -40315,15 +40315,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 276728.42816999997,
-          "divida_liquida": -44293000.0,
-          "divida_liquida_padronizada": -44293000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": -44016271.57183,
-          "ev": -44016271.57183,
+          "enterprise_value": null,
+          "ev": null,
           "ev_ebitda": null,
           "ev_ebitda_ltm": null,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -72991000.0,
           "margens_percentual": {
             "margem_bruta": 38.98401715126803,
@@ -40364,7 +40364,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": -44016271.57183,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": null
               }
             }
@@ -40430,15 +40430,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 276728.42816999997,
-          "divida_liquida": -44293000.0,
-          "divida_liquida_padronizada": -44293000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": -44016271.57183,
-          "ev": -44016271.57183,
+          "enterprise_value": null,
+          "ev": null,
           "ev_ebitda": null,
           "ev_ebitda_ltm": null,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -19231000.0,
           "margens_percentual": {
             "margem_bruta": 39.833247722973226,
@@ -40479,7 +40479,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": -44016271.57183,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": null
               }
             }
@@ -40545,15 +40545,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 316864.61566,
-          "divida_liquida": -60488000.0,
-          "divida_liquida_padronizada": -60488000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": -60171135.38434,
-          "ev": -60171135.38434,
-          "ev_ebitda": 0.8059137899378533,
-          "ev_ebitda_ltm": 0.8059137899378533,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "enterprise_value": null,
+          "ev": null,
+          "ev_ebitda": null,
+          "ev_ebitda_ltm": null,
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -89838000.0,
           "margens_percentual": {
             "margem_bruta": 39.900229021173864,
@@ -40594,12 +40594,18 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": -60171135.38434,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": -74662000.0
               }
             }
           },
-          "quality_flags": [],
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ],
           "capital_giro": 353618000.0,
           "capital_giro_percentual_receita": 55.507888594306024,
           "periodo_individual": {
@@ -40618,12 +40624,11 @@
           },
           "ebitda_contabil_ltm": -74662000.0,
           "ebitda_ltm": -74662000.0,
-          "data_market_cap": "2022-12-31",
-          "data_divida_liquida": "2022-12-31",
-          "data_ebitda_ltm": "2022-12-31",
           "quality_ev_ebitda_ltm": {
-            "status": "validated",
-            "warnings": []
+            "status": "incomplete",
+            "warnings": [
+              "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            ]
           }
         },
         {
@@ -40651,15 +40656,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 316864.61566,
-          "divida_liquida": -60488000.0,
-          "divida_liquida_padronizada": -60488000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": -60171135.38434,
-          "ev": -60171135.38434,
-          "ev_ebitda": 2.5041048476565817,
-          "ev_ebitda_ltm": 2.5041048476565817,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "enterprise_value": null,
+          "ev": null,
+          "ev_ebitda": null,
+          "ev_ebitda_ltm": null,
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -16852000.0,
           "margens_percentual": {
             "margem_bruta": 42.30416896632167,
@@ -40700,12 +40705,18 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": -60171135.38434,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": -24029000.0
               }
             }
           },
-          "quality_flags": [],
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ],
           "capital_giro": 353618000.0,
           "capital_giro_percentual_receita": 201.2039760797947,
           "periodo_individual": {
@@ -40724,12 +40735,11 @@
           },
           "ebitda_contabil_ltm": -24029000.0,
           "ebitda_ltm": -24029000.0,
-          "data_market_cap": "2022-12-31",
-          "data_divida_liquida": "2022-12-31",
-          "data_ebitda_ltm": "2022-12-31",
           "quality_ev_ebitda_ltm": {
-            "status": "validated",
-            "warnings": []
+            "status": "incomplete",
+            "warnings": [
+              "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            ]
           }
         },
         {
@@ -40756,15 +40766,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 201737.10527,
-          "divida_liquida": -26973000.0,
-          "divida_liquida_padronizada": -26973000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": -26771262.89473,
-          "ev": -26771262.89473,
-          "ev_ebitda": 1.7320951665844981,
-          "ev_ebitda_ltm": 1.7320951665844981,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "enterprise_value": null,
+          "ev": null,
+          "ev_ebitda": null,
+          "ev_ebitda_ltm": null,
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -22539000.0,
           "margens_percentual": {
             "margem_bruta": 43.45218623923237,
@@ -40805,12 +40815,18 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": -26771262.89473,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": -15456000.0
               }
             }
           },
-          "quality_flags": [],
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ],
           "capital_giro": 333110000.0,
           "capital_giro_percentual_receita": 227.01313924326683,
           "periodo_individual": {
@@ -40829,12 +40845,11 @@
           },
           "ebitda_contabil_ltm": -15456000.0,
           "ebitda_ltm": -15456000.0,
-          "data_market_cap": "2023-03-31",
-          "data_divida_liquida": "2023-03-31",
-          "data_ebitda_ltm": "2023-03-31",
           "quality_ev_ebitda_ltm": {
-            "status": "validated",
-            "warnings": []
+            "status": "incomplete",
+            "warnings": [
+              "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            ]
           }
         },
         {
@@ -40861,15 +40876,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 478465.53344,
-          "divida_liquida": 10490000.0,
-          "divida_liquida_padronizada": 10490000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 10968465.53344,
-          "ev": 10968465.53344,
-          "ev_ebitda": -1.0855567630087093,
-          "ev_ebitda_ltm": -1.0855567630087093,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "enterprise_value": null,
+          "ev": null,
+          "ev_ebitda": null,
+          "ev_ebitda_ltm": null,
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -39686000.0,
           "margens_percentual": {
             "margem_bruta": 43.62981556258867,
@@ -40910,12 +40925,18 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 10968465.53344,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": -10104000.0
               }
             }
           },
-          "quality_flags": [],
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ],
           "capital_giro": 322831000.0,
           "capital_giro_percentual_receita": 117.44006693586526,
           "periodo_individual": {
@@ -40934,12 +40955,11 @@
           },
           "ebitda_contabil_ltm": -10104000.0,
           "ebitda_ltm": -10104000.0,
-          "data_market_cap": "2023-06-30",
-          "data_divida_liquida": "2023-06-30",
-          "data_ebitda_ltm": "2023-06-30",
           "quality_ev_ebitda_ltm": {
-            "status": "validated",
-            "warnings": []
+            "status": "incomplete",
+            "warnings": [
+              "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            ]
           }
         },
         {
@@ -40966,15 +40986,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 478465.53344,
-          "divida_liquida": 10490000.0,
-          "divida_liquida_padronizada": 10490000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 10968465.53344,
-          "ev": 10968465.53344,
-          "ev_ebitda": -1.0854493353231074,
-          "ev_ebitda_ltm": -1.0854493353231074,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "enterprise_value": null,
+          "ev": null,
+          "ev_ebitda": null,
+          "ev_ebitda_ltm": null,
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -17147000.0,
           "margens_percentual": {
             "margem_bruta": 43.833200680431354,
@@ -41015,12 +41035,18 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 10968465.53344,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": -10105000.0
               }
             }
           },
-          "quality_flags": [],
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ],
           "capital_giro": 322831000.0,
           "capital_giro_percentual_receita": 251.90864116609703,
           "periodo_individual": {
@@ -41039,12 +41065,11 @@
           },
           "ebitda_contabil_ltm": -10105000.0,
           "ebitda_ltm": -10105000.0,
-          "data_market_cap": "2023-06-30",
-          "data_divida_liquida": "2023-06-30",
-          "data_ebitda_ltm": "2023-06-30",
           "quality_ev_ebitda_ltm": {
-            "status": "validated",
-            "warnings": []
+            "status": "incomplete",
+            "warnings": [
+              "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            ]
           }
         },
         {
@@ -41071,15 +41096,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 407699.20129,
-          "divida_liquida": 42394000.0,
-          "divida_liquida_padronizada": 42394000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 42801699.20129,
-          "ev": 42801699.20129,
-          "ev_ebitda": -3.33814531284433,
-          "ev_ebitda_ltm": -3.33814531284433,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "enterprise_value": null,
+          "ev": null,
+          "ev_ebitda": null,
+          "ev_ebitda_ltm": null,
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -63977000.0,
           "margens_percentual": {
             "margem_bruta": 43.357085349244926,
@@ -41120,12 +41145,18 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 42801699.20129,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": -12822000.0
               }
             }
           },
-          "quality_flags": [],
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ],
           "capital_giro": 274523000.0,
           "capital_giro_percentual_receita": 68.85400912458647,
           "periodo_individual": {
@@ -41144,12 +41175,11 @@
           },
           "ebitda_contabil_ltm": -12822000.0,
           "ebitda_ltm": -12822000.0,
-          "data_market_cap": "2023-09-30",
-          "data_divida_liquida": "2023-09-30",
-          "data_ebitda_ltm": "2023-09-30",
           "quality_ev_ebitda_ltm": {
-            "status": "validated",
-            "warnings": []
+            "status": "incomplete",
+            "warnings": [
+              "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            ]
           }
         },
         {
@@ -41176,15 +41206,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 407699.20129,
-          "divida_liquida": 42394000.0,
-          "divida_liquida_padronizada": 42394000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 42801699.20129,
-          "ev": 42801699.20129,
-          "ev_ebitda": -3.337884988012945,
-          "ev_ebitda_ltm": -3.337884988012945,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "enterprise_value": null,
+          "ev": null,
+          "ev_ebitda": null,
+          "ev_ebitda_ltm": null,
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -24292000.0,
           "margens_percentual": {
             "margem_bruta": 42.75076122862704,
@@ -41225,12 +41255,18 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 42801699.20129,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": -12823000.0
               }
             }
           },
-          "quality_flags": [],
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ],
           "capital_giro": 274523000.0,
           "capital_giro_percentual_receita": 221.72389006000986,
           "periodo_individual": {
@@ -41249,12 +41285,11 @@
           },
           "ebitda_contabil_ltm": -12823000.0,
           "ebitda_ltm": -12823000.0,
-          "data_market_cap": "2023-09-30",
-          "data_divida_liquida": "2023-09-30",
-          "data_ebitda_ltm": "2023-09-30",
           "quality_ev_ebitda_ltm": {
-            "status": "validated",
-            "warnings": []
+            "status": "incomplete",
+            "warnings": [
+              "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            ]
           }
         },
         {
@@ -41281,15 +41316,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 214411.75805,
-          "divida_liquida": -116590000.0,
-          "divida_liquida_padronizada": -116590000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": -116375588.24195,
-          "ev": -116375588.24195,
-          "ev_ebitda": 1.8035456752619101,
-          "ev_ebitda_ltm": 1.8035456752619101,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "enterprise_value": null,
+          "ev": null,
+          "ev_ebitda": null,
+          "ev_ebitda_ltm": null,
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -85145000.0,
           "margens_percentual": {
             "margem_bruta": 43.395443071608874,
@@ -41330,12 +41365,18 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": -116375588.24195,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": -64526000.0
               }
             }
           },
-          "quality_flags": [],
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ],
           "capital_giro": 259354000.0,
           "capital_giro_percentual_receita": 47.8562360686713,
           "periodo_individual": {
@@ -41354,12 +41395,11 @@
           },
           "ebitda_contabil_ltm": -64526000.0,
           "ebitda_ltm": -64526000.0,
-          "data_market_cap": "2023-12-31",
-          "data_divida_liquida": "2023-12-31",
-          "data_ebitda_ltm": "2023-12-31",
           "quality_ev_ebitda_ltm": {
-            "status": "validated",
-            "warnings": []
+            "status": "incomplete",
+            "warnings": [
+              "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            ]
           }
         },
         {
@@ -41387,15 +41427,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 214411.75805,
-          "divida_liquida": -116590000.0,
-          "divida_liquida_padronizada": -116590000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": -116375588.24195,
-          "ev": -116375588.24195,
-          "ev_ebitda": 5.728836676279906,
-          "ev_ebitda_ltm": 5.728836676279906,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "enterprise_value": null,
+          "ev": null,
+          "ev_ebitda": null,
+          "ev_ebitda_ltm": null,
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -21167000.0,
           "margens_percentual": {
             "margem_bruta": 43.50290768704491,
@@ -41436,12 +41476,18 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": -116375588.24195,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": -20314000.0
               }
             }
           },
-          "quality_flags": [],
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ],
           "capital_giro": 259354000.0,
           "capital_giro_percentual_receita": 181.06128831828875,
           "periodo_individual": {
@@ -41460,12 +41506,11 @@
           },
           "ebitda_contabil_ltm": -20314000.0,
           "ebitda_ltm": -20314000.0,
-          "data_market_cap": "2023-12-31",
-          "data_divida_liquida": "2023-12-31",
-          "data_ebitda_ltm": "2023-12-31",
           "quality_ev_ebitda_ltm": {
-            "status": "validated",
-            "warnings": []
+            "status": "incomplete",
+            "warnings": [
+              "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            ]
           }
         },
         {
@@ -41492,15 +41537,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 227084.171874,
-          "divida_liquida": 56441000.0,
-          "divida_liquida_padronizada": 56441000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 56668084.171874,
-          "ev": 56668084.171874,
-          "ev_ebitda": -2.406288075238811,
-          "ev_ebitda_ltm": -2.406288075238811,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "enterprise_value": null,
+          "ev": null,
+          "ev_ebitda": null,
+          "ev_ebitda_ltm": null,
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -21273000.0,
           "margens_percentual": {
             "margem_bruta": 46.00523021935181,
@@ -41541,12 +41586,18 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 56668084.171874,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": -23550000.0
               }
             }
           },
-          "quality_flags": [],
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ],
           "capital_giro": 248989000.0,
           "capital_giro_percentual_receita": 171.803045671269,
           "periodo_individual": {
@@ -41565,12 +41616,11 @@
           },
           "ebitda_contabil_ltm": -23550000.0,
           "ebitda_ltm": -23550000.0,
-          "data_market_cap": "2024-03-31",
-          "data_divida_liquida": "2024-03-31",
-          "data_ebitda_ltm": "2024-03-31",
           "quality_ev_ebitda_ltm": {
-            "status": "validated",
-            "warnings": []
+            "status": "incomplete",
+            "warnings": [
+              "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            ]
           }
         },
         {
@@ -41597,15 +41647,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 229196.59416699997,
-          "divida_liquida": -71515000.0,
-          "divida_liquida_padronizada": -71515000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": -71285803.405833,
-          "ev": -71285803.405833,
-          "ev_ebitda": 1.877325487354709,
-          "ev_ebitda_ltm": 1.877325487354709,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "enterprise_value": null,
+          "ev": null,
+          "ev_ebitda": null,
+          "ev_ebitda_ltm": null,
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -36306000.0,
           "margens_percentual": {
             "margem_bruta": 45.16352230268924,
@@ -41646,12 +41696,18 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": -71285803.405833,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": -37972000.0
               }
             }
           },
-          "quality_flags": [],
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ],
           "capital_giro": 212860000.0,
           "capital_giro_percentual_receita": 75.52860442753888,
           "periodo_individual": {
@@ -41670,12 +41726,11 @@
           },
           "ebitda_contabil_ltm": -37972000.0,
           "ebitda_ltm": -37972000.0,
-          "data_market_cap": "2024-06-30",
-          "data_divida_liquida": "2024-06-30",
-          "data_ebitda_ltm": "2024-06-30",
           "quality_ev_ebitda_ltm": {
-            "status": "validated",
-            "warnings": []
+            "status": "incomplete",
+            "warnings": [
+              "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            ]
           }
         },
         {
@@ -41702,15 +41757,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 229196.59416699997,
-          "divida_liquida": -71515000.0,
-          "divida_liquida_padronizada": -71515000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": -71285803.405833,
-          "ev": -71285803.405833,
-          "ev_ebitda": 1.8774243720261523,
-          "ev_ebitda_ltm": 1.8774243720261523,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "enterprise_value": null,
+          "ev": null,
+          "ev_ebitda": null,
+          "ev_ebitda_ltm": null,
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -15032000.0,
           "margens_percentual": {
             "margem_bruta": 44.27246165084003,
@@ -41751,12 +41806,18 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": -71285803.405833,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": -37970000.0
               }
             }
           },
-          "quality_flags": [],
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ],
           "capital_giro": 212860000.0,
           "capital_giro_percentual_receita": 155.48575602629657,
           "periodo_individual": {
@@ -41775,12 +41836,11 @@
           },
           "ebitda_contabil_ltm": -37970000.0,
           "ebitda_ltm": -37970000.0,
-          "data_market_cap": "2024-06-30",
-          "data_divida_liquida": "2024-06-30",
-          "data_ebitda_ltm": "2024-06-30",
           "quality_ev_ebitda_ltm": {
-            "status": "validated",
-            "warnings": []
+            "status": "incomplete",
+            "warnings": [
+              "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            ]
           }
         },
         {
@@ -41807,15 +41867,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 287287.941002,
-          "divida_liquida": -4797000.0,
-          "divida_liquida_padronizada": -4797000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": -4509712.058998,
-          "ev": -4509712.058998,
-          "ev_ebitda": 0.38008529785065315,
-          "ev_ebitda_ltm": 0.38008529785065315,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "enterprise_value": null,
+          "ev": null,
+          "ev_ebitda": null,
+          "ev_ebitda_ltm": null,
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -58725000.0,
           "margens_percentual": {
             "margem_bruta": 44.811019910154734,
@@ -41856,12 +41916,18 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": -4509712.058998,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": -11865000.0
               }
             }
           },
-          "quality_flags": [],
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ],
           "capital_giro": 190528000.0,
           "capital_giro_percentual_receita": 44.02787791396299,
           "periodo_individual": {
@@ -41880,12 +41946,11 @@
           },
           "ebitda_contabil_ltm": -11865000.0,
           "ebitda_ltm": -11865000.0,
-          "data_market_cap": "2024-09-30",
-          "data_divida_liquida": "2024-09-30",
-          "data_ebitda_ltm": "2024-09-30",
           "quality_ev_ebitda_ltm": {
-            "status": "validated",
-            "warnings": []
+            "status": "incomplete",
+            "warnings": [
+              "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            ]
           }
         },
         {
@@ -41912,15 +41977,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 287287.941002,
-          "divida_liquida": -4797000.0,
-          "divida_liquida_padronizada": -4797000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": -4509712.058998,
-          "ev": -4509712.058998,
-          "ev_ebitda": 0.3799892196661611,
-          "ev_ebitda_ltm": 0.3799892196661611,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "enterprise_value": null,
+          "ev": null,
+          "ev_ebitda": null,
+          "ev_ebitda_ltm": null,
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -22422000.0,
           "margens_percentual": {
             "margem_bruta": 44.15075836386888,
@@ -41961,12 +42026,18 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": -4509712.058998,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": -11868000.0
               }
             }
           },
-          "quality_flags": [],
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ],
           "capital_giro": 190528000.0,
           "capital_giro_percentual_receita": 126.2468774226893,
           "periodo_individual": {
@@ -41985,12 +42056,11 @@
           },
           "ebitda_contabil_ltm": -11868000.0,
           "ebitda_ltm": -11868000.0,
-          "data_market_cap": "2024-09-30",
-          "data_divida_liquida": "2024-09-30",
-          "data_ebitda_ltm": "2024-09-30",
           "quality_ev_ebitda_ltm": {
-            "status": "validated",
-            "warnings": []
+            "status": "incomplete",
+            "warnings": [
+              "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            ]
           }
         },
         {
@@ -42017,15 +42087,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 191166.052548,
-          "divida_liquida": 334797000.0,
-          "divida_liquida_padronizada": 334797000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 334988166.052548,
-          "ev": 334988166.052548,
-          "ev_ebitda": -3.8785694641890953,
-          "ev_ebitda_ltm": -3.8785694641890953,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "enterprise_value": null,
+          "ev": null,
+          "ev_ebitda": null,
+          "ev_ebitda_ltm": null,
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -164081000.0,
           "margens_percentual": {
             "margem_bruta": 46.16449518427706,
@@ -42066,12 +42136,18 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 334988166.052548,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": -86369000.0
               }
             }
           },
-          "quality_flags": [],
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ],
           "capital_giro": 95075000.0,
           "capital_giro_percentual_receita": 11.720334271453174,
           "periodo_individual": {
@@ -42090,12 +42166,11 @@
           },
           "ebitda_contabil_ltm": -86369000.0,
           "ebitda_ltm": -86369000.0,
-          "data_market_cap": "2024-12-31",
-          "data_divida_liquida": "2024-12-31",
-          "data_ebitda_ltm": "2024-12-31",
           "quality_ev_ebitda_ltm": {
-            "status": "validated",
-            "warnings": []
+            "status": "incomplete",
+            "warnings": [
+              "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            ]
           }
         },
         {
@@ -42123,15 +42198,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 191166.052548,
-          "divida_liquida": 334797000.0,
-          "divida_liquida_padronizada": 334797000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 334988166.052548,
-          "ev": 334988166.052548,
-          "ev_ebitda": -6.071926156471778,
-          "ev_ebitda_ltm": -6.071926156471778,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "enterprise_value": null,
+          "ev": null,
+          "ev_ebitda": null,
+          "ev_ebitda_ltm": null,
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -105354000.0,
           "margens_percentual": {
             "margem_bruta": 47.71292604365668,
@@ -42172,12 +42247,18 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 334988166.052548,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": -55170000.0
               }
             }
           },
-          "quality_flags": [],
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ],
           "capital_giro": 95075000.0,
           "capital_giro_percentual_receita": 25.12200986648276,
           "periodo_individual": {
@@ -42196,12 +42277,11 @@
           },
           "ebitda_contabil_ltm": -55170000.0,
           "ebitda_ltm": -55170000.0,
-          "data_market_cap": "2024-12-31",
-          "data_divida_liquida": "2024-12-31",
-          "data_ebitda_ltm": "2024-12-31",
           "quality_ev_ebitda_ltm": {
-            "status": "validated",
-            "warnings": []
+            "status": "incomplete",
+            "warnings": [
+              "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            ]
           }
         },
         {
@@ -42228,15 +42308,15 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 135156123.006044,
-          "divida_liquida": 597463000.0,
-          "divida_liquida_padronizada": 597463000.0,
+          "market_cap_historico": null,
+          "divida_liquida": null,
+          "divida_liquida_padronizada": null,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 732619123.006044,
-          "ev": 732619123.006044,
-          "ev_ebitda": -25.688808268384026,
-          "ev_ebitda_ltm": -25.688808268384026,
-          "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
+          "enterprise_value": null,
+          "ev": null,
+          "ev_ebitda": null,
+          "ev_ebitda_ltm": null,
+          "fonte_ev_ebitda": null,
           "lucro_liquido": -43858000.0,
           "margens_percentual": {
             "margem_bruta": 54.82496617830588,
@@ -42277,12 +42357,18 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 732619123.006044,
+                "enterprise_value": null,
                 "ebitda_contabil_ltm": -28519000.0
               }
             }
           },
-          "quality_flags": [],
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ],
           "capital_giro": 68070000.0,
           "capital_giro_percentual_receita": 17.846842784180886,
           "periodo_individual": {
@@ -42301,12 +42387,11 @@
           },
           "ebitda_contabil_ltm": -28519000.0,
           "ebitda_ltm": -28519000.0,
-          "data_market_cap": "2025-03-31",
-          "data_divida_liquida": "2025-03-31",
-          "data_ebitda_ltm": "2025-03-31",
           "quality_ev_ebitda_ltm": {
-            "status": "validated",
-            "warnings": []
+            "status": "incomplete",
+            "warnings": [
+              "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            ]
           }
         },
         {
@@ -43303,12 +43388,12 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 126203.469894,
+          "market_cap_historico": 126203469.894,
           "divida_liquida": 1748008000.0,
           "divida_liquida_padronizada": 1748008000.0,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 1748134203.469894,
-          "ev": 1748134203.469894,
+          "enterprise_value": 1874211469.894,
+          "ev": 1874211469.894,
           "ev_ebitda": null,
           "ev_ebitda_ltm": null,
           "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
@@ -43352,7 +43437,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 1748134203.469894,
+                "enterprise_value": 1874211469.894,
                 "ebitda_contabil_ltm": null
               }
             }
@@ -43418,12 +43503,12 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 102291.24218999999,
+          "market_cap_historico": 102291242.19,
           "divida_liquida": 1814356000.0,
           "divida_liquida_padronizada": 1814356000.0,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 1814458291.24219,
-          "ev": 1814458291.24219,
+          "enterprise_value": 1916647242.19,
+          "ev": 1916647242.19,
           "ev_ebitda": null,
           "ev_ebitda_ltm": null,
           "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
@@ -43467,7 +43552,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 1814458291.24219,
+                "enterprise_value": 1916647242.19,
                 "ebitda_contabil_ltm": null
               }
             }
@@ -43533,12 +43618,12 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 102291.24218999999,
+          "market_cap_historico": 102291242.19,
           "divida_liquida": 1814356000.0,
           "divida_liquida_padronizada": 1814356000.0,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 1814458291.24219,
-          "ev": 1814458291.24219,
+          "enterprise_value": 1916647242.19,
+          "ev": 1916647242.19,
           "ev_ebitda": null,
           "ev_ebitda_ltm": null,
           "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
@@ -43582,7 +43667,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 1814458291.24219,
+                "enterprise_value": 1916647242.19,
                 "ebitda_contabil_ltm": null
               }
             }
@@ -43648,12 +43733,12 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 106276.613474,
+          "market_cap_historico": 106276613.474,
           "divida_liquida": 1870768000.0,
           "divida_liquida_padronizada": 1870768000.0,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 1870874276.613474,
-          "ev": 1870874276.613474,
+          "enterprise_value": 1977044613.474,
+          "ev": 1977044613.474,
           "ev_ebitda": null,
           "ev_ebitda_ltm": null,
           "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
@@ -43697,7 +43782,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 1870874276.613474,
+                "enterprise_value": 1977044613.474,
                 "ebitda_contabil_ltm": null
               }
             }
@@ -43763,12 +43848,12 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 106276.613474,
+          "market_cap_historico": 106276613.474,
           "divida_liquida": 1870768000.0,
           "divida_liquida_padronizada": 1870768000.0,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 1870874276.613474,
-          "ev": 1870874276.613474,
+          "enterprise_value": 1977044613.474,
+          "ev": 1977044613.474,
           "ev_ebitda": null,
           "ev_ebitda_ltm": null,
           "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
@@ -43812,7 +43897,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 1870874276.613474,
+                "enterprise_value": 1977044613.474,
                 "ebitda_contabil_ltm": null
               }
             }
@@ -43878,14 +43963,14 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 1721696.428512,
+          "market_cap_historico": 1721696428.512,
           "divida_liquida": 227269000.0,
           "divida_liquida_padronizada": 227269000.0,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 228990696.428512,
-          "ev": 228990696.428512,
-          "ev_ebitda": 0.547145282361164,
-          "ev_ebitda_ltm": 0.547145282361164,
+          "enterprise_value": 1948965428.512,
+          "ev": 1948965428.512,
+          "ev_ebitda": 4.656814693029468,
+          "ev_ebitda_ltm": 4.656814693029468,
           "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
           "lucro_liquido": 55275000.0,
           "margens_percentual": {
@@ -43927,7 +44012,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 228990696.428512,
+                "enterprise_value": 1948965428.512,
                 "ebitda_contabil_ltm": 418519000.0
               }
             }
@@ -43984,14 +44069,14 @@
           "ebitda_ajustado_divulgado": null,
           "diferenca_ebitda_ajustado_vs_contabil": null,
           "diferenca_pct_ebitda_ajustado_vs_contabil": null,
-          "market_cap_historico": 1721696.428512,
+          "market_cap_historico": 1721696428.512,
           "divida_liquida": 227269000.0,
           "divida_liquida_padronizada": 227269000.0,
           "divida_liquida_divulgada": null,
-          "enterprise_value": 228990696.428512,
-          "ev": 228990696.428512,
-          "ev_ebitda": 0.547145282361164,
-          "ev_ebitda_ltm": 0.547145282361164,
+          "enterprise_value": 1948965428.512,
+          "ev": 1948965428.512,
+          "ev_ebitda": 4.656814693029468,
+          "ev_ebitda_ltm": 4.656814693029468,
           "fonte_ev_ebitda": "app_market_cap_historico + app_divida_liquida",
           "lucro_liquido": 224806000.0,
           "margens_percentual": {
@@ -44033,7 +44118,7 @@
               "ev_formula": "Market Cap historico + Divida liquida padronizada",
               "ebitda_ltm_formula": "Soma dos quatro ultimos trimestres individuais comparaveis",
               "components": {
-                "enterprise_value": 228990696.428512,
+                "enterprise_value": 1948965428.512,
                 "ebitda_contabil_ltm": 418519000.0
               }
             }

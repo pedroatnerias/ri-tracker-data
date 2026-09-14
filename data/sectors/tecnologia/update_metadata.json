@@ -1,18 +1,18 @@
 {
-  "updated_at_utc": "2026-09-14T14:20:00.925781+00:00",
-  "last_update": "2026-09-14T14:20:00.925758+00:00",
-  "source_commit": "e3c89ddc99ff89bec02431b205d8dd9932b31655",
-  "workflow_run_id": "34854577100",
+  "updated_at_utc": "2026-09-14T17:30:23.758150+00:00",
+  "last_update": "2026-09-14T17:30:23.758133+00:00",
+  "source_commit": "98686e4425b31821ebcf6a97f8bbb4ebb22e6ec4",
+  "workflow_run_id": "34871904488",
   "scope": "financial",
   "sector": "tecnologia",
-  "mode": "",
+  "mode": "full",
   "status": "success",
   "warnings": [],
   "operational_quality": {},
   "components": {
     "financial": {
-      "last_update": "2026-09-14T14:20:00.925758+00:00",
-      "mode": "",
+      "last_update": "2026-09-14T17:30:23.758133+00:00",
+      "mode": "full",
       "status": "success",
       "updated": true
     },
@@ -24,7 +24,7 @@
     }
   },
   "json_files_published": 10,
-  "chart_pngs_published": 166,
+  "chart_pngs_published": 163,
   "files": {
     "balanco": "balancos_itr_cvm_2022_2026.json",
     "dre": "DRE_ITR_CVM_ultimos_5_anos.json",
@@ -229,11 +229,8 @@
       "margem_ebitda": "charts/comparison/margem_ebitda.png",
       "margem_liquida": "charts/comparison/margem_liquida.png",
       "margem_operacional": "charts/comparison/margem_operacional.png",
-      "market_cap_share": "charts/comparison/market_cap_share.png",
-      "retorno_preco_setorial_30d": "charts/comparison/retorno_preco_setorial_30d.png",
-      "retorno_preco_setorial_360d": "charts/comparison/retorno_preco_setorial_360d.png",
-      "retorno_preco_setorial_90d": "charts/comparison/retorno_preco_setorial_90d.png"
+      "market_cap_share": "charts/comparison/market_cap_share.png"
     }
   },
-  "data_version": "e3c89ddc99ff89bec02431b205d8dd9932b31655"
+  "data_version": "98686e4425b31821ebcf6a97f8bbb4ebb22e6ec4"
 }

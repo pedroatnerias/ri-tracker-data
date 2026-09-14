@@ -1,7 +1,7 @@
 {
   "kind": "reconciliation_report",
   "methodology_version": "2.0",
-  "generated_at": "2026-09-14T14:10:26.621401+00:00",
+  "generated_at": "2026-09-14T17:19:36.301486+00:00",
   "sources": {
     "indicadores": "app_indicadores.py",
     "divida_liquida": "app_divida_liquida.py"
@@ -7030,9 +7030,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -264152000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -7040,14 +7040,14 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 1149119.76,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -263002880.24,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
               "value": null,
@@ -7111,9 +7111,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -230953000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -7121,14 +7121,14 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 1349089.1300000001,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -229603910.87,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
               "value": null,
@@ -7192,9 +7192,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -230953000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -7202,14 +7202,14 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 1349089.1300000001,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -229603910.87,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
               "value": null,
@@ -7273,9 +7273,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -208075000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -7283,14 +7283,14 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 1030940.9600000001,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -207044059.04,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
               "value": null,
@@ -7354,9 +7354,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -208075000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -7364,14 +7364,14 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 1030940.9600000001,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -207044059.04,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
               "value": null,
@@ -7435,9 +7435,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -181563000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -7445,19 +7445,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 621926.3400000001,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -180941073.66,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 2.4829304506408323,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -72874000.0,
@@ -7467,7 +7467,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/10/2022 a 31/12/2022",
@@ -7506,9 +7512,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -181563000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -7516,19 +7522,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 621926.3400000001,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -180941073.66,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 2.4829304506408323,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -24679000.0,
@@ -7538,7 +7544,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/01/2023 a 31/03/2023",
@@ -7576,9 +7588,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -163780000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -7586,19 +7598,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 266139.64999999997,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -163513860.35,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 2.2320273601517924,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -16593000.0,
@@ -7608,7 +7620,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/01/2023 a 30/06/2023",
@@ -7646,9 +7664,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -115506000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -7656,19 +7674,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 456639.61,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -115049360.39,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 1.4806486369720213,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -30446000.0,
@@ -7678,7 +7696,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/04/2023 a 30/06/2023",
@@ -7716,9 +7740,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -115506000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -7726,19 +7750,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 456639.61,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -115049360.39,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 1.4806486369720213,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -13853000.0,
@@ -7748,7 +7772,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/01/2023 a 30/09/2023",
@@ -7786,9 +7816,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -105029000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -7796,19 +7826,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 308161.7,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -104720838.3,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 1.9079699431549029,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -30207000.0,
@@ -7818,7 +7848,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/07/2023 a 30/09/2023",
@@ -7856,9 +7892,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -105029000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -7866,19 +7902,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 308161.7,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -104720838.3,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 1.9079699431549029,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": 239000.0,
@@ -7888,7 +7924,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/01/2023 a 31/12/2023",
@@ -7926,9 +7968,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -84575000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -7936,19 +7978,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 243727.88999999998,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -84331272.11,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.4780792767976598,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -176396000.0,
@@ -7958,7 +8000,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/10/2023 a 31/12/2023",
@@ -7997,9 +8045,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -84575000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -8007,19 +8055,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 243727.88999999998,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -84331272.11,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.4780792767976598,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -146189000.0,
@@ -8029,7 +8077,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/01/2024 a 31/03/2024",
@@ -8067,9 +8121,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -72880000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -8077,19 +8131,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 224117.6,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -72655882.4,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.42754347114830116,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -10135000.0,
@@ -8099,7 +8153,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/01/2024 a 30/06/2024",
@@ -8137,9 +8197,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -58448000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -8147,19 +8207,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 21211.13,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -58426788.87,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.33152396415054725,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -30287000.0,
@@ -8169,7 +8229,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/04/2024 a 30/06/2024",
@@ -8207,9 +8273,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -58448000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -8217,19 +8283,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 21211.13,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -58426788.87,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.3315258452870015,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -20151000.0,
@@ -8239,7 +8305,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/01/2024 a 30/09/2024",
@@ -8277,9 +8349,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -49070000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -8287,19 +8359,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 199304.58000000002,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -48870695.42,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.25728053771762194,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -43763000.0,
@@ -8309,7 +8381,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/07/2024 a 30/09/2024",
@@ -8347,9 +8425,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -49070000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -8357,19 +8435,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 199304.58000000002,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -48870695.42,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.25728053771762194,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -13476000.0,
@@ -8379,7 +8457,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/01/2024 a 31/12/2024",
@@ -8417,9 +8501,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -31646000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -8427,19 +8511,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 279746.79000000004,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -31366253.21,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.40591478537134573,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -77274000.0,
@@ -8449,7 +8533,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/10/2024 a 31/12/2024",
@@ -8488,9 +8578,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -31646000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -8498,19 +8588,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 279746.79000000004,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -31366253.21,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.40590953244299505,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -33512000.0,
@@ -8520,7 +8610,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/01/2025 a 31/03/2025",
@@ -8558,9 +8654,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -25855000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -8568,19 +8664,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 252532.50999999998,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -25602467.49,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.34005588452496377,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -8150000.0,
@@ -8590,7 +8686,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/01/2025 a 30/06/2025",
@@ -8628,9 +8730,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -23947000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -8638,19 +8740,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 273343.43,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -23673656.57,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.4317095495741926,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -7849000.0,
@@ -8660,7 +8762,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/04/2025 a 30/06/2025",
@@ -8698,9 +8806,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -23947000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -8708,19 +8816,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 273343.43,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -23673656.57,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.43375822804060243,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": 560000.0,
@@ -8730,7 +8838,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/01/2025 a 30/09/2025",
@@ -8768,9 +8882,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -25413000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -8778,19 +8892,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 198504.16,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -25214495.84,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.5104562280346586,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -16143000.0,
@@ -8800,7 +8914,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/07/2025 a 30/09/2025",
@@ -8838,9 +8958,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -25413000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -8848,19 +8968,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 198504.16,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -25214495.84,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.5104562280346586,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -8294000.0,
@@ -8870,7 +8990,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/01/2025 a 31/12/2025",
@@ -8908,9 +9034,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -9034000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -8918,19 +9044,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 161684.84,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -8872315.16,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.10321566281599368,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -86218000.0,
@@ -8940,7 +9066,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/10/2025 a 31/12/2025",
@@ -8979,9 +9111,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -9034000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -8989,19 +9121,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 161684.84,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -8872315.16,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.10290560161451205,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -70334000.0,
@@ -9011,7 +9143,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/01/2026 a 31/03/2026",
@@ -9049,9 +9187,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -3936000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -9059,19 +9197,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 87645.98999999999,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -3848354.01,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.04426040863504623,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -8880000.0,
@@ -9081,7 +9219,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/01/2026 a 30/06/2026",
@@ -9119,9 +9263,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -5189000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -9129,19 +9273,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 43622.89000000001,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -5145377.11,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.05656311750414986,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -12339000.0,
@@ -9151,7 +9295,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         },
         {
           "periodo": "01/04/2026 a 30/06/2026",
@@ -9189,9 +9339,9 @@
               "classification": "validated"
             },
             "divida_liquida_padronizada": {
-              "value": -5189000.0,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "divida_liquida_divulgada": {
               "value": null,
@@ -9199,19 +9349,19 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 43622.89000000001,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "enterprise_value": {
-              "value": -5145377.11,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ev_ebitda_ltm": {
-              "value": 0.056562495712778126,
-              "source": "CVM/calculado pelo sistema",
-              "classification": "validated"
+              "value": null,
+              "source": null,
+              "classification": "MISSING_DATA"
             },
             "ebitda_contabil_vs_ajustado": {
               "cvm_value": -3460000.0,
@@ -9221,7 +9371,13 @@
               "justification": "EBITDA ajustado divulgado possui metodologia propria da companhia quando disponivel."
             }
           },
-          "quality_flags": []
+          "quality_flags": [
+            {
+              "metric": "ev_ebitda_ltm",
+              "status": "incomplete",
+              "message": "EV ou EBITDA LTM indisponivel; nao ha anualizacao silenciosa."
+            }
+          ]
         }
       ]
     },
@@ -27353,12 +27509,12 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 1001629.87,
+              "value": 1001629870.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -15896370.13,
+              "value": 984731870.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -27434,12 +27590,12 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 441648.29,
+              "value": 441648290.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -228613351.71,
+              "value": 212593290.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -27515,12 +27671,12 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 441648.29,
+              "value": 441648290.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -228613351.71,
+              "value": 212593290.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -27596,12 +27752,12 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 418369.61,
+              "value": 418369610.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -179267630.39,
+              "value": 238683610.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -27677,12 +27833,12 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 418369.61,
+              "value": 418369610.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -179267630.39,
+              "value": 238683610.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -27758,17 +27914,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 380865.07,
+              "value": 380865070.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -152089134.93,
+              "value": 228395070.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.39150402582927046,
+              "value": 0.5879288446588447,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -27829,17 +27985,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 380865.07,
+              "value": 380865070.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -152089134.93,
+              "value": 228395070.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.3915030180320484,
+              "value": 0.587927331231096,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -27899,17 +28055,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 384744.85000000003,
+              "value": 384744850.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -133833255.15,
+              "value": 250526850.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.35183631097440754,
+              "value": 0.6586139043337671,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -27969,17 +28125,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 375045.39999999997,
+              "value": 375045400.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -71881954.6,
+              "value": 302788400.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.1901945938365715,
+              "value": 0.8011568004360492,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -28039,17 +28195,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 375045.39999999997,
+              "value": 375045400.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -71881954.6,
+              "value": 302788400.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.19019509707941512,
+              "value": 0.801158920246178,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -28109,17 +28265,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 256065.48,
+              "value": 256065480.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -98245934.52,
+              "value": 157563480.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.454503515990396,
+              "value": 0.7289172422407372,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -28179,17 +28335,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 256065.48,
+              "value": 256065480.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -98245934.52,
+              "value": 157563480.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.25048872058069893,
+              "value": 0.4017252694299329,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -28249,17 +28405,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 270937.97000000003,
+              "value": 270937970.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -101688062.03,
+              "value": 168978970.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.2508846437365229,
+              "value": 0.4169046773150958,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -28320,17 +28476,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 270937.97000000003,
+              "value": 270937970.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -101688062.03,
+              "value": 168978970.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.2508840247558096,
+              "value": 0.41690364873099955,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -28390,17 +28546,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 245719.4,
+              "value": 245719400.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -95464280.6,
+              "value": 150009400.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.23140948527878913,
+              "value": 0.36362917965549507,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -28460,17 +28616,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 230846.91,
+              "value": 230846910.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -75090153.09,
+              "value": 155525910.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.1799592416515283,
+              "value": 0.3727296279076456,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -28530,17 +28686,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 230846.91,
+              "value": 230846910.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -75090153.09,
+              "value": 155525910.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.17995837908374554,
+              "value": 0.3727278413666168,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -28600,17 +28756,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 254772.22,
+              "value": 254772220.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -52513227.78,
+              "value": 202004220.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.20905197028626935,
+              "value": 0.8041665306512419,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -28670,17 +28826,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 254772.22,
+              "value": 254772220.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -52513227.78,
+              "value": 202004220.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.12776661284789384,
+              "value": 0.49148369013817217,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -28740,17 +28896,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 144845.12000000002,
+              "value": 144845120.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -101885154.88,
+              "value": 42815120.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.24764630002868157,
+              "value": 0.10406821352700686,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -28811,17 +28967,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 144845.12000000002,
+              "value": 144845120.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -101885154.88,
+              "value": 42815120.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.24764750391335205,
+              "value": 0.10406871943453277,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -28881,17 +29037,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 187209.95,
+              "value": 187209950.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -144419790.05,
+              "value": 42602950.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.34044249113650726,
+              "value": 0.10042844143965753,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -28951,17 +29107,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 224017.33,
+              "value": 224017330.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -131744982.67,
+              "value": 92048330.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.320626974747991,
+              "value": 0.2240174690555807,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -29021,17 +29177,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 224017.33,
+              "value": 224017330.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -131744982.67,
+              "value": 92048330.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.3206378994314697,
+              "value": 0.22402510197525335,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -29091,17 +29247,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 229728.82,
+              "value": 229728820.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -205018271.18,
+              "value": 24480820.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.807231643731519,
+              "value": 0.0963899093224977,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
@@ -29161,17 +29317,17 @@
               "classification": "MISSING_DATA"
             },
             "market_cap_historico": {
-              "value": 229728.82,
+              "value": 229728820.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "enterprise_value": {
-              "value": -205018271.18,
+              "value": 24480820.0,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },
             "ev_ebitda_ltm": {
-              "value": -0.51223321568843,
+              "value": 0.06116473950889957,
               "source": "CVM/calculado pelo sistema",
               "classification": "validated"
             },

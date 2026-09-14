@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-09-11T17:33:10.092462+00:00",
-  "last_update": "2026-09-11T17:33:10.092438+00:00",
-  "source_commit": "1d40fd404752bae3b88106936e5f60ad97da183a",
-  "workflow_run_id": "34627191368",
+  "updated_at_utc": "2026-09-14T17:29:55.472831+00:00",
+  "last_update": "2026-09-14T17:29:55.472817+00:00",
+  "source_commit": "98686e4425b31821ebcf6a97f8bbb4ebb22e6ec4",
+  "workflow_run_id": "34871904488",
   "scope": "financial",
   "sector": "varejo",
   "mode": "full",
@@ -11,7 +11,7 @@
   "operational_quality": {},
   "components": {
     "financial": {
-      "last_update": "2026-09-11T17:33:10.092438+00:00",
+      "last_update": "2026-09-14T17:29:55.472817+00:00",
       "mode": "full",
       "status": "success",
       "updated": true
@@ -24,7 +24,7 @@
     }
   },
   "json_files_published": 10,
-  "chart_pngs_published": 202,
+  "chart_pngs_published": 199,
   "files": {
     "balanco": "balancos_itr_cvm_2022_2026.json",
     "dre": "DRE_ITR_CVM_ultimos_5_anos.json",
@@ -271,11 +271,8 @@
       "margem_ebitda": "charts/comparison/margem_ebitda.png",
       "margem_liquida": "charts/comparison/margem_liquida.png",
       "margem_operacional": "charts/comparison/margem_operacional.png",
-      "market_cap_share": "charts/comparison/market_cap_share.png",
-      "retorno_preco_setorial_30d": "charts/comparison/retorno_preco_setorial_30d.png",
-      "retorno_preco_setorial_360d": "charts/comparison/retorno_preco_setorial_360d.png",
-      "retorno_preco_setorial_90d": "charts/comparison/retorno_preco_setorial_90d.png"
+      "market_cap_share": "charts/comparison/market_cap_share.png"
     }
   },
-  "data_version": "1d40fd404752bae3b88106936e5f60ad97da183a"
+  "data_version": "98686e4425b31821ebcf6a97f8bbb4ebb22e6ec4"
 }

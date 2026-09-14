@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-09-11T14:37:32.996035+00:00",
-  "last_update": "2026-09-11T14:37:32.996012+00:00",
-  "source_commit": "7260524ba28aa41f032a8817fc251975d267ad71",
-  "workflow_run_id": "34608699441",
+  "updated_at_utc": "2026-09-14T17:29:21.360886+00:00",
+  "last_update": "2026-09-14T17:29:21.360871+00:00",
+  "source_commit": "98686e4425b31821ebcf6a97f8bbb4ebb22e6ec4",
+  "workflow_run_id": "34871904488",
   "scope": "financial",
   "sector": "construcao_civil",
   "mode": "full",
@@ -11,7 +11,7 @@
   "operational_quality": {},
   "components": {
     "financial": {
-      "last_update": "2026-09-11T14:37:32.996012+00:00",
+      "last_update": "2026-09-14T17:29:21.360871+00:00",
       "mode": "full",
       "status": "success",
       "updated": true
@@ -24,7 +24,7 @@
     }
   },
   "json_files_published": 10,
-  "chart_pngs_published": 323,
+  "chart_pngs_published": 319,
   "files": {
     "balanco": "balancos_itr_cvm_2022_2026.json",
     "dre": "DRE_ITR_CVM_ultimos_5_anos.json",
@@ -411,12 +411,8 @@
       "margem_ebitda": "charts/comparison/margem_ebitda.png",
       "margem_liquida": "charts/comparison/margem_liquida.png",
       "margem_operacional": "charts/comparison/margem_operacional.png",
-      "market_cap_setorial": "charts/comparison/market_cap_setorial.png",
-      "market_cap_share": "charts/comparison/market_cap_share.png",
-      "retorno_preco_setorial_30d": "charts/comparison/retorno_preco_setorial_30d.png",
-      "retorno_preco_setorial_360d": "charts/comparison/retorno_preco_setorial_360d.png",
-      "retorno_preco_setorial_90d": "charts/comparison/retorno_preco_setorial_90d.png"
+      "market_cap_share": "charts/comparison/market_cap_share.png"
     }
   },
-  "data_version": "7260524ba28aa41f032a8817fc251975d267ad71"
+  "data_version": "98686e4425b31821ebcf6a97f8bbb4ebb22e6ec4"
 }

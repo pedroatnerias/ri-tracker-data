@@ -1,6 +1,6 @@
 {
   "kind": "balanco_patrimonial_itr_cvm",
-  "generated_at": "2026-09-11T17:25:15",
+  "generated_at": "2026-09-14T17:13:12",
   "source": "https://dados.cvm.gov.br/dataset/cia_aberta-doc-itr",
   "dfp_source": "https://dados.cvm.gov.br/dataset/cia_aberta-doc-dfp",
   "years": [
@@ -11,7 +11,7 @@
     2026
   ],
   "criteria": "ITR trimestral e DFP anual quando disponivel; maior versao por companhia e data; apenas ORDEM_EXERC = ULTIMO",
-  "scope_note": "Consolidado, exceto RDOR3 (individual)",
+  "scope_note": "Consolidado, exceto WEST3 (individual)",
   "coverage": [
     {
       "ticker": "ALLD3",
