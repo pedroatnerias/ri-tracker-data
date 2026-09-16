@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-09-14T17:53:27.682732+00:00",
+  "updated_at_utc": "2026-09-16T18:14:22.977708+00:00",
   "last_update": "2026-08-24T16:38:37.848741+00:00",
   "source_commit": "92a8d93502af9be19d260e6fe8cb92b0e697a5da",
-  "workflow_run_id": "34876913198",
+  "workflow_run_id": "35131629801",
   "scope": "operational",
   "mode": "incremental",
   "status": "success",
@@ -158,7 +158,7 @@
     "construcao_civil": {
       "components": {
         "financial": {
-          "last_update": "2026-09-14T17:52:26.080816+00:00",
+          "last_update": "2026-09-16T18:13:18.998241+00:00",
           "mode": "",
           "status": "success",
           "updated": true
@@ -174,7 +174,7 @@
     "saude": {
       "components": {
         "financial": {
-          "last_update": "2026-09-14T17:51:17.165558+00:00",
+          "last_update": "2026-09-16T18:12:07.548796+00:00",
           "mode": "",
           "status": "success",
           "updated": true
@@ -190,7 +190,7 @@
     "varejo": {
       "components": {
         "financial": {
-          "last_update": "2026-09-14T17:52:59.761459+00:00",
+          "last_update": "2026-09-16T18:13:53.803555+00:00",
           "mode": "",
           "status": "success",
           "updated": true
@@ -206,7 +206,7 @@
     "tecnologia": {
       "components": {
         "financial": {
-          "last_update": "2026-09-14T17:53:27.682732+00:00",
+          "last_update": "2026-09-16T18:14:22.977708+00:00",
           "mode": "",
           "status": "success",
           "updated": true
