@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-09-16T18:14:22.977708+00:00",
+  "updated_at_utc": "2026-09-30T18:46:14.392125+00:00",
   "last_update": "2026-08-24T16:38:37.848741+00:00",
-  "source_commit": "92a8d93502af9be19d260e6fe8cb92b0e697a5da",
-  "workflow_run_id": "35131629801",
+  "source_commit": "3697301061a8955de55866266728db322a391448",
+  "workflow_run_id": "36759540369",
   "scope": "operational",
   "mode": "incremental",
   "status": "success",
@@ -192,14 +192,14 @@
         "financial": {
           "last_update": "2026-09-16T18:13:53.803555+00:00",
           "mode": "",
-          "status": "success",
-          "updated": true
-        },
-        "operational": {
-          "last_update": null,
-          "mode": "",
           "status": "skipped_by_scope",
           "updated": false
+        },
+        "operational": {
+          "last_update": "2026-09-30T18:46:14.392125+00:00",
+          "mode": "full",
+          "status": "success",
+          "updated": true
         }
       }
     },

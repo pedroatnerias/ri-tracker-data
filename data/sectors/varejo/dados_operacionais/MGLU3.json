@@ -1,0 +1,309 @@
+{
+  "schema_version": "retail_operational_v1",
+  "sector": "varejo",
+  "generated_at": "2026-09-30T18:46:04.880633+00:00",
+  "extractor_version": "retail_operational_v1",
+  "ticker": "MGLU3",
+  "companhia": "MAGAZINE LUIZA S.A.",
+  "companies_requested": 17,
+  "documents_processed": 36,
+  "metricas": {},
+  "observations": [],
+  "status": "unsupported_document",
+  "coverage_status": "not_found",
+  "discovery": {
+    "source_policy": "official_spreadsheet_then_official_pdf",
+    "documents_processed": [
+      "MGLU3_1T23_TRANSCRICAO_WEBCAST.md",
+      "MGLU3_1T25_DEMONSTRACOES_FINANCEIRAS.md",
+      "MGLU3_3T25_TRANSCRICAO_WEBCAST.md",
+      "MGLU3_3T23_DEMONSTRACOES_FINANCEIRAS.md",
+      "MGLU3_4T25_DEMONSTRACOES_FINANCEIRAS.md",
+      "MGLU3_3T22_DEMONSTRACOES_FINANCEIRAS.md",
+      "MGLU3_3T22_TRANSCRICAO_WEBCAST.md",
+      "MGLU3_4T22_TRANSCRICAO_WEBCAST.md",
+      "MGLU3_4T22_DEMONSTRACOES_FINANCEIRAS.md",
+      "MGLU3_1T24_DEMONSTRACOES_FINANCEIRAS.md",
+      "MGLU3_2T24_TRANSCRICAO_WEBCAST.md",
+      "MGLU3_2T26_TRANSCRICAO_WEBCAST.md",
+      "MGLU3_3T24_TRANSCRICAO_WEBCAST.md",
+      "MGLU3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+      "MGLU3_1T25_TRANSCRICAO_WEBCAST.md",
+      "MGLU3_3T23_TRANSCRICAO_WEBCAST.md",
+      "MGLU3_4T25_TRANSCRICAO_WEBCAST.md",
+      "MGLU3_2T22_TRANSCRICAO_WEBCAST.md",
+      "MGLU3_2T25_DEMONSTRACOES_FINANCEIRAS.md",
+      "MGLU3_1T26_TRANSCRICAO_WEBCAST.md",
+      "MGLU3_4T24_DEMONSTRACOES_FINANCEIRAS.md",
+      "MGLU3_4T23_DEMONSTRACOES_FINANCEIRAS.md",
+      "MGLU3_2T24_DEMONSTRACOES_FINANCEIRAS.md",
+      "MGLU3_1T23_DEMONSTRACOES_FINANCEIRAS.md",
+      "MGLU3_1T22_DEMONSTRACOES_FINANCEIRAS.md",
+      "MGLU3_4T24_TRANSCRICAO_WEBCAST.md",
+      "MGLU3_1T22_TRANSCRICAO_WEBCAST.md",
+      "MGLU3_2T25_TRANSCRICAO_WEBCAST.md",
+      "MGLU3_4T23_TRANSCRICAO_WEBCAST.md",
+      "MGLU3_2T23_TRANSCRICAO_WEBCAST.md",
+      "MGLU3_2T22_DEMONSTRACOES_FINANCEIRAS.md",
+      "MGLU3_2T23_DEMONSTRACOES_FINANCEIRAS.md",
+      "MGLU3_3T25_DEMONSTRACOES_FINANCEIRAS.md",
+      "MGLU3_1T24_TRANSCRICAO_WEBCAST.md",
+      "MGLU3_3T24_DEMONSTRACOES_FINANCEIRAS.md",
+      "MGLU3_1T26_DEMONSTRACOES_FINANCEIRAS.md"
+    ],
+    "document_diagnostics": [
+      {
+        "document": "MGLU3_1T23_TRANSCRICAO_WEBCAST.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_1T25_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_3T25_TRANSCRICAO_WEBCAST.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_3T23_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_4T25_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_3T22_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_3T22_TRANSCRICAO_WEBCAST.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_4T22_TRANSCRICAO_WEBCAST.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_4T22_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_1T24_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_2T24_TRANSCRICAO_WEBCAST.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_2T26_TRANSCRICAO_WEBCAST.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_3T24_TRANSCRICAO_WEBCAST.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_1T25_TRANSCRICAO_WEBCAST.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_3T23_TRANSCRICAO_WEBCAST.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_4T25_TRANSCRICAO_WEBCAST.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_2T22_TRANSCRICAO_WEBCAST.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_2T25_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_1T26_TRANSCRICAO_WEBCAST.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_4T24_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_4T23_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_2T24_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_1T23_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_1T22_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_4T24_TRANSCRICAO_WEBCAST.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_1T22_TRANSCRICAO_WEBCAST.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_2T25_TRANSCRICAO_WEBCAST.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_4T23_TRANSCRICAO_WEBCAST.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_2T23_TRANSCRICAO_WEBCAST.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_2T22_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_2T23_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_3T25_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_1T24_TRANSCRICAO_WEBCAST.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_3T24_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "MGLU3_1T26_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      }
+    ]
+  },
+  "calculation_metadata": {
+    "derived_observations": 0,
+    "diagnostics": []
+  },
+  "warnings": [
+    {
+      "metric": "Número de lojas",
+      "status": "not_found",
+      "message": "Indicador não divulgado ou sem extração confiável; o valor permanece nulo."
+    },
+    {
+      "metric": "Área total de vendas",
+      "status": "not_found",
+      "message": "Indicador não divulgado ou sem extração confiável; o valor permanece nulo."
+    },
+    {
+      "metric": "Receita física",
+      "status": "not_found",
+      "message": "Indicador não divulgado ou sem extração confiável; o valor permanece nulo."
+    },
+    {
+      "metric": "Receita digital",
+      "status": "not_found",
+      "message": "Indicador não divulgado ou sem extração confiável; o valor permanece nulo."
+    },
+    {
+      "metric": "Receita digital / receita total",
+      "status": "not_found",
+      "message": "Indicador não divulgado ou sem extração confiável; o valor permanece nulo."
+    },
+    {
+      "metric": "Receita física / área total de vendas",
+      "status": "not_found",
+      "message": "Indicador não divulgado ou sem extração confiável; o valor permanece nulo."
+    }
+  ]
+}

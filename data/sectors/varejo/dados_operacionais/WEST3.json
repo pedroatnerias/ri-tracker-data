@@ -1,0 +1,64 @@
+{
+  "schema_version": "retail_operational_v1",
+  "sector": "varejo",
+  "generated_at": "2026-09-30T18:46:06.888852+00:00",
+  "extractor_version": "retail_operational_v1",
+  "ticker": "WEST3",
+  "companhia": "WESTWING COMERCIO VAREJISTA S.A.",
+  "companies_requested": 17,
+  "documents_processed": 1,
+  "metricas": {},
+  "observations": [],
+  "status": "unsupported_document",
+  "coverage_status": "not_found",
+  "discovery": {
+    "source_policy": "official_spreadsheet_then_official_pdf",
+    "documents_processed": [
+      "WEST3_1T26_PLANILHA_RESULTADOS.md"
+    ],
+    "document_diagnostics": [
+      {
+        "document": "WEST3_1T26_PLANILHA_RESULTADOS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      }
+    ]
+  },
+  "calculation_metadata": {
+    "derived_observations": 0,
+    "diagnostics": []
+  },
+  "warnings": [
+    {
+      "metric": "Número de lojas",
+      "status": "not_found",
+      "message": "Indicador não divulgado ou sem extração confiável; o valor permanece nulo."
+    },
+    {
+      "metric": "Área total de vendas",
+      "status": "not_found",
+      "message": "Indicador não divulgado ou sem extração confiável; o valor permanece nulo."
+    },
+    {
+      "metric": "Receita física",
+      "status": "not_found",
+      "message": "Indicador não divulgado ou sem extração confiável; o valor permanece nulo."
+    },
+    {
+      "metric": "Receita digital",
+      "status": "not_found",
+      "message": "Indicador não divulgado ou sem extração confiável; o valor permanece nulo."
+    },
+    {
+      "metric": "Receita digital / receita total",
+      "status": "not_found",
+      "message": "Indicador não divulgado ou sem extração confiável; o valor permanece nulo."
+    },
+    {
+      "metric": "Receita física / área total de vendas",
+      "status": "not_found",
+      "message": "Indicador não divulgado ou sem extração confiável; o valor permanece nulo."
+    }
+  ]
+}

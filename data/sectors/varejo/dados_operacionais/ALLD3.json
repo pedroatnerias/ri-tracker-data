@@ -1,0 +1,110 @@
+{
+  "schema_version": "retail_operational_v1",
+  "sector": "varejo",
+  "generated_at": "2026-09-30T18:45:57.820851+00:00",
+  "extractor_version": "retail_operational_v1",
+  "ticker": "ALLD3",
+  "companhia": "ALLIED TECNOLOGIA S.A.",
+  "companies_requested": 17,
+  "documents_processed": 6,
+  "metricas": {},
+  "observations": [],
+  "status": "unsupported_document",
+  "coverage_status": "not_found",
+  "discovery": {
+    "source_policy": "official_spreadsheet_then_official_pdf",
+    "documents_processed": [
+      "ALLD3_4T26_PLANILHA_RESULTADOS.xlsx",
+      "ALLD3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+      "ALLD3_1T26_DEMONSTRACOES_FINANCEIRAS.md",
+      "ALLD3_1T26_APRESENTACAO_RESULTADOS.md",
+      "ALLD3_4T24_DEMONSTRACOES_FINANCEIRAS.md",
+      "ALLD3_1T26_RELEASE_RESULTADOS.md"
+    ],
+    "document_diagnostics": [
+      {
+        "document": "ALLD3_4T26_PLANILHA_RESULTADOS.xlsx",
+        "source_type": "official_spreadsheet",
+        "status": "no_matching_observations",
+        "observations": 0,
+        "sheets": [
+          "Indice",
+          "DRE",
+          "FC Gerencial",
+          "Balanço",
+          "Canais de venda",
+          "Endividamento",
+          "Indicadores Operacionais"
+        ],
+        "formula_cells": 1452,
+        "formula_cache_limitation": "openpyxl nao recalcula formulas; somente valores armazenados no arquivo podem ser extraidos"
+      },
+      {
+        "document": "ALLD3_2T26_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "ALLD3_1T26_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "ALLD3_1T26_APRESENTACAO_RESULTADOS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "ALLD3_4T24_DEMONSTRACOES_FINANCEIRAS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      },
+      {
+        "document": "ALLD3_1T26_RELEASE_RESULTADOS.md",
+        "source_type": "official_pdf_markdown",
+        "status": "no_matching_observations",
+        "observations": 0
+      }
+    ]
+  },
+  "calculation_metadata": {
+    "derived_observations": 0,
+    "diagnostics": []
+  },
+  "warnings": [
+    {
+      "metric": "Número de lojas",
+      "status": "not_found",
+      "message": "Indicador não divulgado ou sem extração confiável; o valor permanece nulo."
+    },
+    {
+      "metric": "Área total de vendas",
+      "status": "not_found",
+      "message": "Indicador não divulgado ou sem extração confiável; o valor permanece nulo."
+    },
+    {
+      "metric": "Receita física",
+      "status": "not_found",
+      "message": "Indicador não divulgado ou sem extração confiável; o valor permanece nulo."
+    },
+    {
+      "metric": "Receita digital",
+      "status": "not_found",
+      "message": "Indicador não divulgado ou sem extração confiável; o valor permanece nulo."
+    },
+    {
+      "metric": "Receita digital / receita total",
+      "status": "not_found",
+      "message": "Indicador não divulgado ou sem extração confiável; o valor permanece nulo."
+    },
+    {
+      "metric": "Receita física / área total de vendas",
+      "status": "not_found",
+      "message": "Indicador não divulgado ou sem extração confiável; o valor permanece nulo."
+    }
+  ]
+}

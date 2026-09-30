@@ -586,7 +586,25 @@
         "indicadores": "indicadores.json",
         "reconciliacao": "relatorio_reconciliacao.json"
       },
-      "operational_jsons": [],
+      "operational_jsons": [
+        "dados_operacionais/ALLD3.json",
+        "dados_operacionais/AMAR3.json",
+        "dados_operacionais/AMER3.json",
+        "dados_operacionais/AUAU3.json",
+        "dados_operacionais/BHIA3.json",
+        "dados_operacionais/CEAB3.json",
+        "dados_operacionais/CGRA3.json",
+        "dados_operacionais/LJQQ3.json",
+        "dados_operacionais/LREN3.json",
+        "dados_operacionais/MGLU3.json",
+        "dados_operacionais/RIAA3.json",
+        "dados_operacionais/SBFG3.json",
+        "dados_operacionais/TFCO4.json",
+        "dados_operacionais/TOKY3.json",
+        "dados_operacionais/VSTE3.json",
+        "dados_operacionais/WEST3.json",
+        "dados_operacionais/WHRL3.json"
+      ],
       "charts": {
         "individual": {
           "ALLD3": {
@@ -827,7 +845,7 @@
           "retorno_preco_setorial_90d": "charts/comparison/retorno_preco_setorial_90d.png"
         }
       },
-      "data_version": "92a8d93502af9be19d260e6fe8cb92b0e697a5da",
+      "data_version": "3697301061a8955de55866266728db322a391448",
       "tracking": {
         "run_id": "34627191368",
         "sector": "varejo",
@@ -1071,5 +1089,5 @@
       }
     }
   },
-  "data_version": "92a8d93502af9be19d260e6fe8cb92b0e697a5da"
+  "data_version": "3697301061a8955de55866266728db322a391448"
 }
